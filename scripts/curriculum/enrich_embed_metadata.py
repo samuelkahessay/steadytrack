@@ -190,7 +190,7 @@ def enrich_resource(resource: Dict) -> Dict:
 
         # Ensure embed URL is present
         if not enriched.get("embedUrl"):
-            origin = "https://steadytrack.vercel.app"
+            origin = "http://localhost:3000"
             enriched["embedUrl"] = (
                 f"https://www.youtube-nocookie.com/embed/{existing_youtube_id}"
                 f"?enablejsapi=1&origin={origin}&modestbranding=1&rel=0"
@@ -215,7 +215,7 @@ def enrich_resource(resource: Dict) -> Dict:
     if youtube_id:
         enriched["youtubeId"] = youtube_id
         # If we have a YouTube ID, generate the embed URL
-        origin = "https://steadytrack.vercel.app"  # Update with actual domain
+        origin = "http://localhost:3000"  # Update with actual domain
         enriched["embedUrl"] = (
             f"https://www.youtube-nocookie.com/embed/{youtube_id}"
             f"?enablejsapi=1&origin={origin}&modestbranding=1&rel=0"

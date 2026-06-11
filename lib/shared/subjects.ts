@@ -14,12 +14,12 @@
  * Complete bidirectional mapping for all 12 Alberta curriculum subjects.
  *
  * Key format: UI name (shown to user)
- * Value format: Database name (stored in Supabase)
+ * Value format: content-store name.
  */
 const SUBJECT_MAPPINGS = {
   'Math 20-1': 'Mathematics 20-1',
   // Note: Database inconsistency - Math 20-1 is stored as "Mathematics 20-1" but Math 30-1 is stored as "Math 30-1"
-  // This mapping reflects the actual database values. TODO: Consider normalizing database to use "Mathematics" for both.
+  // This mapping reflects the content-store values.
   'Math 30-1': 'Math 30-1',
   'Biology 20': 'Biology 20',
   'Biology 30': 'Biology 30',

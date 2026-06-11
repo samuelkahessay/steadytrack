@@ -15,7 +15,7 @@ import { getDemoCardsBySubject } from '@/lib/demo/microcards';
  */
 export const GET = withApiRateLimit(
   { ...RateLimitPresets.MODERATE, prefix: 'microcards' },
-  async (request: NextRequest, { supabase }) => {
+  async (request: NextRequest, { content }) => {
     try {
       // Parse query parameters
       const { searchParams } = new URL(request.url);
@@ -53,15 +53,14 @@ export const GET = withApiRateLimit(
         ? unitsParam.split(',').map(u => u.trim()).filter(u => u.length > 0)
         : undefined;
 
-      // Try Supabase first, fall back to demo data if unavailable
+      // Query the local content adapter first, fall back to demo data if unavailable.
       try {
-        // Validate Supabase client
-        if (!supabase) {
-          throw new Error('Supabase client not initialized');
+        if (!content) {
+          throw new Error('Content client not initialized');
         }
 
         // Build query
-        let query = supabase
+        let query = content
           .from('content_microcards')
           .select('*')
           .in('subject', normalizedSubjects)

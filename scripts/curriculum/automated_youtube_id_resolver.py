@@ -289,7 +289,7 @@ def apply_mappings_to_curriculum():
                         resource['youtubeId'] = youtube_id
 
                         # Generate embed URL
-                        origin = "https://steadytrack.vercel.app"
+                        origin = "http://localhost:3000"
                         resource['embedUrl'] = (
                             f"https://www.youtube-nocookie.com/embed/{youtube_id}"
                             f"?enablejsapi=1&origin={origin}&modestbranding=1&rel=0"

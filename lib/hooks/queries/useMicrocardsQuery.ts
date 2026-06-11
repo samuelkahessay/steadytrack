@@ -28,7 +28,7 @@
  */
 
 import { useQuery } from '@tanstack/react-query';
-import { getSupabaseClient } from '@/lib/supabase/client';
+import { getContentClient } from '@/lib/content/client';
 import { queryKeys } from '@/lib/query/keys';
 import type { ContentMicrocard } from '@/lib/types';
 
@@ -49,7 +49,7 @@ export function useMicrocardsQuery(
   outcomeCodes: string[],
   options?: UseMicrocardsQueryOptions
 ) {
-  const supabase = getSupabaseClient();
+  const content = getContentClient();
 
   return useQuery<ContentMicrocard[], Error>({
     queryKey: queryKeys.microcards.batch(subject, outcomeCodes),
@@ -58,7 +58,7 @@ export function useMicrocardsQuery(
         return [];
       }
 
-      const { data, error } = await supabase
+      const { data, error } = await content
         .from('content_microcards')
         .select('*')
         .eq('subject', subject)

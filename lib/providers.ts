@@ -29,7 +29,7 @@ export interface ResourceMetadata {
 }
 
 // Always use dynamic origin at runtime to ensure YouTube embed URLs work correctly
-// across all domains (localhost, vercel.app, custom domain)
+// across local and deployed domains.
 const ORIGIN = typeof window !== 'undefined' ? window.location.origin : '';
 
 /**
@@ -198,7 +198,7 @@ export function buildEmbedUrl(url: string, metadata?: ResourceMetadata): string 
   const provider = getProvider(url, metadata);
 
   // For YouTube/Khan Academy, ALWAYS generate URL dynamically to ensure correct origin
-  // Pre-generated embedUrl in metadata may have wrong origin (e.g., vercel.app vs custom domain)
+  // Pre-generated embedUrl in metadata may have the wrong origin for the current host.
   if (provider?.id === 'youtube' || provider?.id === 'khan-academy') {
     return provider.buildEmbedUrl(url, metadata);
   }

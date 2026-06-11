@@ -1,9 +1,9 @@
 /**
- * Demo Microcards - Fallback data for when Supabase is unavailable
+ * Demo Microcards - Fallback data for the local content adapter
  *
  * This module provides demo microcard data for:
  * - Local development without database
- * - Fallback when Supabase RPC fails
+ * - Fallback when the local SQLite adapter is unavailable
  * - Testing and demos
  */
 
@@ -48,7 +48,7 @@ export function getDemoSubjectCounts(): { subject: string; cardCount: number }[]
 
 /**
  * Get random demo cards for given subjects
- * Mimics the Supabase RPC get_random_infinite_cards function
+ * Mimics the local random-card helper
  */
 export function getRandomDemoCards(
   subjects: string[],

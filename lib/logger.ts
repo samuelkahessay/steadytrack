@@ -1,5 +1,5 @@
 /**
- * Production-safe logging utility with PII scrubbing and Sentry integration
+ * Local-first logging utility with PII scrubbing
  *
  * Usage:
  *   import { logger } from '@/lib/logger';
@@ -68,55 +68,27 @@ export const logger = {
     if (!isProduction) {
       console.log(`[INFO] ${message}`, context || '');
     }
-    // In production: silent (or send to analytics if needed)
+    // In production: silent by default for routine informational logs.
   },
 
   /**
-   * Warning messages - sent to Sentry in production
+   * Warning messages
    */
   warn(message: string, context?: LogContext): void {
     const scrubbedContext = scrubPII(context);
 
-    if (isProduction) {
-      // Will be integrated with Sentry
-      if (typeof window !== 'undefined') {
-        const globalWindow = window as typeof window & { Sentry?: { captureMessage: (msg: string, opts: unknown) => void } };
-        if (globalWindow.Sentry) {
-          globalWindow.Sentry.captureMessage(message, {
-            level: 'warning',
-            contexts: { custom: scrubbedContext },
-          });
-        }
-      }
-    } else {
+    if (!isProduction) {
       console.warn(`[WARN] ${message}`, scrubbedContext || '');
     }
   },
 
   /**
-   * Error messages - always captured in Sentry (production)
+   * Error messages
    */
   error(message: string, error?: Error | unknown, context?: LogContext): void {
     const scrubbedContext = scrubPII(context);
 
-    if (isProduction) {
-      // Sentry integration (works in browser and server)
-      if (typeof window !== 'undefined') {
-        const globalWindow = window as typeof window & { Sentry?: { captureException: (err: unknown, opts: unknown) => void } };
-        if (globalWindow.Sentry) {
-          globalWindow.Sentry.captureException(error || new Error(message), {
-            contexts: { custom: scrubbedContext },
-          });
-        }
-      } else if (typeof global !== 'undefined') {
-        const globalNode = global as typeof global & { Sentry?: { captureException: (err: unknown, opts: unknown) => void } };
-        if (globalNode.Sentry) {
-          globalNode.Sentry.captureException(error || new Error(message), {
-            contexts: { custom: scrubbedContext },
-          });
-        }
-      }
-    } else {
+    if (!isProduction) {
       console.error(`[ERROR] ${message}`, error || '', scrubbedContext || '');
     }
   },
@@ -133,7 +105,6 @@ export const logger = {
 
 /**
  * Server-side logger for API routes and server components
- * Uses direct Sentry import when available
  */
 export const serverLogger = {
   info(message: string, context?: LogContext): void {
@@ -147,19 +118,7 @@ export const serverLogger = {
   error(message: string, error?: Error | unknown, context?: LogContext): void {
     const scrubbedContext = scrubPII(context);
 
-    if (isProduction) {
-      try {
-        // Dynamic import for server-side Sentry
-        // eslint-disable-next-line @typescript-eslint/no-require-imports
-        const Sentry = require('@sentry/nextjs') as { captureException: (err: unknown, opts: unknown) => void };
-        Sentry.captureException(error || new Error(message), {
-          contexts: { custom: scrubbedContext },
-        });
-      } catch {
-        // Sentry not available yet - fallback to console
-        console.error(`[ERROR] ${message}`, error || '', scrubbedContext || '');
-      }
-    } else {
+    if (!isProduction) {
       console.error(`[ERROR] ${message}`, error || '', scrubbedContext || '');
     }
   },

@@ -406,7 +406,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "ZcZQsj6YAgU",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/ZcZQsj6YAgU?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/ZcZQsj6YAgU?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "video",
@@ -2061,7 +2061,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "2GQTfpDE9DQ",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/2GQTfpDE9DQ?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/2GQTfpDE9DQ?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "video",
@@ -2899,7 +2899,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "yU--8Zk57-Y",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/yU--8Zk57-Y?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/yU--8Zk57-Y?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "video",
@@ -2911,7 +2911,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "xxZenoBs2Pg",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/xxZenoBs2Pg?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/xxZenoBs2Pg?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "article",
@@ -3070,7 +3070,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "1xSQlwWGT8M",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/1xSQlwWGT8M?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/1xSQlwWGT8M?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "video",

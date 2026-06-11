@@ -692,7 +692,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "UMXSNjjUVt4",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/UMXSNjjUVt4?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/UMXSNjjUVt4?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "article",
@@ -1956,7 +1956,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "cvi4IJMZ13Q",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/cvi4IJMZ13Q?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/cvi4IJMZ13Q?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "video",
@@ -1971,7 +1971,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "bmjg7lq4m4o",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/bmjg7lq4m4o?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/bmjg7lq4m4o?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "article",

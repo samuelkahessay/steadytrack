@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { getSupabaseClient } from '@/lib/supabase/client';
+import { getContentClient } from '@/lib/content/client';
 import type { ContentMicrocard } from '@/lib/types';
 
 interface UseMicrocardsResult {
@@ -21,11 +21,11 @@ export function useMicrocards(
   outcomeCodes: string[]
 ): UseMicrocardsResult {
   // Lazy initialization: only create client on first access
-  const supabaseRef = useRef<ReturnType<typeof getSupabaseClient> | undefined>(undefined);
-  if (!supabaseRef.current) {
-    supabaseRef.current = getSupabaseClient();
+  const contentRef = useRef<ReturnType<typeof getContentClient> | undefined>(undefined);
+  if (!contentRef.current) {
+    contentRef.current = getContentClient();
   }
-  const supabase = supabaseRef.current;
+  const content = contentRef.current;
 
   const [microcards, setMicrocards] = useState<ContentMicrocard[]>([]);
   const [loading, setLoading] = useState(true);
@@ -58,7 +58,7 @@ export function useMicrocards(
         setLoading(true);
         setError(null);
 
-        const { data, error: fetchError } = await supabase
+        const { data, error: fetchError } = await content
           .from('content_microcards')
           .select('*')
           .eq('subject', subject)
@@ -89,7 +89,7 @@ export function useMicrocards(
     return () => {
       cancelled = true;
     };
-  }, [subject, outcomeCodesKey, supabase]);
+  }, [subject, outcomeCodesKey, content]);
 
   return { microcards, loading, error };
 }

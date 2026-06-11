@@ -4,25 +4,23 @@
  * Pure TypeScript functions for progress calculations that can be used
  * by both server and client code. These functions have no database dependencies.
  *
- * These functions centralize the business logic that was previously duplicated
- * across database RPC functions and client-side code (GuestPlanContext).
+ * These functions centralize progress logic that can run without a hosted
+ * database.
  *
  * ## Architecture Notes
  *
- * **SQL vs TypeScript Implementation:**
- * - SQL functions in `supabase/migrations/` (e.g., `mark_unit_complete`, `count_missed_study_days`)
- *   are the source of truth for database operations and use PL/pgSQL
- * - TypeScript functions here mirror that logic for client/server code and testing
- * - Both implementations must be kept in sync manually
+ * **Implementation Notes:**
+ * - Browser-owned progress state lives under `lib/storage/`
+ * - TypeScript functions here mirror the old product math for client/server code and testing
  * - Comprehensive test coverage in `__tests__/progress-calculations.test.ts` helps ensure consistency
  *
  * **Usage:**
- * - Server components: Import from `@/lib/services/progress` for data-fetching helpers
+ * - Server components: Import from `@/lib/services/progress` for archive-safe helpers
  * - Client components: Import from `@/lib/services/progress-calculations` for pure calculations
  * - Mutations: Use `detectProgressMilestone()` from `useProgressMutation` for client-side milestone detection
  * - Guest mode: `GuestPlanContext` uses `calculateStreakFromDates()` for weekend-aware streaks
  *
- * @see lib/services/progress.ts - Server-side progress service with database access
+ * @see lib/services/progress.ts - Archive-safe server-side progress helpers
  * @see lib/hooks/queries/mutations/useProgressMutation.ts - React Query mutations with milestone detection
  * @see contexts/GuestPlanContext.tsx - Guest mode implementation using streak calculations
  */

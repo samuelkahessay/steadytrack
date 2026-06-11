@@ -1,8 +1,6 @@
 import 'server-only';
-import { getServerClient } from '@/lib/supabase/server';
 import type { WeeklySummaryStats, StudyStreak, UserProgress } from '@/lib/types';
 import {
-  calculateProgressPercentage,
   calculateWeeklySummaryStats,
   calculateStreakFromDates,
   countMissedStudyDays,
@@ -68,76 +66,18 @@ export async function calculateOverallProgress(
   userId: string,
   planId: string
 ): Promise<{ data: ProgressData | null; error: string | null }> {
-  try {
-    const supabase = await getServerClient();
+  void userId;
+  void planId;
 
-    // Get the plan schedule
-    const { data: plan, error: planError } = await supabase
-      .from('study_plans')
-      .select('id, schedule, total_units')
-      .eq('id', planId)
-      .eq('user_id', userId)
-      .single();
-
-    if (planError || !plan) {
-      return { data: null, error: 'Plan not found' };
-    }
-
-    // Get completed progress records
-    const { data: progressRecords, error: progressError } = await supabase
-      .from('user_progress')
-      .select('subject, unit_id, completed')
-      .eq('user_id', userId)
-      .eq('plan_id', planId)
-      .eq('completed', true);
-
-    if (progressError) {
-      return { data: null, error: progressError.message };
-    }
-
-    const completedCount = progressRecords?.length || 0;
-    const totalUnits = plan.total_units || 0;
-    const overall = calculateProgressPercentage(completedCount, totalUnits);
-
-    // Calculate by-subject breakdown
-    const bySubject: Record<string, SubjectProgress> = {};
-    const schedule = plan.schedule as { days?: Array<{ units?: { subject: string; unitId: string }[] }> };
-    const allUnits = (schedule?.days ?? []).flatMap((d) => d?.units ?? []);
-
-    // Count total units per subject
-    for (const unit of allUnits) {
-      if (!bySubject[unit.subject]) {
-        bySubject[unit.subject] = { completed: 0, total: 0, percentage: 0 };
-      }
-      bySubject[unit.subject].total++;
-    }
-
-    // Count completed units per subject
-    for (const record of progressRecords || []) {
-      if (bySubject[record.subject]) {
-        bySubject[record.subject].completed++;
-      }
-    }
-
-    // Calculate percentages
-    for (const subject in bySubject) {
-      const { completed, total } = bySubject[subject];
-      bySubject[subject].percentage = calculateProgressPercentage(completed, total);
-    }
-
-    return {
-      data: {
-        overall,
-        bySubject,
-        completedCount,
-        totalUnits,
-      },
-      error: null,
-    };
-  } catch (error) {
-    console.error('Calculate overall progress error:', error);
-    return { data: null, error: 'Failed to calculate progress' };
-  }
+  return {
+    data: {
+      overall: 0,
+      bySubject: {},
+      completedCount: 0,
+      totalUnits: 0,
+    },
+    error: null,
+  };
 }
 
 /**
@@ -149,36 +89,10 @@ export async function calculateOverallProgress(
 export async function getWeeklySummary(
   userId: string
 ): Promise<{ data: WeeklySummaryStats | null; error: string | null }> {
-  try {
-    const supabase = await getServerClient();
+  void userId;
 
-    const sevenDaysAgo = new Date();
-    sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
-
-    const { data: recentProgress, error } = await supabase
-      .from('user_progress')
-      .select('completed_at, completed')
-      .eq('user_id', userId)
-      .eq('completed', true)
-      .gte('completed_at', sevenDaysAgo.toISOString());
-
-    if (error) {
-      return { data: null, error: error.message };
-    }
-
-    // Use the pure calculation function
-    const summary = calculateWeeklySummaryStats(
-      (recentProgress || []) as unknown as Pick<UserProgress, 'completed_at' | 'completed'>[]
-    );
-
-    return {
-      data: summary,
-      error: null,
-    };
-  } catch (error) {
-    console.error('Get weekly summary error:', error);
-    return { data: null, error: 'Failed to fetch weekly summary' };
-  }
+  const summary = calculateWeeklySummaryStats([]);
+  return { data: summary, error: null };
 }
 
 /**
@@ -190,28 +104,8 @@ export async function getWeeklySummary(
 export async function getStreak(
   userId: string
 ): Promise<{ data: StudyStreak | null; error: string | null }> {
-  try {
-    const supabase = await getServerClient();
-
-    const { data: streak, error } = await supabase
-      .from('study_streaks')
-      .select('*')
-      .eq('user_id', userId)
-      .single();
-
-    if (error) {
-      // User might not have a streak yet
-      if (error.code === 'PGRST116') {
-        return { data: null, error: null };
-      }
-      return { data: null, error: error.message };
-    }
-
-    return { data: streak as unknown as StudyStreak | null, error: null };
-  } catch (error) {
-    console.error('Get streak error:', error);
-    return { data: null, error: 'Failed to fetch streak' };
-  }
+  void userId;
+  return { data: null, error: null };
 }
 
 /**
@@ -228,14 +122,8 @@ export async function getStreak(
  *
  * @example
  * ```ts
- * const { data: progress } = await supabase
- *   .from('user_progress')
- *   .select('*')
- *   .eq('user_id', userId)
- *   .eq('completed', true);
- *
  * const streakStats = calculateStreakFromProgress(
- *   progress,
+ *   localProgressRecords,
  *   plan.includes_weekends
  * );
  * console.log(`Current streak: ${streakStats.currentStreak} days`);

@@ -15,7 +15,7 @@ import { serverLogger } from '@/lib/logger';
  */
 export const POST = withApiRateLimit(
   { ...RateLimitPresets.MODERATE, prefix: 'contribute' },
-  async (request: NextRequest, { supabase }) => {
+  async (request: NextRequest, { content }) => {
     try {
       // Parse request body
       const body = await request.json();
@@ -64,8 +64,8 @@ export const POST = withApiRateLimit(
         }
       }
 
-      // Insert contributor signup into database
-      const { error } = await supabase.from('contributor_signups').insert({
+      // Store contributor signup in the local archive database
+      const { error } = await content.from('contributor_signups').insert({
         name: name.trim(),
         email: email.trim().toLowerCase(),
         interest_areas: interestAreas,

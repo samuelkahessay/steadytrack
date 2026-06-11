@@ -1,15 +1,14 @@
-Contact: mailto:security@steadytrack.ca
+Contact: mailto:contact@steadytrack.ca
 Expires: 2026-12-31T23:59:59.000Z
 Preferred-Languages: en
-Canonical: https://steadytrack.ca/.well-known/security.txt
 
 # Security Policy
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in SteadyTrack, please report it responsibly:
+If you discover a security issue in this public archive, please report it responsibly:
 
-1. **Email**: security@steadytrack.ca
+1. **Email**: contact@steadytrack.ca
 2. **Subject**: Include "[SECURITY]" in the subject line
 3. **Details**: Provide as much information as possible:
    - Description of the vulnerability
@@ -25,10 +24,8 @@ If you discover a security vulnerability in SteadyTrack, please report it respon
 
 ## Scope
 
-This security policy applies to:
-- https://steadytrack.ca (production)
-- https://steadytrack.vercel.app (production)
-- All associated API endpoints
+This security policy applies to the public open-source archive repository and
+the default local runtime.
 
 Out of scope:
 - Social engineering attacks
@@ -41,4 +38,4 @@ We currently do not offer a bug bounty program, but we deeply appreciate
 responsible disclosure and will publicly acknowledge contributors (with
 permission) in our security advisories.
 
-Thank you for helping keep SteadyTrack and our users safe!
+Thank you for helping keep the archive useful and safe for learners.

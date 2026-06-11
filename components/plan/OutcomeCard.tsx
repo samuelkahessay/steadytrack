@@ -1,7 +1,7 @@
 'use client';
 
 import { useQuery } from '@tanstack/react-query';
-import { getSupabaseClient } from '@/lib/supabase/client';
+import { getContentClient } from '@/lib/content/client';
 import { ResourceItem } from './ResourceItem';
 import type { LearningOutcome } from '@/types/database';
 
@@ -16,7 +16,7 @@ interface OutcomeCardProps {
  * OutcomeCard - Renders a single learning outcome
  *
  * Displays either:
- * 1. Microcard (interactive quiz) if available in database
+ * 1. Microcard (interactive quiz) if available locally
  * 2. Fallback resources from curriculum if no microcard
  *
  * Shows "Supplemental Content" badge for synthetic outcomes
@@ -32,8 +32,8 @@ export function OutcomeCard({
   const { data: microcard, isLoading } = useQuery({
     queryKey: ['microcard', outcome.outcomeCode],
     queryFn: async () => {
-      const supabase = getSupabaseClient();
-      const { data, error } = await supabase
+      const content = getContentClient();
+      const { data, error } = await content
         .from('content_microcards')
         .select('*')
         .eq('outcome_code', outcome.outcomeCode)

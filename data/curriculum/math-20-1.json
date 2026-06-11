@@ -88,7 +88,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "99v51U3HSCU",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/99v51U3HSCU?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/99v51U3HSCU?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "video",
@@ -105,7 +105,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "i7idZfS8t8w",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/i7idZfS8t8w?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/i7idZfS8t8w?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "article",
@@ -393,7 +393,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "7Uos1ED3KHI",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/7Uos1ED3KHI?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/7Uos1ED3KHI?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "article",
@@ -601,7 +601,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "VjmFKle7xIw",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/VjmFKle7xIw?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/VjmFKle7xIw?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "article",
@@ -698,7 +698,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "_cooC3yG_p0",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/_cooC3yG_p0?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/_cooC3yG_p0?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "video",
@@ -713,7 +713,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "pXo0bG4iAyg",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/pXo0bG4iAyg?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/pXo0bG4iAyg?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "article",

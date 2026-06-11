@@ -1,17 +1,17 @@
 import 'server-only';
 import { NextRequest, NextResponse } from 'next/server';
-import { getServerClient } from '@/lib/supabase/server';
+import { getServerContentClient } from '@/lib/content/server';
 import { withRateLimit, RateLimitConfig, RateLimitPresets } from '@/lib/ratelimit';
 import { serverLogger } from '@/lib/logger';
 
 // Use the return type from our server client factory
-type ServerClient = ReturnType<typeof getServerClient>;
+type ServerContentClient = ReturnType<typeof getServerContentClient>;
 
 /**
- * API context passed to handlers (no auth, just Supabase for content)
+ * API context passed to handlers.
  */
 export interface ApiContext {
-  supabase: ServerClient;
+  content: ServerContentClient;
 }
 
 /**
@@ -23,16 +23,16 @@ export type ApiHandler = (
 ) => Promise<NextResponse>;
 
 /**
- * Wraps an API handler with Supabase client (anonymous, for content access)
+ * Wraps an API handler with the local content client.
  *
  * @param handler - API handler function
  * @returns Wrapped handler
  *
  * @example
  * ```ts
- * export const GET = withApi(async (request, { supabase }) => {
- *   // Anonymous read access to content
- *   const { data, error } = await supabase
+ * export const GET = withApi(async (request, { content }) => {
+ *   // Local read access to content
+ *   const { data, error } = await content
  *     .from('content_microcards')
  *     .select('*')
  *     .eq('subject', 'math');
@@ -50,8 +50,8 @@ export function withApi(
 ): (request: NextRequest) => Promise<NextResponse> {
   return async (request: NextRequest): Promise<NextResponse> => {
     try {
-      const supabase = getServerClient();
-      return handler(request, { supabase });
+      const content = getServerContentClient();
+      return handler(request, { content });
     } catch (error) {
       serverLogger.error(
         'API wrapper error',
@@ -78,7 +78,7 @@ export function withApi(
  * // Using a preset
  * export const POST = withApiRateLimit(
  *   { ...RateLimitPresets.STRICT, prefix: 'plan-create' },
- *   async (request, { supabase }) => {
+ *   async (request, { content }) => {
  *     // Handler logic...
  *     return NextResponse.json({ success: true });
  *   }
@@ -91,11 +91,11 @@ export function withApiRateLimit(
 ): (request: NextRequest) => Promise<NextResponse> {
   return async (request: NextRequest): Promise<NextResponse> => {
     try {
-      const supabase = getServerClient();
+      const content = getServerContentClient();
 
-      // Create handler with Supabase context
+      // Create handler with local content context
       const apiHandler = async (req: NextRequest) => {
-        return handler(req, { supabase });
+        return handler(req, { content });
       };
 
       // Wrap with IP-based rate limiting

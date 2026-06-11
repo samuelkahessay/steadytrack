@@ -1,10 +1,10 @@
 # SteadyTrack Archive
 
-SteadyTrack was a local-first study tracker built during the Alberta teacher strike window to help high-school students keep momentum while classes were disrupted.
+SteadyTrack is an archived local-first study tracker for Alberta high-school students. This public snapshot is meant to be downloaded, run locally, inspected, and reused as a learning project.
 
-This public snapshot is archived. It is designed to run locally without Supabase, Vercel, or private credentials.
+No hosted database, deployment account, analytics service, or private credential is required.
 
-## Local Runtime
+## Run Locally
 
 ```bash
 npm install
@@ -13,36 +13,37 @@ npm run dev
 
 Open `http://localhost:3000`.
 
-The open-source version uses:
+On first run the server creates `.local/steadytrack.sqlite` and seeds it from `data/demo-microcards.json`. Delete that SQLite file and restart the dev server to rebuild the local content database.
 
-- localStorage for study plans, streaks, settings, and progress
-- `.local/steadytrack.sqlite` for local content cards, feedback, and contributor-signup submissions
-- checked-in curriculum JSON under `data/curriculum/`
-- checked-in demo microcards under `data/demo-microcards.json`
+## Useful Checks
 
-On first run, the server creates `.local/steadytrack.sqlite` and seeds it from the demo microcard JSON. Delete that file and restart the dev server to rebuild the local database.
+```bash
+npm test
+npm run lint
+npm run build
+```
 
-## What Was Live
+`npm run build` works without hosted-service credentials.
 
-The live version used:
-
-- Next.js on Vercel
-- Supabase for content tables and anonymous feedback/submission storage
-- localStorage for student-owned study progress
-- Sentry and Vercel Analytics for operational visibility
-
-Those cloud services are not required for this archived snapshot. The local database exists so the product can be inspected, tested, and screenshotted without exposing production infrastructure.
-
-## Repository Shape
+## How The Snapshot Works
 
 - `app/` - Next.js App Router pages and API routes
-- `components/` - UI, dashboard, plan, and landing components
-- `lib/storage/` - localStorage adapters for progress and plans
-- `lib/local-db/` - local SQLite adapter for the archived runtime
-- `data/curriculum/` - final curriculum JSON used by the app
-- `data/demo-microcards.json` - seed content for local learning cards
-- `docs/` - historical architecture and planning notes
+- `components/` - landing, dashboard, study plan, curriculum, and microcard UI
+- `lib/storage/` - browser `localStorage` adapters for plans, progress, streaks, settings, and activity
+- `lib/local-db/` - local SQLite adapter used by server API routes
+- `lib/content/` - small client/server facade over the local content adapter
+- `data/curriculum/` - checked-in Alberta curriculum JSON
+- `data/demo-microcards.json` - local seed cards for the learning mode
+- `docs/` - concise architecture and data notes for learners
 
-## Archive Status
+## Learn From It
 
-Shipped during the 2025 Alberta teacher strike window. Public app retired; code released as an inspectable case-study artifact.
+This repo is useful if you want to study:
+
+- a local-first product architecture in Next.js
+- browser-owned progress state with SSR-safe storage wrappers
+- a lightweight local database adapter that mimics a hosted content table
+- curriculum data modeling for units, outcomes, resources, and study cards
+- how to preserve a retired product as a runnable case study
+
+The original live service is retired. This archive keeps the product inspectable without carrying private runbooks, production migrations, or cloud setup instructions.

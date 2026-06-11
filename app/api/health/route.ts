@@ -1,11 +1,11 @@
 import { NextResponse } from 'next/server';
-import { getServerClient } from '@/lib/supabase/server';
+import { getServerContentClient } from '@/lib/content/server';
 
 export async function GET() {
   const startTime = Date.now();
 
   try {
-    const client = getServerClient();
+    const client = getServerContentClient();
     const { data, error } = await client
       .from('content_microcards')
       .select('subject')

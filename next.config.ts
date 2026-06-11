@@ -1,4 +1,3 @@
-import { withSentryConfig } from '@sentry/nextjs';
 import path from 'path';
 import type { NextConfig } from "next";
 
@@ -50,15 +49,13 @@ const nextConfig: NextConfig = {
     const baselineCSP = [
       "default-src 'self'",
       // Allow inline scripts and eval in dev for Next.js hot reload
-      // Include Vercel Analytics in development
       isProduction
         ? "script-src 'self' 'unsafe-inline'"
-        : "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://va.vercel-scripts.com",
+        : "script-src 'self' 'unsafe-inline' 'unsafe-eval'",
       "style-src 'self' 'unsafe-inline'",
       "img-src 'self' data: https: blob:",
       "font-src 'self' data:",
-      // Supabase connection (Sentry /monitoring is covered by 'self')
-      `connect-src 'self' ${process.env.NEXT_PUBLIC_SUPABASE_URL || ''}`,
+      "connect-src 'self'",
       "frame-ancestors 'self'",
       "worker-src 'self' blob:",
     ].join('; ');
@@ -85,15 +82,13 @@ const nextConfig: NextConfig = {
             value: [
               "default-src 'self'",
               // Study mode needs unsafe-eval/unsafe-inline for embedded content
-              // Include Vercel Analytics in development
               isProduction
                 ? "script-src 'self' 'unsafe-inline' https://www.youtube.com"
-                : "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.youtube.com https://va.vercel-scripts.com",
+                : "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.youtube.com",
               "style-src 'self' 'unsafe-inline'",
               "img-src 'self' data: https: blob:",
               "font-src 'self' data:",
-              // Include YouTube and Supabase (Sentry /monitoring is covered by 'self')
-              `connect-src 'self' ${process.env.NEXT_PUBLIC_SUPABASE_URL || ''} https://www.youtube.com https://www.youtube-nocookie.com`,
+              "connect-src 'self' https://www.youtube.com https://www.youtube-nocookie.com",
               // YouTube and Khan Academy iframes
               "frame-src https://www.youtube-nocookie.com https://*.youtube-nocookie.com https://www.youtube.com https://www.khanacademy.org",
               "frame-ancestors 'self'",
@@ -108,50 +103,4 @@ const nextConfig: NextConfig = {
   },
 };
 
-// Wrap with Sentry configuration only when an auth token is available.
-// This prevents CI runs (e.g., Dependabot PRs) without secrets from failing
-// while preserving full Sentry behavior in environments with the token.
-const shouldEnableSentryPlugin = !!(process.env.SENTRY_AUTH_TOKEN && process.env.SENTRY_AUTH_TOKEN.trim());
-
-const configWithOptionalSentry = shouldEnableSentryPlugin
-  ? withSentryConfig(nextConfig, {
-  // For all available options, see:
-  // https://www.npmjs.com/package/@sentry/webpack-plugin#options
-
-  org: process.env.SENTRY_ORG ?? "",
-
-  project: process.env.SENTRY_PROJECT ?? "",
-
-  // Only print logs for uploading source maps in CI
-  silent: !process.env.CI,
-
-  // For all available options, see:
-  // https://docs.sentry.io/platforms/javascript/guides/nextjs/manual-setup/
-
-  // Upload a larger set of source maps for prettier stack traces (increases build time)
-  widenClientFileUpload: true,
-
-  // Route browser requests to Sentry through a Next.js rewrite to circumvent ad-blockers.
-  // This can increase your server load as well as your hosting bill.
-  // Note: Check that the configured route will not match with your Next.js middleware, otherwise reporting of client-
-  // side errors will fail.
-  tunnelRoute: "/monitoring",
-
-  // Automatically tree-shake Sentry logger statements to reduce bundle size
-  disableLogger: true,
-
-  // App Router only: turn off Pages Router auto-instrumentation
-  // Prevents Sentry from wrapping legacy `pages/` routes and middleware
-  // in a project that only uses the App Router.
-  autoInstrumentServerFunctions: false,
-  autoInstrumentMiddleware: false,
-
-  // Enables automatic instrumentation of Vercel Cron Monitors. (Does not yet work with App Router route handlers.)
-  // See the following for more information:
-  // https://docs.sentry.io/product/crons/
-  // https://vercel.com/docs/cron-jobs
-  automaticVercelMonitors: true,
-  })
-  : nextConfig;
-
-export default configWithOptionalSentry;
+export default nextConfig;

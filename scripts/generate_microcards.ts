@@ -3,19 +3,15 @@
 
   Usage examples:
     - tsx scripts/generate_microcards.ts --subject "Math 30-1" --limit 10 --persist file
-    - tsx scripts/generate_microcards.ts --subject "Biology 30" --persist db
     - tsx scripts/generate_microcards.ts --file data/curriculum/math-30-1.json --persist file
 
   Env vars:
     - OPENAI_API_KEY           (optional; if missing, uses heuristic fallback)
     - OPENAI_MODEL             (optional; default: gpt-4o-mini)
-    - SUPABASE_URL             (required for --persist db)
-    - SUPABASE_SERVICE_ROLE_KEY(required for --persist db)
 */
 
 import fs from 'node:fs';
 import path from 'node:path';
-import { createClient } from '@supabase/supabase-js';
 
 type CurriculumUnit = {
   id: string;
@@ -56,20 +52,16 @@ const arg = (flag: string): string | undefined => {
 const subjectArg = arg('--subject');
 const fileArg = arg('--file');
 const limitArg = arg('--limit');
-const persistArg = arg('--persist'); // 'file' | 'db'
+const persistArg = arg('--persist'); // 'file'
 const useBooksArg = arg('--use-books'); // 'true' | 'false'
 const verbatimArg = arg('--verbatim-hints'); // 'true' | 'false'
 const verboseArg = arg('--verbose'); // 'true' | 'false'
-const resumeArg = arg('--resume'); // 'true' | 'false'
-const flushEveryArg = arg('--flush-every'); // number
 
 const LIMIT = limitArg ? Math.max(1, Number(limitArg)) : undefined;
-const PERSIST_MODE = (persistArg as 'file' | 'db' | undefined) ?? 'file';
+const PERSIST_MODE = persistArg ?? 'file';
 const USE_BOOKS = useBooksArg ? useBooksArg === 'true' : true;
 const USE_VERBATIM_HINTS = verbatimArg ? verbatimArg === 'true' : true;
 const VERBOSE = verboseArg ? verboseArg === 'true' : false;
-const RESUME = resumeArg ? resumeArg === 'true' : true;
-const FLUSH_EVERY = flushEveryArg ? Math.max(1, Number(flushEveryArg)) : 25;
 
 const ROOT = process.cwd();
 const CURR_DIR = path.join(ROOT, 'data', 'curriculum');
@@ -471,61 +463,13 @@ async function persistToFile(subject: string, microcards: Microcard[]) {
   console.log(`Wrote ${microcards.length} microcards → ${outPath}`);
 }
 
-async function persistToDB(subject: string, microcards: Microcard[]) {
-  const url = process.env.SUPABASE_URL;
-  const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
-  if (!url || !key) throw new Error('SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY are required for DB persist');
-  const sb = createClient(url, key);
-
-  // Upsert into content_microcards (subject, outcome_code) unique
-  const payload = microcards.map((m) => ({
-    subject: m.subject,
-    unit_id: m.unit_id,
-    outcome_code: m.outcome_code,
-    summary: m.summary,
-    steps: m.steps,
-    pitfall: m.pitfall ?? null,
-    quick_check: m.quick_check,
-    recommended_resource_url: m.recommended_resource_url ?? null,
-    sources: m.sources ?? [],
-    version: m.version ?? 1,
-    status: m.status ?? 'active',
-  }));
-
-  const { error } = await sb
-    .from('content_microcards')
-    .upsert(payload, { onConflict: 'subject,outcome_code' });
-  if (error) throw error;
-  console.log(`Upserted ${payload.length} microcards into content_microcards`);
-}
-
-async function listExistingOutcomeCodes(subject: string): Promise<Set<string>> {
-  const url = process.env.SUPABASE_URL;
-  const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
-  if (!url || !key) return new Set();
-  const sb = createClient(url, key);
-  const out = new Set<string>();
-  try {
-    let page = 0;
-    const size = 1000;
-    while (true) {
-      const { data, error } = await sb
-        .from('content_microcards')
-        .select('outcome_code')
-        .eq('subject', subject)
-        .range(page * size, page * size + size - 1);
-      if (error) break;
-      if (!data || data.length === 0) break;
-      for (const row of data) if (row?.outcome_code) out.add(row.outcome_code);
-      if (data.length < size) break;
-      page += 1;
-    }
-  } catch {}
-  return out;
-}
-
 async function main() {
   try {
+    if (PERSIST_MODE !== 'file') {
+      console.error('Only --persist file is supported in the public archive.');
+      process.exit(1);
+    }
+
     if (!subjectArg && !fileArg) {
       console.error('Provide --subject "Name" or --file path to curriculum JSON');
       process.exit(1);
@@ -559,48 +503,26 @@ async function main() {
     for (const unit of curriculum.units) outcomeTotal += (unit.outcomes?.length || 0);
     if (VERBOSE) console.log(`[info] Subject: ${subject} | Units: ${curriculum.units.length} | Outcomes: ${outcomeTotal}${LIMIT ? ` | Limit: ${LIMIT}` : ''}`);
 
-    // Resume support: skip outcomes already in DB when persisting to DB
-    const existing = (PERSIST_MODE === 'db' && RESUME) ? await listExistingOutcomeCodes(subject) : new Set<string>();
-    if (VERBOSE && existing.size > 0) console.log(`[info] Resume mode: found ${existing.size} existing outcome microcards in DB; will skip.`);
-
     for (const unit of curriculum.units) {
       const outcomes = unit.outcomes ?? [];
       for (const outcome of outcomes) {
         if (!outcome.code) continue;
-        if (existing.has(outcome.code)) {
-          if (VERBOSE) console.log(`[skip] ${subject} | ${unit.id} | ${outcome.code} (already in DB)`);
-          continue;
-        }
         if (VERBOSE) console.log(`[gen] ${subject} | ${unit.id} | ${outcome.code} ...`);
         const mc = await generateMicrocardLLM(subject, unit, outcome, curriculumFileBase);
         buffer.push(mc);
         if (VERBOSE) console.log(`[ok ] ${subject} | ${unit.id} | ${outcome.code}`);
-        if (PERSIST_MODE === 'db' && buffer.length >= FLUSH_EVERY) {
-          if (VERBOSE) console.log(`[db ] Flushing ${buffer.length} microcards...`);
-          await persistToDB(subject, buffer);
-          buffer = [];
-        }
-        if (LIMIT && (existing.size + buffer.length) >= LIMIT) break;
+        if (LIMIT && buffer.length >= LIMIT) break;
       }
-      if (LIMIT && (existing.size + buffer.length) >= LIMIT) break;
+      if (LIMIT && buffer.length >= LIMIT) break;
     }
 
-    if (buffer.length === 0 && existing.size === 0) {
+    if (buffer.length === 0) {
       console.warn('No outcomes found to generate microcards.');
       process.exit(0);
     }
 
-    if (PERSIST_MODE === 'db') {
-      if (buffer.length > 0) {
-        if (VERBOSE) console.log(`[db ] Final flush ${buffer.length} microcards...`);
-        await persistToDB(subject, buffer);
-        buffer = [];
-      }
-    } else {
-      if (VERBOSE) console.log(`[file] Writing microcards to file...`);
-      // For file mode, we didn’t write incrementally — buffer holds all
-      await persistToFile(subject, buffer);
-    }
+    if (VERBOSE) console.log(`[file] Writing microcards to file...`);
+    await persistToFile(subject, buffer);
     if (VERBOSE) console.log('[done] Generation complete.');
   } catch (err) {
     console.error(err);

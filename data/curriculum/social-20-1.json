@@ -46,7 +46,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "lTTvKwCylFY",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/lTTvKwCylFY?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/lTTvKwCylFY?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "article",
@@ -124,7 +124,7 @@
           "provider": "youtube",
           "embeddable": true,
           "youtubeId": "alJaltUmrGo",
-          "embedUrl": "https://www.youtube-nocookie.com/embed/alJaltUmrGo?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+          "embedUrl": "https://www.youtube-nocookie.com/embed/alJaltUmrGo?enablejsapi=1&origin=http://localhost:3000&modestbranding=1&rel=0"
         },
         {
           "type": "article",

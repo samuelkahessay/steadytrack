@@ -15,7 +15,7 @@ import { serverLogger } from '@/lib/logger';
  */
 export const POST = withApiRateLimit(
   { ...RateLimitPresets.MODERATE, prefix: 'infinite-feedback' },
-  async (request: NextRequest, { supabase }) => {
+  async (request: NextRequest, { content }) => {
     try {
       // Parse request body
       const body = await request.json();
@@ -48,9 +48,9 @@ export const POST = withApiRateLimit(
         return NextResponse.json({ error: 'microcard_id must be a valid UUID' }, { status: 400 });
       }
 
-      // Insert feedback into database
+      // Store feedback in the local archive database
       // user_id is null for anonymous users in infinite learn mode
-      const { error } = await supabase
+      const { error } = await content
         .from('microcard_feedback')
         .insert({
           microcard_id,

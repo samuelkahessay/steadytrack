@@ -1,4 +1,4 @@
-// Database types based on PRD Section 6: Data Model
+// Data model types for the public archive.
 
 export interface Database {
   public: {

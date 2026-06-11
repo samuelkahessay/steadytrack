@@ -26,7 +26,7 @@ const LOOKAHEAD_COUNT = 1;
  */
 export const GET = withApiRateLimit(
   { ...RateLimitPresets.MODERATE, prefix: 'infinite-cards' },
-  async (request: NextRequest, { supabase }) => {
+  async (request: NextRequest, { content }) => {
     // Parse query parameters
     const { searchParams } = new URL(request.url);
     const subjectsParam = searchParams.get('subjects');
@@ -61,7 +61,7 @@ export const GET = withApiRateLimit(
     // If specific IDs are requested, fetch those cards directly
     if (specificIds.length > 0) {
       try {
-        const { data: cards, error } = await supabase
+        const { data: cards, error } = await content
           .from('content_microcards')
           .select('*')
           .in('id', specificIds)
@@ -91,9 +91,9 @@ export const GET = withApiRateLimit(
       }
     }
 
-    // Otherwise, call the RPC function to get random cards
+    // Otherwise, use the local adapter's random card helper
     try {
-      const { data: cards, error } = await supabase.rpc('get_random_infinite_cards', {
+      const { data: cards, error } = await content.rpc('get_random_infinite_cards', {
         p_subjects: normalizedSubjects,
         p_exclude_ids: excludeIds,
         p_limit: limit + LOOKAHEAD_COUNT,

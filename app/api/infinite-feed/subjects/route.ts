@@ -16,14 +16,14 @@ export const revalidate = 300; // Cache for 5 minutes
  */
 export const GET = withApiRateLimit(
   { ...RateLimitPresets.PERMISSIVE, prefix: 'infinite-subjects' },
-  async (request: NextRequest, { supabase }) => {
+  async (request: NextRequest, { content }) => {
     const { searchParams } = new URL(request.url);
     const minCardsParam = searchParams.get('min_cards');
     const minCards = minCardsParam ? parseInt(minCardsParam, 10) : 10;
 
     try {
       // Query to get subject counts
-      const { data, error } = await supabase
+      const { data, error } = await content
         .from('content_microcards')
         .select('subject')
         .eq('status', 'active')

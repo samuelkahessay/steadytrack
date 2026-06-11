@@ -1,6 +1,5 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono, Plus_Jakarta_Sans } from "next/font/google";
-import { Analytics } from "@vercel/analytics/next";
 import { MigrationProvider } from "@/components/providers/MigrationProvider";
 import { QueryProvider } from "@/components/providers/QueryProvider";
 import { ToastProvider } from "@/components/ui/toast";
@@ -23,8 +22,10 @@ const plusJakartaSans = Plus_Jakarta_Sans({
   weight: ["500", "600", "700", "800"],
 });
 
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.steadytrack.ca'),
+  metadataBase: new URL(siteUrl),
   title: {
     default: "SteadyTrack - Stay On Track",
     template: "%s - SteadyTrack",
@@ -78,7 +79,6 @@ export default function RootLayout({
             </QueryProvider>
           </MigrationProvider>
         </ErrorBoundary>
-        <Analytics />
       </body>
     </html>
   );

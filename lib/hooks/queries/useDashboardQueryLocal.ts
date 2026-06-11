@@ -2,7 +2,7 @@
  * useDashboardQueryLocal Hook
  *
  * localStorage-based version of useDashboardQuery for local-first architecture.
- * Reads all dashboard data from localStorage instead of Supabase.
+ * Reads all dashboard data from localStorage.
  *
  * Features:
  * - Reads from Phase 1 localStorage adapters

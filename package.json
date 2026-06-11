@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build && npm run sentry:sourcemaps",
+    "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "test": "vitest",
@@ -15,11 +15,7 @@
     "test:ui": "ts-node --project tsconfig.test.json tests/ui-test-suite.ts",
     "test:ui:headed": "HEADLESS=false ts-node --project tsconfig.test.json tests/ui-test-suite.ts",
     "detect-gaps": "ts-node -r tsconfig-paths/register scripts/detect-resource-gaps.ts",
-    "validate:schedules": "tsx scripts/validate-schedule-distribution.ts",
-    "validate:infinite-cards": "tsx scripts/validate_infinite_cards.ts",
     "generate:microcards": "tsx scripts/generate_microcards.ts --subject 'Math 30-1' --persist file",
-    "generate:microcards:db": "tsx scripts/generate_microcards.ts --subject 'Math 30-1' --persist db",
-    "sentry:sourcemaps": "node scripts/sentry-sourcemaps.cjs",
     "check:duplicate-folders": "bash scripts/check-duplicate-folders.sh",
     "clean:duplicate-folders": "bash scripts/clean-duplicate-folders.sh",
     "postinstall": "npm run clean:duplicate-folders"
@@ -28,16 +24,8 @@
     "@radix-ui/react-dialog": "^1.1.15",
     "@radix-ui/react-progress": "^1.1.1",
     "@radix-ui/react-slot": "^1.2.3",
-    "@sentry/cli": "^2.57.0",
-    "@sentry/nextjs": "^10.27.0",
-    "@supabase/ssr": "^0.7.0",
-    "@supabase/supabase-js": "^2.76.1",
     "@tanstack/react-query": "^5.90.5",
-    "@upstash/ratelimit": "^2.0.6",
-    "@upstash/redis": "^1.35.6",
-    "@vercel/analytics": "^1.5.0",
     "better-sqlite3": "^12.5.0",
-    "cheerio": "^1.1.2",
     "class-variance-authority": "^0.7.1",
     "client-only": "^0.0.1",
     "clsx": "^2.1.1",
@@ -45,7 +33,7 @@
     "framer-motion": "^12.23.24",
     "fuse.js": "^7.1.0",
     "lucide-react": "^0.548.0",
-    "next": "15.5.7",
+    "next": "15.5.19",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "server-only": "^0.0.1",
@@ -65,7 +53,6 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@types/uuid": "^10.0.0",
-    "@vitest/ui": "^3.2.4",
     "dotenv": "^17.2.3",
     "eslint": "^9",
     "eslint-config-next": "15.5.5",
@@ -75,7 +62,6 @@
     "tsx": "^4.21.0",
     "ttf2woff2": "^8.0.0",
     "typescript": "^5",
-    "vitest": "^3.2.4",
-    "@modelcontextprotocol/sdk": "^1.24.0"
+    "vitest": "^3.2.4"
   }
 }
