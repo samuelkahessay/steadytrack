@@ -1,0 +1,373 @@
+{
+  "subject": "Social Studies 20-1",
+  "grade": 11,
+  "albertaDocs": [
+    {
+      "type": "reference",
+      "title": "Social Studies 10-12 Program of Studies",
+      "url": "https://education.alberta.ca/social-studies-10-12/programs-of-study/"
+    },
+    {
+      "type": "reference",
+      "title": "Grade 11 Social Studies 20-1 Program of Study",
+      "url": "https://education.alberta.ca/media/160210/program-of-study-grade-11.pdf"
+    }
+  ],
+  "units": [
+    {
+      "id": "origins-of-nationalism",
+      "title": "Origins and Evolution of Nationalism",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "20-1.1",
+          "description": "- Evaluate the extent to which nation should be the foundation of identity."
+        }
+      ],
+      "topics": [
+        "Defining nationalism and national identity",
+        "The French Revolution (1789-1799)",
+        "Napoleon and the Napoleonic Wars",
+        "Congress of Vienna and Restoration",
+        "Liberal and nationalist movements in 19th century Europe",
+        "Italian and German unification",
+        "Impact of nationalism on political structures"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Watch French Revolution Crash Course World History",
+          "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-2-liberal-and-national-revolutions/xcabef9ed3fc7da7b:2-2-revolutions-around-the-world/v/watch-the-french-revolution-crash-course-world-history-29-beta",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-1.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "lTTvKwCylFY",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/lTTvKwCylFY?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Napoleon Bonaparte (AP Euro)",
+          "url": "https://www.khanacademy.org/humanities/ap-european-history/ap-euro-period-2/ap-euro-napoleon/a/napoleon-bonaparte",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-1.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Nationalism, Liberalism, Conservatism, and the Political Order - World History Volume 2, from 1400",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-1.1"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Origins and Impacts of Nationalism",
+          "url": "https://www.khanacademy.org/humanities/world-history-project-ap/xb41992e0ff5e0f09:unit-5-revolutions/xb41992e0ff5e0f09:5-2nationalism-and-revolutions/a/read-origins-and-impacts-of-nationalism",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-1.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "imperialism-ultranationalism",
+      "title": "Imperialism and Ultranationalism",
+      "estimatedHours": 8,
+      "outcomes": [
+        {
+          "code": "20-1.2",
+          "description": "- Evaluate the extent to which national interest should be pursued."
+        },
+        {
+          "code": "20-1.3",
+          "description": "- Evaluate the extent to which internationalism should be pursued."
+        }
+      ],
+      "topics": [
+        "Age of Imperialism (1870-1914)",
+        "Scramble for Africa and colonialism",
+        "Social Darwinism and racist ideologies",
+        "Causes and course of World War I",
+        "Treaty of Versailles and its consequences",
+        "Rise of fascism, Nazism, and communism",
+        "World War II and the Holocaust",
+        "Ultranationalism vs. internationalism"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Imperialism (Crash Course)",
+          "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-5-imperialism-colonialism-and-responses/xcabef9ed3fc7da7b:5-1-the-system-of-imperialism/v/watch-imperialism-crash-course-world-history-35",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-1.2",
+            "20-1.3"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "alJaltUmrGo",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/alJaltUmrGo?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Industrial Imperialism: The New Imperialism",
+          "url": "https://www.khanacademy.org/humanities/whp-origins/era-6-the-long-nineteenth-century-1750-ce-to-1914-ce/63-imperialism-betaa/a/read-industrial-imperialism-the-new-imperialism-beta",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-1.2",
+            "20-1.3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Motives and Means of Imperialism - World History Volume 2, from 1400",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/9-2-motives-and-means-of-imperialism",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-1.2",
+            "20-1.3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "World War I overview",
+          "url": "https://www.khanacademy.org/humanities/world-history/1914-1945/ww1/ww1-overview/a/world-war-i-overview",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-1.2",
+            "20-1.3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Nationalism, Communism, Fascism, and Authoritarianism - Introduction to Political Science",
+          "url": "https://openstax.org/books/introduction-political-science/pages/3-4-nationalism-communism-fascism-and-authoritarianism",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "20-1.2",
+            "20-1.3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "nationalism-and-conflict",
+      "title": "Nationalism and Conflict in the 20th Century",
+      "estimatedHours": 7,
+      "outcomes": [],
+      "topics": [
+        "The Cold War and ideological divisions",
+        "Decolonization and nationalist movements",
+        "Ethnic nationalism and conflict",
+        "Genocide (Holocaust, Rwanda, Bosnia)",
+        "Separatist movements",
+        "National self-determination",
+        "Religious nationalism",
+        "Contemporary nationalist challenges"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Video Decolonization Nationalism Triumphant Crash Course World History",
+          "url": "https://www.khanacademy.org/humanities/world-history-project-ap/xb41992e0ff5e0f09:unit-8-cold-war-and-decolonization/xb41992e0ff5e0f09:decolonization-after-1900-8-5/a/video-decolonization-and-nationalism-triumphant-crash-course-world-history-40",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Cold War: An Overview",
+          "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-8-end-of-empire-and-cold-war/xcabef9ed3fc7da7b:8-1-the-cold-war/a/read-the-cold-war-an-overview-beta",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Ethnic Nationalism",
+          "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-2-liberal-and-national-revolutions/xcabef9ed3fc7da7b:2-3-nationalism/a/read-ethnic-nationalism-beta",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Nationalism, Communism, Fascism, and Authoritarianism - Introduction to Political Science",
+          "url": "https://openstax.org/books/introduction-political-science/pages/3-4-nationalism-communism-fascism-and-authoritarianism",
+          "difficulty": "advanced",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "canadian-nationalism",
+      "title": "Canadian Nationalism and Identity",
+      "estimatedHours": 8,
+      "outcomes": [],
+      "topics": [
+        "Confederation and nation-building",
+        "World Wars and Canadian identity",
+        "Quebec nationalism and the Quiet Revolution",
+        "FLQ Crisis and referendums",
+        "Indigenous rights and self-determination",
+        "Canadian symbols (flag, anthem, Charter)",
+        "Multiculturalism as policy",
+        "Canadian-American relations",
+        "Contemporary Canadian identity debates"
+      ],
+      "resources": [
+        {
+          "type": "article",
+          "title": "Decolonization and Nationalism Triumphant",
+          "url": "https://www.khanacademy.org/humanities/world-history-project-ap/xb41992e0ff5e0f09:unit-8-cold-war-and-decolonization/xb41992e0ff5e0f09:decolonization-after-1900-8-5/a/video-decolonization-and-nationalism-triumphant-crash-course-world-history-40",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Ethnic Nationalism",
+          "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-2-liberal-and-national-revolutions/xcabef9ed3fc7da7b:2-3-nationalism/a/read-ethnic-nationalism-beta",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Italian and German unification",
+          "url": "https://www.khanacademy.org/humanities/world-history/1750-1900/age-of-revolution/italy-and-germany-unification/a/italian-and-german-unification",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Nationalism (overview)",
+          "url": "https://www.khanacademy.org/humanities/world-history/1750-1900/age-of-revolution/nationalism/a/nationalism",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "internationalism-global-citizenship",
+      "title": "Internationalism and Global Citizenship",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "20-1.4",
+          "description": "- Evaluate the extent to which individuals and groups in Canada should embrace a national identity."
+        }
+      ],
+      "topics": [
+        "Internationalism vs. isolationism",
+        "The United Nations and international law",
+        "Peacekeeping and humanitarian intervention",
+        "International human rights",
+        "Global challenges (poverty, conflict, environment)",
+        "Canada's foreign policy",
+        "Globalization and its impacts",
+        "Supranational organizations (EU, NATO, etc.)",
+        "Global citizenship and responsibility"
+      ],
+      "resources": [
+        {
+          "type": "article",
+          "title": "Globalization and its impacts",
+          "url": "https://www.khanacademy.org/humanities/world-history/modern-world-1900-to-present/globalization/a/globalization-and-its-impacts",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-1.4"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "League of Nations",
+          "url": "https://www.khanacademy.org/humanities/world-history/1914-1945/interwar-period/a/league-of-nations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-1.4"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Overview of civil rights and liberties",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/us-gov-civil-liberties-and-civil-rights/us-gov-civil-rights/a/overview-of-civil-rights-and-liberties",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-1.4"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "What is globalization?",
+          "url": "https://www.khanacademy.org/humanities/world-history/modern-world-1900-to-present/globalization/a/what-is-globalization",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-1.4"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    }
+  ]
+}

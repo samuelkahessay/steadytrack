@@ -1,0 +1,20 @@
+// Re-export database types from types/database.ts for backward compatibility
+export type {
+  Database,
+  Profile,
+  StudyPlan,
+  FlexibleSchedule,
+  ScheduleDay,
+  UserProgress,
+  StudyStreak,
+  ParentAccess,
+  ResourceProgress,
+  Event,
+  ContentMicrocard,
+  QuickCheckResult,
+  CurriculumSubject,
+  CurriculumUnit,
+  CurriculumResource,
+  WeeklySummaryStats,
+  ProgressUpdateResponse,
+} from '@/types/database';

@@ -1,0 +1,25 @@
+# CODEOWNERS
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
+
+# Default owner for everything in the repo
+* @samuelkahessay
+
+# Critical infrastructure and security
+/lib/supabase/ @samuelkahessay
+/app/api/ @samuelkahessay
+/middleware.ts @samuelkahessay
+/lib/ratelimit.ts @samuelkahessay
+
+# Database and migrations
+/migrations/ @samuelkahessay
+/supabase-schema.sql @samuelkahessay
+
+# CI/CD and deployment
+/.github/ @samuelkahessay
+/vercel.json @samuelkahessay
+
+# Environment and configuration
+/.env.example @samuelkahessay
+/next.config.ts @samuelkahessay
+/tailwind.config.js @samuelkahessay

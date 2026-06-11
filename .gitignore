@@ -1,0 +1,89 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+test-results
+
+# puppeteer
+/.cache/puppeteer
+
+# playwright MCP screenshots
+.playwright-mcp/
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+*~
+*.log
+*.tmp
+*.swp
+logs
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+.local/
+.venv
+venv
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# AI tools
+.claude
+
+# Worktrees
+.worktrees
+
+# Source/working data - PDFs, extracted text, parsed outcomes, QC, etc.
+# These directories are generated or used during pipeline runs and can be regenerated
+data/sources/
+data/structured/
+data/qc/
+data/extracted/
+data/alberta/
+
+# Archived/deprecated data
+data/_archived/
+
+# Test reports and temporary files
+data/reports/*_test.*
+data/reports/*_temp.*
+data/reports/*.tmp
+
+# Keep only final curriculum JSONs in data/curriculum/
+!data/curriculum/
+!data/README.md
+.mcp.json
+
+# Sentry Config File
+.env.sentry-build-plugin
+
+# Sentry Config File
+.sentryclirc

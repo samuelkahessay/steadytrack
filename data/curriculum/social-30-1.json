@@ -1,0 +1,449 @@
+{
+  "subject": "Social Studies 30-1",
+  "grade": 12,
+  "albertaDocs": [
+    {
+      "type": "reference",
+      "title": "Social Studies 10-12 Program of Studies",
+      "url": "https://education.alberta.ca/social-studies-10-12/programs-of-study/"
+    },
+    {
+      "type": "reference",
+      "title": "Social Studies 30-1 Information Bulletin",
+      "url": "https://www.alberta.ca/system/files/custom_downloaded_images/edc-social-studies-30-1-info-bulletin.pdf"
+    }
+  ],
+  "units": [
+    {
+      "id": "s30_nationalism",
+      "title": "Nationalism",
+      "topics": [
+        "Types of Nationalism",
+        "Civic vs Ethnic Nationalism",
+        "Impact on Identity",
+        "Contemporary Examples",
+        "National Self-Determination"
+      ],
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "30-1.1",
+          "description": "- Evaluate the extent to which ideology should be the foundation of identity."
+        }
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "What is Nationalism?",
+          "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-2-liberal-and-national-revolutions/xcabef9ed3fc7da7b:2-3-nationalism/v/whp-what-is-nationalism",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-1.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "article",
+          "title": "Ethnic Nationalism",
+          "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-2-liberal-and-national-revolutions/xcabef9ed3fc7da7b:2-3-nationalism/a/read-ethnic-nationalism-beta",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Nationalism (overview)",
+          "url": "https://www.khanacademy.org/humanities/world-history/1750-1900/age-of-revolution/nationalism/a/nationalism",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Origins and Impacts of Nationalism",
+          "url": "https://www.khanacademy.org/humanities/world-history-project-ap/xb41992e0ff5e0f09:unit-5-revolutions/xb41992e0ff5e0f09:5-2nationalism-and-revolutions/a/read-origins-and-impacts-of-nationalism",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Nationalism, Communism, Fascism, and Authoritarianism - Introduction to Political Science",
+          "url": "https://openstax.org/books/introduction-political-science/pages/3-4-nationalism-communism-fascism-and-authoritarianism",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-1.1"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Modern Nation-States - Introduction to Anthropology",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/8-4-modern-nation-states",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-1.1"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "s30_liberalism",
+      "title": "Liberalism & Classical Liberalism",
+      "topics": [
+        "Principles of Liberalism",
+        "Individual Rights and Freedoms",
+        "Modern Liberalism",
+        "Economic Liberalism",
+        "Social Contract Theory",
+        "Rule of Law"
+      ],
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "30-1.2",
+          "description": "- Evaluate the extent to which resistance to liberalism is justified."
+        }
+      ],
+      "resources": [
+        {
+          "type": "article",
+          "title": "Liberalism and the Enlightenment",
+          "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-2-liberal-and-national-revolutions/xcabef9ed3fc7da7b:2-1-the-enlightenment-and-liberalism/a/read-liberalism-and-the-enlightenment-beta",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-1.2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "American Democracy Political Ideology",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/american-political-ideologies-and-beliefs/a/american-democracy-and-political-ideology-overview",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "American Political Ideologies Beliefs",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/american-political-ideologies-and-beliefs",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Conservative ideology (contrast)",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/american-political-ideologies-and-beliefs/conservative-ideology/a/conservative-ideology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Liberal ideology (overview)",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/american-political-ideologies-and-beliefs/liberal-ideology/a/liberal-ideology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Nationalism, Liberalism, Conservatism, and the Political Order - World History Volume 2, from 1400",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-1.2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "s30_ideologies",
+      "title": "Political & Economic Ideologies",
+      "topics": [
+        "Capitalism and Free Markets",
+        "Socialism and Collective Ownership",
+        "Communism",
+        "Fascism and Ultranationalism",
+        "Anarchism",
+        "Competing Ideological Systems"
+      ],
+      "estimatedHours": 8,
+      "outcomes": [
+        {
+          "code": "30-1.3",
+          "description": "- Evaluate the viability of the principles of liberalism."
+        }
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Capitalism and Socialism (Crash Course)",
+          "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-7-industrialization-and-imperialism/xcabef9ed3fc7da7b:7-5-living-in-industrial-societies/v/watch-capitalism-and-socialism-crash-course-world-history-33",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-1.3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "article",
+          "title": "Capitalism, Socialism, and Communism",
+          "url": "https://www.khanacademy.org/humanities/world-history/1750-1900/age-of-revolution/industrial-revolution/a/capitalism-and-socialism",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.3"
+          ],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Ideologies Political Parties United States Gov",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/american-political-ideologies-and-beliefs/a/ideologies-of-political-parties-in-the-united-states-ap-gov",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.3"
+          ],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Totalitarianism S",
+          "url": "https://www.khanacademy.org/humanities/world-history/1914-1945/interwar-period/a/totalitarianism-in-the-1930s",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.3"
+          ],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Authoritarianism",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/american-political-ideologies-and-beliefs/a/authoritarianism-overview",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-1.3"
+          ],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "s30_governance",
+      "title": "Systems of Governance",
+      "topics": [
+        "Democracy and Democratic Principles",
+        "Authoritarianism and Totalitarianism",
+        "Government Structures",
+        "Checks and Balances",
+        "Parliamentary vs Presidential Systems",
+        "Electoral Systems"
+      ],
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "30-1.4",
+          "description": "- Evaluate the extent to which your actions as a citizen should be shaped by an ideology."
+        }
+      ],
+      "resources": [
+        {
+          "type": "article",
+          "title": "American Political Beliefs Behaviors",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/american-political-beliefs-and-behaviors",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-1.4"
+          ],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Authoritarianism",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/american-political-ideologies-and-beliefs/a/authoritarianism-overview",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.4"
+          ],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Elections Voting",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/us-gov-political-participation/us-gov-elections-and-voting/a/elections-and-voting-overview",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.4"
+          ],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Forms Democracy",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/american-political-ideologies-and-beliefs/a/forms-of-democracy-overview",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-1.4"
+          ],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Nationalism, Communism, Fascism, and Authoritarianism - Introduction to Political Science",
+          "url": "https://openstax.org/books/introduction-political-science/pages/3-4-nationalism-communism-fascism-and-authoritarianism",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-1.4"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Separation Powers Checks Balances Article",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/us-gov-foundations/us-gov-separation-of-powers-and-checks-and-balances/a/separation-of-powers-and-checks-and-balances-article",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-1.4"
+          ],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "s30_globalization",
+      "title": "Globalization",
+      "topics": [
+        "Economic Integration and Free Trade",
+        "Cultural Exchange and Homogenization",
+        "Global Governance",
+        "Challenges of Globalization",
+        "Multinational Corporations",
+        "International Relations"
+      ],
+      "estimatedHours": 7,
+      "outcomes": [],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Whp Globalization Ii",
+          "url": "https://www.khanacademy.org/humanities/whp-origins/era-9-1980-to-the-present/99-the-anthropocene/v/whp-globalization-ii",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "article",
+          "title": "International Organizations",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/american-political-participation/us-gov-international-relations/a/international-organizations-overview",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "What Is Globalization",
+          "url": "https://www.khanacademy.org/humanities/world-history/modern-world-1900-to-present/globalization/a/what-is-globalization",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "International Economics",
+          "url": "https://www.khanacademy.org/humanities/us-government-and-civics/american-political-participation/us-gov-international-relations/a/international-economics-overview",
+          "difficulty": "advanced",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Globalization Its Impacts",
+          "url": "https://www.khanacademy.org/humanities/world-history/modern-world-1900-to-present/globalization/a/globalization-and-its-impacts",
+          "difficulty": "advanced",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    }
+  ]
+}

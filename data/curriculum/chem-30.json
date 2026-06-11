@@ -1,0 +1,2750 @@
+{
+  "subject": "Chemistry 30",
+  "grade": 12,
+  "albertaDocs": [
+    {
+      "type": "reference",
+      "title": "Chemistry 30 Information Bulletin 2025-2026",
+      "url": "https://www.alberta.ca/system/files/custom_downloaded_images/edc-chemistry-30-info-bulletin.pdf"
+    },
+    {
+      "type": "data-booklet",
+      "title": "Chemistry 30 Data Booklet",
+      "url": "https://www.alberta.ca/system/files/custom_downloaded_images/edc-chemistry30-data-booklet.pdf"
+    },
+    {
+      "type": "reference",
+      "title": "Chemistry 20-30 Program of Studies",
+      "url": "https://education.alberta.ca/media/3069388/pos_chem_20_30.pdf"
+    }
+  ],
+  "units": [
+    {
+      "id": "thermochemical-changes",
+      "title": "Thermochemical Changes",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "30-A1",
+          "description": "- Determine and interpret energy changes in chemical reactions.",
+          "type": "general"
+        },
+        {
+          "code": "30-A2",
+          "description": "- Explain and communicate energy changes in chemical reactions.",
+          "type": "general"
+        },
+        {
+          "code": "30-A1.1k",
+          "description": "- Recall how to apply Q = mc∆t to analyze heat transfer.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.2k",
+          "description": "- Explain, in general terms, how stored energy in the chemical bonds of hydrocarbons originated from the Sun.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.3k",
+          "description": "- Define enthalpy and molar enthalpy for chemical reactions.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.4k",
+          "description": "- Write balanced chemical equations that include energy changes.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.5k",
+          "description": "- Use and interpret ∆H notation to communicate and calculate energy changes in chemical reactions",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.6k",
+          "description": "- Calculate the enthalpy change of a reaction using standard enthalpies of formation.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.7k",
+          "description": "- Explain and apply Hess’ law to calculate energy changes for a net reaction from a series of reactions.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.8k",
+          "description": "- Use calorimetry data to determine enthalpy changes in chemical reactions.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.9k",
+          "description": "- Identify liquid water and carbon dioxide gas as reactants in photosynthesis and as products of cellular respiration.\n- Identify gaseous water and carbon dioxide gas as products of hydrocarbon combustion in an open system.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.10k",
+          "description": "- Classify chemical reactions as endothermic or exothermic, including photosynthesis, cellular respiration, and hydrocarbon combustion.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A2.1k",
+          "description": "- Define activation energy as the energy barrier that must be overcome for a chemical reaction to occur.",
+          "category": "knowledge",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.2k",
+          "description": "- Explain energy changes in chemical reactions, including bond breaking and forming and changes in potential and kinetic energy.",
+          "category": "knowledge",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.3k",
+          "description": "- Analyze and label energy diagrams of a chemical reaction, including reactants, products, enthalpy change, and activation energy.",
+          "category": "knowledge",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.4k",
+          "description": "- Explain that catalysts increase reaction rates by providing an alternative reaction pathway without affecting the net energy change; e.g., enzymes in living systems.",
+          "category": "knowledge",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of related questions, ideas, problems, and issues.\n- Design a method to compare the molar enthalpy change when burning two or more fuels (e.g., octane, propane, ethanol, historic fuels such as seal or whale oil), identifying and controlling major variables (IP–ST1, IP–ST2).\n- Describe procedures for the safe handling, storage, and disposal of laboratory materials, with reference to WHMIS and consumer product labelling information (IP–ST3).",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.1sts",
+          "description": "- Explain that the goal of technology is to provide solutions to practical problems (ST1) [ICT F2–4.4].\n- Provide examples of personal reliance on the chemical potential energy of matter, such as the use of fossil fuels.\n- Identify ways to use energy more efficiently.\n- Identify and explain the selection of different fuels used by communities in urban, rural, and remote areas, and compare that selection to the fuels used by the early inhabitants of a particular area of Alberta.",
+          "category": "sts",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a range of tools and techniques to gather and record data.\n- Perform calorimetry experiments to determine the molar enthalpy change of chemical reactions (PR–NS3) [ICT C6–4.1].\n- Use thermometers or temperature probes appropriately to measure temperature changes (PR–NS3, PR–ST3) [ICT C6–4.4].\n- Use a computer-based laboratory to compile and organize experimental data demonstrating molar enthalpy change (PR–NS4) [ICT C6–4.2].\n- Select and integrate information from print and electronic sources to create multiple-linked documents about the use of alternative fuels (PR–ST1) [ICT C1–4.1, P5–4.1].",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.2sts",
+          "description": "- Explain that technological problems often require multiple solutions involving different designs, materials, and processes, and that these have intended and unintended consequences (ST3) [ICT F3–4.1].\n- Explain the applications of fossil fuels, with examples from industries in Alberta.\n- Evaluate the impact of combusting various energy sources, including fossil fuels and biomass, on personal health and the environment.\n- Describe technologies used by early peoples to mitigate the harmful effects of combustion.",
+          "category": "sts",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Compare energy changes in a variety of chemical reactions by analyzing data and energy diagrams (AI–NS3) [ICT C7–4.2].\n- Manipulate and present data using appropriate tools, such as scientific instrumentation, calculators, databases, or spreadsheets (AI–ST3) [ICT P2–4.1].",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.4s",
+          "description": "- Work collaboratively to solve problems and apply scientific skills and conventions to communicate information and assess results.\n- Use appropriate Système international (SI) units, fundamental and derived units, and significant digits (CT–ST2).\n- Use numeric, symbolic, graphical, and linguistic modes to communicate ideas, plans, and results (CT–ST2).\n- Use advanced menu features within word processing software to accomplish tasks and insert tables, graphs, text, and graphics (CT–ST2) [ICT P4–4.3].",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into related questions, ideas, problems, and issues.\n- Describe procedures for safe handling, storage, and disposal of laboratory materials, referencing WHMIS and consumer product labelling information (IP–ST3).\n- Design an experimental procedure to illustrate the effect of a catalyst on a chemical reaction (IP–ST2).",
+          "category": "skills",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.1sts",
+          "description": "- Explain that technology aims to solve practical problems (ST1) [ICT F2–4.4].\n- Explain how catalysts (e.g., automotive catalytic converters) reduce air pollution from fuel combustion.",
+          "category": "sts",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.2s",
+          "description": "- Investigate relationships among observable variables using a broad range of tools and techniques to gather and record data and information\n- Draw enthalpy diagrams indicating energy changes for chemical reactions (PR–NS4)\n- Use library and electronic research tools to compile information on the energy content of fuels used in Alberta power plants (PR–ST1) [ICT C1–4.1]\n- Design and build a heating device (PR–ST2)",
+          "category": "skills",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.2sts",
+          "description": "- Explain that the appropriateness, risks, and benefits of technologies must be assessed for each application from multiple perspectives, including sustainability (ST7) [ICT F2–4.2, F3–4.1].\n- Assess qualitatively the risks and benefits of relying on fossil fuels as energy sources.",
+          "category": "sts",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Draw and interpret enthalpy diagrams for chemical reactions (AI–NS2) [ICT C7–4.2].\n- Determine the efficiency of thermal energy conversion systems and explain discrepancies between theoretical and actual values (AI–NS3).\n- Assess whether coal or natural gas should be used to fuel thermal power plants in Alberta (AI–ST2).\n- Evaluate a personally designed and constructed heating device, including calculating its efficiency (AI–ST2).",
+          "category": "skills",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.3sts",
+          "description": "- Explain that technological products are devices, systems, and processes that meet given needs, but cannot solve all problems (ST6) [ICT F3–4.1].\n- Evaluate the economic and environmental impacts of different fuels by relating carbon dioxide emissions to the heat content of each fuel.",
+          "category": "sts",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.4s",
+          "description": "- Work collaboratively to address problems and apply the skills and conventions of science to communicate information and ideas and assess results.\n- Use appropriate Système international (SI) units, fundamental and derived units, and significant digits to calculate and communicate enthalpy changes (CT–ST2).\n- Work cooperatively with others to develop a plan to build an energy conversion device; seek feedback, test and review the plan, make revisions, and implement the plan (CT–ST1).\n- Use advanced menu features within word processing software to accomplish a task and insert tables, graphs, text, and graphics (CT–SEC2) [ICT P4–4.3].",
+          "category": "skills",
+          "parent": "30-A2"
+        }
+      ],
+      "topics": [
+        "Enthalpy and enthalpy changes",
+        "Thermochemical equations and stoichiometry",
+        "Calorimetry and heat capacity",
+        "Hess's Law and enthalpy calculations",
+        "Standard enthalpies of formation",
+        "Entropy and spontaneity",
+        "Gibbs free energy (ΔG)",
+        "Temperature dependence of spontaneity",
+        "Bond energies and enthalpy changes"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Enthalpy and Thermochemistry",
+          "url": "https://www.khanacademy.org/test-prep/mcat/chemical-processes/thermochemistry/v/enthalpy-1",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "AfjH7Xn8VB8",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/AfjH7Xn8VB8?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Calorimetry: Measuring Energy Changes",
+          "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:thermodynamics/x2eef969c74e0d802:calorimetry/v/calorimetry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Acids and bases",
+          "url": "https://www.khanacademy.org/science/chemistry/acids-and-bases-topic",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.9k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Atoms and elements",
+          "url": "https://www.khanacademy.org/science/chemistry/atomic-structure-and-properties",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Balancing chemical equations",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Enthalpy",
+          "url": "https://www.youtube.com/watch?v=A4Af_74mZIo",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.3k",
+            "30-A2.3s",
+            "30-A2.4s",
+            "30-A1.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Hess's Law",
+          "url": "https://www.youtube.com/watch?v=CJPyXbLj_Fs",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Chemical bonds",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-bonds",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Chemical reactions",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.3k",
+            "30-A2.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Combustion reactions",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/types-of-chemical-reactions-sal/v/combustion-reactions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.5k",
+            "30-A1.1sts",
+            "30-A1.2sts",
+            "30-A2.2sts",
+            "30-A2.3sts",
+            "30-A1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Covalent bonding and Lewis structures",
+          "url": "https://www.khanacademy.org/science/ap-chemistry/chemical-bonds-ap/types-chemical-bonds-ap/v/covalent-networks-giant-covalent-structures",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Thermochemistry",
+          "url": "https://www.youtube.com/watch?v=RZb8vBQTEhg",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.8k",
+            "30-A1.1sts",
+            "30-A1.2sts",
+            "30-A2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Energy diagrams",
+          "url": "https://www.khanacademy.org/science/chemistry/chem-kinetics/arrhenius-equation/v/potential-energy-diagrams",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.10k",
+            "30-A2.1k",
+            "30-A2.4k",
+            "30-A1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Enthalpy and calorimetry",
+          "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry/internal-energy-sal",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.4k",
+            "30-A1.1s",
+            "30-A1.1sts",
+            "30-A1.3s",
+            "30-A2.3s",
+            "30-A2.3sts",
+            "30-A2.4s",
+            "30-A2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Hess's law",
+          "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry/enthalpy-chemistry-sal/v/hess-s-law-and-reaction-enthalpy-change",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.4k",
+            "30-A2.1k",
+            "30-A2.4k",
+            "30-A1.3s",
+            "30-A2.3s",
+            "30-A2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Professor Dave: Enthalpy and Hess's Law",
+          "url": "https://www.youtube.com/watch?v=5QHV1nMH2N0",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.2s",
+            "30-A2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Redox reactions and electrochemistry",
+          "url": "https://www.khanacademy.org/science/chemistry/oxidation-reduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: States of matter and intermolecular forces",
+          "url": "https://www.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.9k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Thermodynamics",
+          "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.1k",
+            "30-A1.1s",
+            "30-A2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Enthalpy: Energy in Chemical Reactions",
+          "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Chemistry library",
+          "url": "https://www.khanacademy.org/science/chemistry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.2k",
+            "30-A2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Chemistry - Bond",
+          "url": "https://openstax.org/books/chemistry-2e/pages/7-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.2k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Chemistry - Gas",
+          "url": "https://openstax.org/books/chemistry-2e/pages/9-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.9k",
+            "30-A2.3s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Chemistry - Reaction",
+          "url": "https://openstax.org/books/chemistry-2e/pages/4-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.1s",
+            "30-A2.4k",
+            "30-A2.1k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "What is Gibbs free energy?",
+          "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry/gibbs-free-energy-intro-chemistry/a/what-is-gibbs-free-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Entropy and Spontaneity",
+          "url": "https://openstax.org/books/chemistry-2e/pages/16-2-entropy",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Thermochemistry Practice Questions",
+          "url": "https://www.khanacademy.org/test-prep/mcat/chemical-processes/thermochemistry/e/thermochemistry-questions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Balancing Chemical Equations",
+          "url": "https://phet.colorado.edu/en/simulations/balancing-chemical-equations",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A1.6k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Build a Molecule",
+          "url": "https://phet.colorado.edu/en/simulations/build-a-molecule",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A1.2k",
+            "30-A1.3s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Gas Properties",
+          "url": "https://phet.colorado.edu/en/simulations/gas-properties",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A1.9k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: pH Scale",
+          "url": "https://phet.colorado.edu/en/simulations/ph-scale",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A1.4s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Reaction Rates",
+          "url": "https://phet.colorado.edu/en/simulations/reactions-and-rates",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A2.1sts"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "reference",
+          "title": "Hess's Law",
+          "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Thermodynamic_Cycles/Hesss_Law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "electrochemical-changes",
+      "title": "Electrochemical Changes",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "30-B1",
+          "description": "- Explain the nature of oxidation-reduction reactions.",
+          "type": "general"
+        },
+        {
+          "code": "30-B2",
+          "description": "- Apply the principles of oxidation-reduction to electrochemical cells.",
+          "type": "general"
+        },
+        {
+          "code": "30-B1.1k",
+          "description": "- Define oxidation and reduction operationally and theoretically",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.2k",
+          "description": "- Define oxidizing agent, reducing agent, oxidation number, half-reaction, and disproportionation.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.3k",
+          "description": "- Differentiate redox reactions from other reactions using half-reactions and/or oxidation numbers.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.4k",
+          "description": "- Identify electron transfer, oxidizing agents, and reducing agents in everyday redox reactions in living systems (e.g., cellular respiration, photosynthesis) and nonliving systems (e.g., corrosion).",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.5k",
+          "description": "- Compare the relative strengths of oxidizing and reducing agents using empirical data.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.6k",
+          "description": "- Predict the spontaneity of a redox reaction using standard reduction potentials.\n- Compare those predictions with experimental results.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.7k",
+          "description": "- Write and balance redox equations in acidic and neutral solutions.\n- Use half-reaction equations from a standard reduction potential table.\n- Develop simple half-reaction equations from provided redox-change information.\n- Assign oxidation numbers, where appropriate, to species undergoing chemical change.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.8k",
+          "description": "- Perform calculations to determine quantities of substances involved in redox titrations.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B2.1k",
+          "description": "- Define anode, cathode, anion, cation, salt bridge/porous cup, electrolyte, external circuit, power supply, voltaic cell, and electrolytic cell.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.2k",
+          "description": "- Identify similarities and differences in the operation of voltaic and electrolytic cells.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.3k",
+          "description": "- Predict and write the half-reaction equation for each electrode in an electrochemical cell.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.4k",
+          "description": "- Recognize that predicted reactions do not always occur (e.g., the production of chlorine gas from the electrolysis of brine).",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.5k",
+          "description": "- Explain that standard reduction potentials are measured relative to 0 V, defined by the hydrogen electrode under standard conditions.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.6k",
+          "description": "- Calculate the standard cell potential for electrochemical cells.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.7k",
+          "description": "- Predict whether redox reactions are spontaneous using standard cell potential and the relative positions of half-reactions on a standard reduction potential table.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.8k",
+          "description": "- Calculate mass, amount of substance, current, and time in single voltaic and electrolytic cells by applying Faraday’s law and stoichiometry.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B1.1s",
+          "description": "- Formulate questions about observed relationships, and plan investigations into related questions, ideas, problems, and issues.\n- Design an experiment to determine the reactivity of various metals (IP–NS1, IP–NS2, IP–NS3) [ICT C6–4.5].\n- Describe procedures for the safe handling, storage, and disposal of laboratory materials, with reference to WHMIS and consumer product labelling information (IP–ST3).",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.1sts",
+          "description": "- Explain how the goal of technology is to provide solutions to practical problems (ST1) [ICT F2–4.4]\n- Describe methods and devices used to prevent corrosion, including physical coatings and cathodic protection.\n- Describe how early peoples used trial and error to extract metals from ore.",
+          "category": "sts",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a range of tools and techniques to gather and record data and information\n- Select and correctly use the appropriate equipment to perform a redox titration experiment (PR–NS2, PR–NS3) [ICT C6–4.5, F1–4.2]\n- Use a standard reduction potential table when considering the spontaneity of redox reactions and their products (PR–ST3)\n- Create charts, tables, or spreadsheets to present the results of redox experiments (PR– NS4) [ICT P2–4.1]",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.2sts",
+          "description": "- Explain that technological problems often require multiple solutions involving different designs, materials, and processes, and that these have intended and unintended consequences (ST3) [ICT F3–4.1].\n- Analyze redox reactions used in industry and commerce, such as pulp and paper, textiles, water treatment, and food processing.",
+          "category": "sts",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess solutions.\n- Evaluate experimental data to derive a simple reduction table (AI–ST3, AI–NS4).\n- Interpret patterns and trends in data from redox reactions (A1–NS2) [ICT C7–4.2].\n- Identify limitations of data collected from redox experiments (A1–NS4).",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.4s",
+          "description": "- Work collaboratively to address problems, and apply scientific skills and conventions to communicate information and ideas and to assess results.\n- Select and use appropriate numeric, symbolic, graphical, and linguistic modes of representation to communicate equations for redox reactions and answers to redox titration problems (CT–ST2).",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues\n- Design an experiment, including a labelled diagram, to test predictions regarding spontaneity, products, and the standard cell potential for reactions occurring in electrochemical cells (IP–NS1, IP–NS2, IP–NS3)\n- Describe procedures for the safe handling, storage, and disposal of materials used in the laboratory, with reference to WHMIS and consumer product labelling information (IP–ST3)\n- Develop a plan to build a battery; seek feedback, test and review the plan, and revise the plan (IP–ST2)",
+          "category": "skills",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.1sts",
+          "description": "- Explain how scientific knowledge leads to new technologies and how technologies can enable scientific discovery (ST4) [ICT F2–4.4, F2–4.8].\n- Analyze the relationship between scientific knowledge and technological development in applications of voltaic and electrolytic cells, including batteries, electroplating, refining metals from ores, electrowinning, and sanitizing swimming pools with chlorine compounds.",
+          "category": "sts",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data.\n- Construct and observe electrochemical cells (PR–ST2, PR–ST3, PR–NS5).\n- Investigate the disposal of used batteries and propose alternative solutions (PR–ST1, AI–ST2) [ICT C2–4.1].\n- Compile and display evidence and information about voltaic and electrolytic cells using diagrams, flowcharts, tables, graphs, and scatterplots (PR–NS4) [ICT P2–4.1].",
+          "category": "skills",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.2sts",
+          "description": "- Describe science and technology applications that have developed in response to human and environmental needs (ST6) [ICT F3–4.1].\n- Investigate technologies, such as galvanism, metallurgy, magnesium coupling, painting, and cathodic protection, used to solve practical problems related to corrosion.",
+          "category": "sts",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Identify the products of electrochemical cells (AI–ST3).\n- Compare predictions with observations for electrochemical cells (AI–ST3).\n- Identify limitations in electrochemical cell data and explain discrepancies between theoretical and actual cell potentials (AI–NS4).\n- Evaluate the efficiencies and practicalities of various electrochemical cells for use as batteries, and assess experimental designs for voltaic and electrolytic cells; suggest improvements and alternatives (AI–ST1).",
+          "category": "skills",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.3sts",
+          "description": "- Explain how science and technology both influence and are influenced by historical development and societal needs (SEC2) [ICT F2–4.4, F2–4.8].\n- Evaluate the economic importance to modern society of electrochemical cells, particularly fuel cells, and predict their future importance in transportation, metal recycling, and reducing smokestack emissions.",
+          "category": "sts",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.4s",
+          "description": "- Work collaboratively to address problems and apply the skills and conventions of science to communicate information and ideas and assess results.\n- Use appropriate SI notation, fundamental and derived units, and significant digits to communicate answers to problems related to functioning electrochemical cells (CT–ST2).\n- Create multiple-linked documents by selecting and integrating information from various print and electronic sources, or from multiple parts of the same source, to prepare a presentation on the use of hydrogen fuel cells for transportation and heating (CT–SEC2) [ICT C1–4.1, C1–4.4, PS–4.1].",
+          "category": "skills",
+          "parent": "30-B2"
+        }
+      ],
+      "topics": [
+        "Oxidation numbers and rules",
+        "Redox reactions and electron transfer",
+        "Half-reactions and balancing redox equations",
+        "Galvanic (voltaic) cells",
+        "Standard reduction potentials (E°)",
+        "Cell potential calculations",
+        "Nernst equation and concentration effects",
+        "Electrolytic cells and electrolysis",
+        "Faraday's laws of electrolysis",
+        "Applications of electrochemistry (batteries, corrosion)"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Cell Potential Example Problems",
+          "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:thermodynamics-and-electrochemistry/x2eef969c74e0d802:applications-of-thermodynamics-to-electrochemistry/v/cell-potential-example-problems",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Acid-base titrations",
+          "url": "https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/titrations/v/titrations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.8k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Acids and bases",
+          "url": "https://www.khanacademy.org/science/chemistry/acids-and-bases-topic",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Atoms and elements",
+          "url": "https://www.khanacademy.org/science/chemistry/atomic-structure-and-properties",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Balancing chemical equations",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.1s",
+            "30-B2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Chemical reactions",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.2k",
+            "30-B1.3k",
+            "30-B1.6k",
+            "30-B1.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Combustion reactions",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/types-of-chemical-reactions-sal/v/combustion-reactions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Acids and Bases",
+          "url": "https://www.youtube.com/watch?v=vt8fB3MFzLk",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Redox Reactions",
+          "url": "https://www.youtube.com/watch?v=xiS_njPo_CY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.1k",
+            "30-B1.3k",
+            "30-B1.6k",
+            "30-B2.7k",
+            "30-B1.2s",
+            "30-B1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Galvanic cells",
+          "url": "https://www.khanacademy.org/science/chemistry/oxidation-reduction/galvanic-cells/v/galvanic-cells-voltaic-cells",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.1k",
+            "30-B2.2k",
+            "30-B2.6k",
+            "30-B2.7k",
+            "30-B2.1s",
+            "30-B2.1sts",
+            "30-B2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Hess's law",
+          "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry/enthalpy-chemistry-sal/v/hess-s-law-and-reaction-enthalpy-change",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.8k",
+            "30-B2.1s",
+            "30-B1.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: pH and pOH",
+          "url": "https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/ph-and-poh",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Professor Dave: Acids and Bases",
+          "url": "https://www.youtube.com/watch?v=0p6RC8JVQp8",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: States of matter and intermolecular forces",
+          "url": "https://www.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Stoichiometry calculations",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal-stoichiometry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.1k",
+            "30-B2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Thermodynamics",
+          "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Introduction to Electrochemistry",
+          "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-kinetics/electrochemistry/v/electrochemistry-introduction",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Oxidation and Reduction: Crash Course Chemistry #15",
+          "url": "https://www.youtube.com/watch?v=bdtD1b-XS0Y",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B1.5k"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Redox Reactions",
+          "url": "https://www.khanacademy.org/science/chemistry/redox-reactions/oxidation-reduction/v/redox-reactions",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "The Science of Corrosion - Safeguarding Our Steel",
+          "url": "https://www.youtube.com/watch?v=6DoPeONC8nY",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B2.2sts"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "Oxidation Reduction",
+          "url": "https://www.khanacademy.org/science/chemistry/oxidation-reduction",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2",
+            "30-B1.3k",
+            "30-B1.6k",
+            "30-B2.7k",
+            "30-B1.2s",
+            "30-B1.2sts",
+            "30-B1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Chemistry library",
+          "url": "https://www.khanacademy.org/science/chemistry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.2k",
+            "30-B1.2sts",
+            "30-B1.3s",
+            "30-B2.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Chemistry - Reaction",
+          "url": "https://openstax.org/books/chemistry-2e/pages/4-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.3k",
+            "30-B1.2s",
+            "30-B2.1s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Review of Redox Chemistry",
+          "url": "https://openstax.org/books/chemistry-2e/pages/17-1-review-of-redox-chemistry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Introduction to Oxidation and Reduction (Redox) Reactions",
+          "url": "https://www.khanacademy.org/science/chemistry/redox-oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction-redox-reactions",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Galvanic (voltaic) and concentration cells",
+          "url": "https://www.khanacademy.org/science/chemistry/oxidation-reduction/electrochemistry/v/galvanic-voltaic-and-concentration-cells",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Electrolysis in Chemistry",
+          "url": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/20%3A_Electrochemistry/20.09%3A_Electrolysis",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Redox Reactions",
+          "url": "https://www.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/redox-reactions",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "libretexts",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Balancing Redox Reactions Practice",
+          "url": "https://www.khanacademy.org/science/chemistry/oxidation-reduction/e/balancing-redox-equations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Balancing Chemical Equations",
+          "url": "https://phet.colorado.edu/en/simulations/balancing-chemical-equations",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1.2k",
+            "30-B1.3k",
+            "30-B1.6k",
+            "30-B1.3s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Build a Molecule",
+          "url": "https://phet.colorado.edu/en/simulations/build-a-molecule",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B2.3k",
+            "30-B2.6k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: pH Scale",
+          "url": "https://phet.colorado.edu/en/simulations/ph-scale",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1.1sts"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "Chemistry Simulations",
+          "url": "https://phet.colorado.edu/en/simulations/category/chemistry",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B2.2sts"
+          ],
+          "source": "PhET Interactive Simulations",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "Balancing Chemical Equations",
+          "url": "https://phet.colorado.edu/en/simulation/balancing-chemical-equations",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B1.5k"
+          ],
+          "source": "PhET Interactive Simulations",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "virtual-lab",
+          "title": "Exploring Oxidation-Reduction Reactions",
+          "url": "https://chemcollective.org/vlab/106",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "ChemCollective",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Galvanic Cells",
+          "url": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/17:_Electrochemistry/17.02:_Galvanic_Cells",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Corrosion: Effects and Prevention",
+          "url": "https://en.wikipedia.org/wiki/Corrosion",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B2.2sts"
+          ],
+          "source": "Wikipedia",
+          "provider": "wikipedia",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "organic-chemistry",
+      "title": "Chemical Changes of Organic Compounds",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "30-C1",
+          "description": "- Explore organic compounds as a common form of matter.",
+          "type": "general"
+        },
+        {
+          "code": "30-C2",
+          "description": "- Describe chemical reactions of organic compounds.",
+          "type": "general"
+        },
+        {
+          "code": "30-C1.1k",
+          "description": "- Define organic compounds as carbon-containing compounds and recognize inorganic exceptions (carbonates, cyanides, carbides, and oxides of carbon).",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.2k",
+          "description": "- Identify and describe significant organic compounds in everyday life, explaining their sources and uses (e.g., methane, methanol, ethane, ethanol, ethanoic acid, propane, benzene, octane, glucose, polyethylene).",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.3k",
+          "description": "- Name and draw structural, condensed structural, and line diagrams and formulas using International Union of Pure and Applied Chemistry (IUPAC) nomenclature guidelines.\n- Apply these to saturated and unsaturated aliphatic (including cyclic) and aromatic carbon compounds with up to 10 carbon atoms in the parent chain or cyclic structure.\n- Restrict to compounds with one type of functional",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.4k",
+          "description": "- Identify compound types from structural formulas by recognizing hydroxyl, carboxyl, ester linkage, and halogen functional groups.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.5k",
+          "description": "- Define structural isomerism as compounds with the same molecular formula but different structural formulas.\n- Relate structural differences among isomers to variations in their properties.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.6k",
+          "description": "- Compare the boiling points and solubility of examples of aliphatics, aromatics, alcohols, and carboxylic acids within a homologous series and across different functional groups.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.7k",
+          "description": "- Describe, in general terms, the physical, chemical, and technological processes (fractional distillation and solvent extraction) used to separate organic compounds from natural mixtures or solutions, e.g., in petroleum refining and bitumen recovery.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C2.1k",
+          "description": "- Define, illustrate, and provide examples of simple addition, substitution, elimination, esterification, and combustion reactions.",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.2k",
+          "description": "- Predict products and write and interpret balanced equations for the above reactions",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.3k",
+          "description": "- Define monomers, polymers, and polymerization.\n- Illustrate polymerization in living systems (e.g., carbohydrates, proteins) and nonliving systems (e.g., nylon, polyester, plastics).\n- Provide examples of monomers (e.g., ethylene) and polymers (e.g., polyethylene).",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.4k",
+          "description": "- Relate the reactions described above to major reactions that produce thermal energy and economically important compounds from fossil fuels.",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of related questions, ideas, problems, and issues.\n- Design a procedure to identify types of organic compounds (IP–NS1, IP–NS2, IP–NS3).\n- Describe procedures for the safe handling, storage, and disposal of laboratory materials, referencing WHMIS and consumer product labelling information (IP–SEC3).\n- Design a procedure to separate a mixture of organic compounds based on boiling point differences (IP–ST2, IP–ST3).",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.1sts",
+          "description": "- Explain how science and technology are developed to meet societal needs and expand human capability (SEC1) [ICT F2–4.4, F2–4.8].\n- Describe where organic compounds are used in processes and common products (e.g., hydrogenation to produce margarine; esters as flavouring agents).\n- Describe Aboriginal use of organic substances for waterproofing, tanning, dyeing, medicines, salves, and insect repellents.",
+          "category": "sts",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Build molecular models depicting the structures of selected organic and inorganic compounds (PR–NS4) [ICT C6–4.4].\n- Perform an experiment to compare the properties of organic and inorganic compounds (e.g., solubility, viscosity, density, conductivity, reactivity) (PR–NS2, PR–NS3, PR–NS5).",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.2sts",
+          "description": "- Explain that science and technology both shape and are shaped by historical developments and societal needs (SEC2) [ICT F2–4.8].\n- Explain how chemistry and chemical technology have produced beneficial synthetic compounds, such as plastics, medicines, hydrocarbon fuels, and pesticides.",
+          "category": "sts",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions\n- Follow appropriate IUPAC guidelines when writing the names and formulas of organic compounds (AI–NS1)\n- Compile and organize data to compare the properties of structural isomers\n- G., pairs of hydrocarbon isomers and primary, secondary and tertiary alcohols (AI–NS1) [ICT C6–4.2]\n- Interpret the results of a test to distinguish between a saturated and an unsaturated aliphatic, using aqueous bromine or potassium permanganate solutions (AI–NS2)",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.4s",
+          "description": "- Work collaboratively to address problems, applying the skills and conventions of science to communicate information and ideas and to assess results.\n- Use advanced menu features in word processing software to accomplish tasks, including inserting tables, graphs, text, and graphics (CT–SEC2) [ICT P4–4.3].",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of related questions, ideas, problems, and issues.\n- Predict the ester formed from an alcohol and an organic acid (IP–NS3).\n- Describe procedures for the safe handling, storage, and disposal of materials used in the laboratory, with reference to WHMIS and consumer product labelling information (IP–SEC3).\n- Design a procedure to prepare a polymer (IP–NS1).",
+          "category": "skills",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.1sts",
+          "description": "- Explain how science and technology are developed to meet societal needs and expand human capability (SEC1).\n- Describe processes for obtaining economically important compounds from fossil fuels, including comparing hydrocracking and catalytic reforming and describing bitumen upgrading.\n- Describe major reactions used in Alberta’s petrochemical industry, such as those producing methanol, ethylene glycol, polyethylene, polyvinyl chloride (PVC), and urea formaldehyde.\n- Investigate applications of nanoscience and nanotechnology in the petrochemical industry and in medical sciences.",
+          "category": "sts",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.2s",
+          "description": "- Investigate relationships among observable variables, using diverse tools and techniques to gather and record data.\n- Perform experiments to investigate reactions of organic compounds, such as synthesizing a polymer (e.g., nylon or “slime”), producing an ester, and exploring soap-making methods (IP–NS1, IP–NS2, IP–NS3, IP–NS4).\n- Use library and electronic research tools to collect information on bitumen upgrading; the octane/cetane ratings of fuels and how they are determined; and the costs and benefits of supporting the petrochemical industry (PR–SEC1, PR–SEC2) [ICT C1–4.1].",
+          "category": "skills",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.2sts",
+          "description": "- Explain how science and technology both influence and are influenced by historical development and societal needs (SEC2) [ICT F2–4.8]\n- Describe processes used in producing fuels, such as adjusting octane/cetane rating, reducing sulfur content, and adding oxygenated additives (e.g., blending with ethanol)",
+          "category": "sts",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess solutions.\n- Use IUPAC conventions when writing organic chemical reactions (AI–NS1).\n- Investigate greenhouse gases; identify methane, carbon dioxide, water, and dinitrogen oxide (nitrous oxide); and analyze their contribution to climate change (AI–SEC1, AI–SEC2) [ICT F3–4.1].\n- Illustrate polymers by drawing or using models, and analyze polymer production processes (CT–ST2, AI–ST1).\n- Analyze efficiencies and negative by-products in organic chemistry processes (AI–ST2) [ICT F3–4.1].",
+          "category": "skills",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.3sts",
+          "description": "- Explain how science and technology have intended and unintended consequences for humans and the environment (SEC3) [ICT F3–4.1]\n- Assess the positive and negative effects of reactions involving organic compounds, linking them to quality of life and potential health and environmental issues\n- Evaluate the implications of the development of nanoscience and nanotechnology for applications in the petrochemical industry and the medical sciences on society and the environment",
+          "category": "sts",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.4s",
+          "description": "- Work collaboratively to address problems.\n- Apply the skills and conventions of science to communicate information and ideas and to assess results.\n- Use advanced menu features within word processing software to insert tables, graphs, text, and graphics when preparing a report on an issue related to society’s use of organic chemistry (CT–SEC2) [ICT P4–4.3].",
+          "category": "skills",
+          "parent": "30-C2"
+        }
+      ],
+      "topics": [
+        "IUPAC nomenclature for hydrocarbons",
+        "Structural isomers and stereoisomers",
+        "Alkanes, alkenes, and alkynes",
+        "Functional groups (alcohols, aldehydes, ketones, carboxylic acids, esters, amines)",
+        "Organic reactions: substitution, addition, elimination",
+        "Esterification and condensation reactions",
+        "Polymerization reactions",
+        "Properties and uses of organic compounds",
+        "Organic compounds in everyday life"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Functional Groups in Organic Chemistry",
+          "url": "https://www.khanacademy.org/science/organic-chemistry/gen-chem-review/functional-groups-ochem/v/functional-groups",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "iuaYuCreEPk",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/iuaYuCreEPk?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Acid-base titrations",
+          "url": "https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/titrations/v/titrations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Acids and bases",
+          "url": "https://www.khanacademy.org/science/chemistry/acids-and-bases-topic",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.2k",
+            "30-C2.1s",
+            "30-C2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Atoms and elements",
+          "url": "https://www.khanacademy.org/science/chemistry/atomic-structure-and-properties",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Balancing chemical equations",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.2k",
+            "30-C2.1s",
+            "30-C2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Chemical bonds",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-bonds",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Chemical reactions",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2",
+            "30-C2.1sts",
+            "30-C2.3s",
+            "30-C2.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Combustion reactions",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/types-of-chemical-reactions-sal/v/combustion-reactions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.4k",
+            "30-C1.3s",
+            "30-C2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Covalent bonding and Lewis structures",
+          "url": "https://www.khanacademy.org/science/ap-chemistry/chemical-bonds-ap/types-chemical-bonds-ap/v/covalent-networks-giant-covalent-structures",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Acids and Bases",
+          "url": "https://www.youtube.com/watch?v=vt8fB3MFzLk",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electron configuration",
+          "url": "https://www.khanacademy.org/science/chemistry/electronic-structure-of-atoms",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Enthalpy and calorimetry",
+          "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry/internal-energy-sal",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Hess's law",
+          "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry/enthalpy-chemistry-sal/v/hess-s-law-and-reaction-enthalpy-change",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.4k",
+            "30-C2.1sts",
+            "30-C2.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Hydrocarbons",
+          "url": "https://www.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.1k",
+            "30-C1.7k",
+            "30-C1.1sts",
+            "30-C1.2sts",
+            "30-C1.3s",
+            "30-C2.3sts",
+            "30-C2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Molecular geometry and polarity",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-bonds/copy-of-dot-structures/v/vsepr-theory",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: pH and pOH",
+          "url": "https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/ph-and-poh",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.6k",
+            "30-C1.4s",
+            "30-C2.1s",
+            "30-C2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Professor Dave: Acids and Bases",
+          "url": "https://www.youtube.com/watch?v=0p6RC8JVQp8",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Redox reactions and electrochemistry",
+          "url": "https://www.khanacademy.org/science/chemistry/oxidation-reduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: States of matter and intermolecular forces",
+          "url": "https://www.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Stoichiometry calculations",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal-stoichiometry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Hydrocarbons Chemistry",
+          "url": "https://openstax.org/books/chemistry-2e/pages/20-1-hydrocarbons",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Organic Chemistry Course",
+          "url": "https://www.khanacademy.org/science/organic-chemistry",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C1.4k",
+            "30-C1.7k",
+            "30-C1.1sts",
+            "30-C1.2sts",
+            "30-C1.3s",
+            "30-C2.3s",
+            "30-C2.4s",
+            "30-C2.1s",
+            "30-C2.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Chemistry library",
+          "url": "https://www.khanacademy.org/science/chemistry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2",
+            "30-C2.1sts",
+            "30-C2.3s",
+            "30-C2.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Chemistry - Acid",
+          "url": "https://openstax.org/books/chemistry-2e/pages/14-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.2k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Chemistry - Gas",
+          "url": "https://openstax.org/books/chemistry-2e/pages/9-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.3s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Chemistry - Reaction",
+          "url": "https://openstax.org/books/chemistry-2e/pages/4-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.1k",
+            "30-C2.1sts"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "8: Nucleophilic Substitution and Elimination Reactions",
+          "url": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/08%3A_Nucleophilic_Substitution_and_Elimination_Reactions",
+          "difficulty": "advanced",
+          "alignedOutcomes": [],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Nomenclature of Organic Compounds Practice",
+          "url": "https://www.khanacademy.org/science/class-11-chemistry-india/xfbb6cb8fc2bd00c8:in-in-organic-chemistry-some-basic-principles-and-techniques/xfbb6cb8fc2bd00c8:in-in-nomenclature-of-organic-compounds/e/nomenclature-of-organic-compounds",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Optical Activity Enantiomers",
+          "url": "https://www.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/e/optical-activity-and-enantiomers",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Balancing Chemical Equations",
+          "url": "https://phet.colorado.edu/en/simulations/balancing-chemical-equations",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C2.1k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Build a Molecule",
+          "url": "https://phet.colorado.edu/en/simulations/build-a-molecule",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C2",
+            "30-C1.7k",
+            "30-C2.1sts",
+            "30-C2.3s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: pH Scale",
+          "url": "https://phet.colorado.edu/en/simulations/ph-scale",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C1.2k",
+            "30-C1.4s",
+            "30-C2.1s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Reaction Rates",
+          "url": "https://phet.colorado.edu/en/simulations/reactions-and-rates",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C2.3k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "reference",
+          "title": "Nomenclature of Alkanes",
+          "url": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkanes/Nomenclature_of_Alkanes",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "LibreTexts",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "chemical-equilibrium-acids-bases",
+      "title": "Chemical Equilibrium Focusing on Acid-Base Systems",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "30-D1",
+          "description": "- Explain that chemical equilibrium involves a balance of opposing reactions.",
+          "type": "general"
+        },
+        {
+          "code": "30-D2",
+          "description": "- Determine quantitative relationships in simple equilibrium systems.",
+          "type": "general"
+        },
+        {
+          "code": "30-D2.1k",
+          "description": "- Recall the concepts of pH, hydronium ion concentration, pOH, and hydroxide ion concentration as they relate to acids and bases.",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.2k",
+          "description": "- Define Kw, Ka, and Kb and use them to determine pH, pOH, [H3O+] and [OH–] of acidic and basic solutions",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.3k",
+          "description": "- Calculate equilibrium constants and concentrations for homogeneous systems and Brønsted–Lowry acids and bases (excluding buffers) when equilibrium concentrations are known.\n- Calculate equilibrium constants and concentrations for homogeneous systems and Brønsted–Lowry acids and bases (excluding buffers) when initial concentrations and one equilibrium concentration are known.\n- Calculate equilibrium constants and concentrations for homogeneous systems and Brønsted–Lowry acids and bases (excluding buffers) when the equilibrium constant and one equilibrium concentration are known.\n- Solve without applying the quadratic equation, though you may use it in open-ended responses.",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D1.1k",
+          "description": "- Define chemical equilibrium.\n- State the criteria for chemical equilibrium: closed system, constancy of properties, and equal forward and reverse reaction rates.",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.2k",
+          "description": "- Identify, write, and interpret chemical equations for systems at equilibrium",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.3k",
+          "description": "- Predict, qualitatively, using Le Chatelier’s principle, shifts in equilibrium due to changes in temperature, pressure, volume, concentration, or addition of a catalyst.\n- Describe how these changes affect the equilibrium constant.",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.4k",
+          "description": "- Define Kc and use it to predict the extent of a reaction.\n- Write equilibrium-law (Kc) expressions for given chemical equations using lowest whole-number coefficients.",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.5k",
+          "description": "- Describe Brønsted–Lowry acids as proton donors and bases as proton acceptors",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.6k",
+          "description": "- Write Brønsted–Lowry acid–base equations, including those involving indicators.\n- Predict whether reactants or products are favored in acid–base equilibria for monoprotic and polyprotic acids and bases.",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.7k",
+          "description": "- Identify conjugate acid–base pairs and amphiprotic substances.",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.8k",
+          "description": "- Define a buffer as relatively large amounts of a weak acid or base and its conjugate, in equilibrium, that maintain a relatively constant pH when small amounts of acid or base are added.",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.1s",
+          "description": "- Formulate questions about observed relationships, ideas, problems, and issues, and plan investigations.\n- Predict variables that can cause a shift in equilibrium (IP–NS3).\n- Design an experiment to demonstrate equilibrium shifts (e.g., colour change, temperature change, precipitation) (IP–NS2).\n- Describe safe handling, storage, and disposal procedures for lab materials, referencing WHMIS and consumer product labelling information (IP–NS4).\n- Design a procedure to prepare a buffering system (PR–ST2).",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.1sts",
+          "description": "- Explain that the goal of science is knowledge about the natural world (NS1).\n- Apply equilibrium theories and principles to analyze phenomena such as carbon dioxide escaping from an open carbonated beverage, the role of the oceans in the carbon cycle, the solubility of oxygen gas in lake water, acid precipitation (deposition), blood gases in deep-sea diving, and buffers in living systems.",
+          "category": "sts",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data.\n- Perform a qualitative experiment to test predictions of equilibrium shifts (e.g., colour change, temperature change, precipitation, gas production) (PR–NS3, PR–NS4, PR–NS5).\n- Prepare a buffer and, with water as a control, investigate its ability to resist pH change when small amounts of strong acid or strong base are added (AI–NS6).",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.2sts",
+          "description": "- Explain that scientific knowledge and theories develop through hypotheses, evidence collection, investigation, and explanation (NS2).\n- Research how equilibrium theories and principles developed.",
+          "category": "sts",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Write the equilibrium law expression for a given equation (AI–NS1).\n- Analyze, qualitatively, how reactant and product concentrations change after an equilibrium shift (AI–NS6).\n- Interpret graphs to determine when equilibrium is established and determine the cause of a stress on the system (AI–NS2, AI–NS6) [ICT C6–4.1].\n- Interpret, qualitatively, titration curves of monoprotic and polyprotic acids and bases for strong acid–weak base and weak acid–strong base combinations, and identify buffering regions (AI–NS2).",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.3sts",
+          "description": "- Explain that technology aims to solve practical problems (ST1) [ICT F2–4.4].\n- Analyze how equilibrium principles are applied in industrial processes (e.g., Haber–Bosch for ammonia, Solvay for sodium carbonate, methanol production).",
+          "category": "sts",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.4s",
+          "description": "- Collaborate to address problems and apply the skills and conventions of science to communicate information and ideas, and assess results.\n- Work cooperatively to develop an illustration and explanation of reversible reactions (CT–ST2).\n- Use advanced menu features within word processing software to insert tables, graphs, text, and graphics when developing a group report on equilibrium systems (CT–SEC2) [ICT C1–4.4].",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into related questions, ideas, problems, and issues.\n- Design an experiment to demonstrate qualitative equilibrium shifts in concentration under given conditions (IP–SEC3).\n- Describe safe handling, storage, and disposal procedures for laboratory materials, referencing WHMIS and consumer product labelling information (IP–NS4).",
+          "category": "skills",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.1sts",
+          "description": "- Explain that technological development may involve creating and testing prototypes and applying knowledge from related scientific and interdisciplinary fields (ST2).\n- Analyze, using chemical principles, how equilibrium applies to industrial processes or medical sciences, buffering in living systems, and acid precipitation.",
+          "category": "sts",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Perform an experiment to show equilibrium shifts in concentration (PR–NS3) [ICT C6–4.1].",
+          "category": "skills",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Use experimental data to calculate equilibrium constants (AI–NS3).",
+          "category": "skills",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.4s",
+          "description": "- Work collaboratively to address problems and apply scientific skills and conventions to communicate information and ideas and assess results.\n- Use advanced menu features in word processing software to insert tables, graphs, text, and graphics when developing a group report on equilibrium applications in Alberta industries (CT–SEC2) [ICT C1–4.4].",
+          "category": "skills",
+          "parent": "30-D2"
+        }
+      ],
+      "topics": [
+        "Dynamic equilibrium and reversible reactions",
+        "Equilibrium constants (Kc and Kp)",
+        "Reaction quotient (Q) and predicting shift direction",
+        "Le Chatelier's principle",
+        "Weak acids and bases",
+        "Ka and Kb calculations",
+        "pH and pOH of weak acid/base solutions",
+        "Buffer solutions and Henderson-Hasselbalch equation",
+        "Acid-base titrations and indicators",
+        "Solubility equilibria (Ksp)"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Introduction Ka",
+          "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:acids-and-bases/x2eef969c74e0d802:weak-acid-and-base-equilibria/v/introduction-to-ka",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Acid-base titrations",
+          "url": "https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/titrations/v/titrations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.6k",
+            "30-D1.7k",
+            "30-D1.8k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Acids and bases",
+          "url": "https://www.khanacademy.org/science/chemistry/acids-and-bases-topic",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.1k",
+            "30-D1.7k",
+            "30-D1.8k",
+            "30-D1.2s",
+            "30-D1.3s",
+            "30-D2.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Atoms and elements",
+          "url": "https://www.khanacademy.org/science/chemistry/atomic-structure-and-properties",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Balancing chemical equations",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Chemical Equilibrium",
+          "url": "https://www.youtube.com/watch?v=KZG9SGSgMds",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.4k",
+            "30-D2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Chemical bonds",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-bonds",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Chemical equilibrium",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-equilibrium",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.3k",
+            "30-D1.2sts",
+            "30-D2.1sts",
+            "30-D2.3s",
+            "30-D2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Chemical reactions",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Acids and Bases",
+          "url": "https://www.youtube.com/watch?v=vt8fB3MFzLk",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.2k",
+            "30-D1.7k",
+            "30-D1.8k",
+            "30-D1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Chemical Equilibrium",
+          "url": "https://www.youtube.com/watch?v=SLDd9kjoJNA",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.4k",
+            "30-D1.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Gas laws",
+          "url": "https://www.khanacademy.org/science/chemistry/gases-and-kinetic-molecular-theory",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Hess's law",
+          "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry/enthalpy-chemistry-sal/v/hess-s-law-and-reaction-enthalpy-change",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Le Chatelier's principle",
+          "url": "https://www.khanacademy.org/science/ap-chemistry/chemical-equilibrium-ap/equilibrium-constant-ap/v/le-chateliers-principle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.1s",
+            "30-D1.2sts",
+            "30-D1.3s",
+            "30-D2.1sts",
+            "30-D2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Organic chemistry introduction",
+          "url": "https://www.khanacademy.org/science/organic-chemistry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: pH and pOH",
+          "url": "https://www.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/ph-and-poh",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.2k",
+            "30-D1.7k",
+            "30-D1.8k",
+            "30-D1.2s",
+            "30-D2.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Professor Dave: Acids and Bases",
+          "url": "https://www.youtube.com/watch?v=0p6RC8JVQp8",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.2k",
+            "30-D1.8k",
+            "30-D1.2s",
+            "30-D1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: States of matter and intermolecular forces",
+          "url": "https://www.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Stoichiometry calculations",
+          "url": "https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal-stoichiometry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Worked Example Using Le Chateliers Principle Predict Shifts",
+          "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:equilibrium/x2eef969c74e0d802:le-chatelier-s-principle/v/worked-example-using-le-chateliers-principle-to-predict-shifts-in-equilibrium",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "YBEoLzMWCdM",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/YBEoLzMWCdM?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Common-ion effect and Le Châtelier's principle",
+          "url": "https://www.khanacademy.org/science/chemistry/acid-base-equilibrium/common-ion-effect-buffers/a/common-ion-effect-and-le-chateliers-principle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Equilibrium Constants",
+          "url": "https://openstax.org/books/chemistry-2e/pages/13-2-equilibrium-constants",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Chemistry library",
+          "url": "https://www.khanacademy.org/science/chemistry",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Chemistry - Acid",
+          "url": "https://openstax.org/books/chemistry-2e/pages/14-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.1k",
+            "30-D1.7k",
+            "30-D1.3s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Chemistry - Equilibrium",
+          "url": "https://openstax.org/books/chemistry-2e/pages/13-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.3k",
+            "30-D1.2s",
+            "30-D2.3s",
+            "30-D2.4s",
+            "30-D1.2sts",
+            "30-D1.3s",
+            "30-D2.1sts"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Chemistry - Reaction",
+          "url": "https://openstax.org/books/chemistry-2e/pages/4-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.4s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Equilibrium Constant Expression",
+          "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:equilibrium/x2eef969c74e0d802:keq/e/equilibrium-constant-expression",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Balancing Chemical Equations",
+          "url": "https://phet.colorado.edu/en/simulations/balancing-chemical-equations",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D2.3k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Build a Molecule",
+          "url": "https://phet.colorado.edu/en/simulations/build-a-molecule",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D1.1k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Gas Properties",
+          "url": "https://phet.colorado.edu/en/simulations/gas-properties",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D1.3k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: pH Scale",
+          "url": "https://phet.colorado.edu/en/simulations/ph-scale",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D2.1k",
+            "30-D1.8k",
+            "30-D2.4s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Reaction Rates",
+          "url": "https://phet.colorado.edu/en/simulations/reactions-and-rates",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D2.1s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "virtual-lab",
+          "title": "Strong Acid and Base Problems Virtual Lab",
+          "url": "https://chemcollective.org/vlab/98",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2"
+          ],
+          "source": "ChemCollective",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Chemical Equilibria",
+          "url": "https://openstax.org/books/chemistry-2e/pages/13-1-chemical-equilibria",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "solutions-solubility",
+      "title": "Solutions and Solubility",
+      "estimatedHours": 5,
+      "outcomes": [],
+      "topics": [
+        "Solubility and solubility equilibria",
+        "Solubility product constant (Ksp)",
+        "Common ion effect on solubility",
+        "Precipitation reactions and predictions",
+        "Factors affecting solubility (temperature, pressure, common ions)"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Solubility Product Constant (Ksp)",
+          "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:equilibrium/x2eef969c74e0d802:solubility-equilibria/v/solubility-product-constant-ksp",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "article",
+          "title": "Acids, Bases, pH and Buffers",
+          "url": "https://www.khanacademy.org/science/biology/water-acids-and-bases/acids-bases-and-ph/a/acids-bases-ph-and-bufffers",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Solubility Equilibria",
+          "url": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/17%3A_Additional_Aspects_of_Aqueous_Equilibria/17.04%3A_Solubility_Equilibria",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "pH and pOH of Strong Acids and Bases",
+          "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:acids-and-bases/x2eef969c74e0d802:ph-and-poh-of-strong-acids-and-bases/e/ph-and-poh-of-strong-acids-and-bases",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Using Solubility Product Constant",
+          "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:equilibrium/x2eef969c74e0d802:solubility-equilibria/e/using-the-solubility-product-constant",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "virtual-lab",
+          "title": "Solubility Virtual Lab",
+          "url": "https://chemcollective.org/vlab/113",
+          "difficulty": "advanced",
+          "alignedOutcomes": [],
+          "source": "ChemCollective",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Other Units for Solution Concentrations",
+          "url": "https://openstax.org/books/chemistry-2e/pages/3-4-other-units-for-solution-concentrations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "thermodynamics-free-energy",
+      "title": "Thermodynamics and Free Energy",
+      "estimatedHours": 5,
+      "outcomes": [],
+      "topics": [
+        "Hess's Law applications",
+        "Standard enthalpy of formation",
+        "Entropy and the second law of thermodynamics",
+        "Gibbs free energy equation (ΔG = ΔH - TΔS)",
+        "Spontaneity predictions",
+        "Temperature dependence of ΔG",
+        "Relationship between ΔG and equilibrium"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Hess's Law and Reaction Enthalpy",
+          "url": "https://www.khanacademy.org/v/hess-s-law-and-reaction-enthalpy-change",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "chXMpDwjBDk",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/chXMpDwjBDk?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Introduction Entropy",
+          "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:thermodynamics/x2eef969c74e0d802:entropy/v/introduction-to-entropy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "Svvr5uF_FZ8",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/Svvr5uF_FZ8?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "What is Gibbs free energy?",
+          "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry/gibbs-free-energy-intro-chemistry/a/what-is-gibbs-free-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Free Energy",
+          "url": "https://openstax.org/books/chemistry-2e/pages/16-4-free-energy",
+          "difficulty": "advanced",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Hess's Law Practice Problems",
+          "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:thermodynamics/x2eef969c74e0d802:hess-s-law/e/hess-s-law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "virtual-lab",
+          "title": "Chemcollective Thermochemistry",
+          "url": "https://chemcollective.org/thermo",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "ChemCollective",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Understanding Enthalpy in Chemistry",
+          "url": "https://openstax.org/books/chemistry-2e/pages/5-3-enthalpy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    }
+  ]
+}

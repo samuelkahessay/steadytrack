@@ -1,0 +1,1197 @@
+{
+  "subject": "English Language Arts 30-1",
+  "grade": 12,
+  "albertaDocs": [
+    {
+      "type": "reference",
+      "title": "ELA 10-12 Program of Studies",
+      "url": "https://education.alberta.ca/media/160418/ela-pos-10-12.pdf"
+    },
+    {
+      "type": "reference",
+      "title": "ELA 30-1 Information Bulletin 2024-2025",
+      "url": "https://www.alberta.ca/system/files/custom_downloaded_images/ed-diploma-exam-ela30-1-information-bulletin.pdf"
+    },
+    {
+      "type": "rubric",
+      "title": "ELA 30-1 Scoring Guide 2024-2025",
+      "url": "https://www.alberta.ca/system/files/educ-ela-30-1-scoring-guide.pdf"
+    },
+    {
+      "type": "exemplars",
+      "title": "ELA 30-1 Examples of Students' Writing January 2023",
+      "url": "https://www.alberta.ca/system/files/educ-ela-30-1-examples-students-writing-jan-2023.pdf"
+    },
+    {
+      "type": "exemplars",
+      "title": "ELA 30-1 Examples of Students' Writing January 2019",
+      "url": "https://www.alberta.ca/system/files/custom_downloaded_images/edc-ela-30-1-examples-students-writing-Jan-2019.pdf"
+    },
+    {
+      "type": "reference",
+      "title": "A Guide for Students: English Language Arts 30-1",
+      "url": "https://open.alberta.ca/publications/a-guide-for-students-english-language-arts-30-1"
+    }
+  ],
+  "units": [
+    {
+      "id": "critical-analytical-response",
+      "title": "Critical and Analytical Response to Literature",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "2",
+          "title": "Comprehend and respond personally and critically to texts",
+          "type": "general",
+          "description": "- Comprehend and respond personally and critically to texts"
+        },
+        {
+          "code": "2.1.1",
+          "title": "Discern and analyze context process and findings",
+          "parent": "2",
+          "description": "- Identify a text creator’s purpose (including implicit purpose) and target audience; paraphrase key messages and subtext, judge whether the purpose was achieved, and assess suitability for the audience.\n- Analyze and explain the relationship between text and context, including elements of the communication situation (e.g., creator’s role, time, culture, audience presence) that influence how a text is created.\n- Identify textual features (e.g., specialized terminology, jargon, acronyms, idioms) that provide contextual clues about the text and its creators or communities.\n- Use strategies to build background knowledge (e.g., historical and societal sources; insights from teachers and elders) and reflect on personal context to interpret a text from multiple perspectives."
+        },
+        {
+          "code": "2.1.2",
+          "title": "Understand and interpret content",
+          "parent": "2",
+          "description": "- Use a range of close-reading strategies to comprehend literature and other texts; paraphrase the controlling idea and show how supporting ideas and details develop it.\n- Summarize and analyze plot, setting, character, conflict, and atmosphere, and explain how these elements interrelate to develop theme.\n- Analyze characters’ traits, motivations, values"
+        },
+        {
+          "code": "2.2.1",
+          "title": "Relate form, structure and medium to purpose, audience and content",
+          "parent": "2",
+          "description": "- Identify common text forms and their purposes.\n- Analyze how form and structure relate to purpose, content, and audience.\n- Explain how audience factors influence a creator’s choice of form and medium.\n- Apply knowledge of organizational patterns and structural features to understand purpose and content, and assess structural effectiveness.\n- Analyze how medium shapes the message and assess the appropriateness of the chosen medium for the purpose, content, and audience."
+        },
+        {
+          "code": "2.2.2",
+          "title": "Relate elements, devices and techniques to created effects",
+          "parent": "2",
+          "description": "- Analyze how textual elements and stylistic and rhetorical devices create clarity, coherence, emphasis, atmosphere, tone, and voice in print and nonprint texts.\n- Identify and analyze irony and satire, including the language that creates them, and explain their effects on audiences.\n- Explain how figures of speech, musical devices, and sensory details create effects, and assess their effectiveness across texts.\n- Recognize motif and symbol, and explain how they contribute to controlling idea and theme.\n- Analyze elements of effective oral, visual, and multimedia presentations and persuasive techniques, and assess their effects on audiences."
+        },
+        {
+          "code": "1",
+          "description": "- Explore thoughts, ideas, feelings, and experiences.",
+          "type": "general"
+        },
+        {
+          "code": "1.1.1",
+          "description": "- Generate and experiment with strategies to form tentative understandings, interpretations, and positions (e.g., pose questions, suspend prejudgement, recognize that initial views and texts may be incomplete, ambiguous, or misleading).\n- Form and assess tentative interpretations and positions on ideas and issues in literature and other texts by expressing your own explorations, considering others’, and exploring additional aspects of the texts.\n- Revise interpretations and positions by weighing the validity of ideas, observations, and opinions, and identify areas for further inquiry or research.\n- 30-1: Draw from a repertoire of strategies to form tentative understandings, interpretations, and positions; then modify them by assessing validity and identifying areas for further inquiry or research.",
+          "parent": "1"
+        },
+        {
+          "code": "1.1.2",
+          "description": "- Experiment with language, image, and structure to create different effects for particular situations, purposes, and audiences.\n- 30-1: Explain how experimenting with language, image, and structure improves personal craft and effectiveness as a text creator.\n- Experiment with a variety of strategies, activities, and resources to explore ideas, observations, opinions, experiences, and emotions.",
+          "parent": "1"
+        },
+        {
+          "code": "1.2.1",
+          "description": "- Consider new perspectives a. describe personal responses to new perspectives, appraise whether such responses contribute to or inhibit understanding, and identify influences that have contributed to such responses a. select appropriate strategies to extend awareness and understanding of new perspectives, monitor their effectiveness, and modify them as needed [for example, record new understandings in a learning log\n- Develop new group perspectives using a fish bowl organization] b. identify own ideas, perspectives and interpretations and evaluate them for depth of explanation, evidence or support\n- And consider the ideas, perspectives and interpretations of others to broaden own understandings when exploring and responding to texts b. compare own ideas, perspectives and interpretations with those of others, through a variety of means, to expand perceptions and understandings when exploring and responding to texts [for example, pro–con charts, alternative Internet search engines, comparison tables and think–pair–share charts] b. recognize and assess the strengths and limitations of various perspectives on a theme, issue or topic, and identify aspects for further consideration when exploring and responding to texts c. analyze and evaluate how various topics and themes, text forms, text types and text creators influence own and others’ understandings, attitudes and aspirations\n- 30-1: b. recognize and assess the strengths and limitations of various perspectives on a theme, issue or topic, and identify aspects for further consideration when exploring and responding to texts\n- Analyze and evaluate how various topics and themes, text forms, text types and text creators influence own and others’ understandings, attitudes and aspirations",
+          "parent": "1"
+        },
+        {
+          "code": "1.2.2",
+          "description": "- Reflect on personal text preferences, identify influences shaping them, and choose strategies to broaden interests in texts and text creators.\n- Expand interests across a range of literary genres and other text types and creators.\n- Explain how the content and style of various texts appeal to audiences with particular interests and preferences.\n- 30-1: Cultivate appreciation for a variety of genres, texts, text creators, and texts in translation from other countries.",
+          "parent": "1"
+        },
+        {
+          "code": "1.2.3",
+          "description": "- Set personal goals for language growth.\n- Assess your strengths and weaknesses as a language user and learner; select appropriate strategies to build strengths and address weaknesses; monitor their effectiveness; and modify them to optimize growth (e.g., use a writing portfolio and reflections).\n- Set goals and apply strategies for language growth in formal and informal personal communications and community involvement (e.g., working in a group, taking a leadership role, auditioning for a play, volunteering).\n- Set goals and draw from a repertoire of effective strategies for language growth related to future aspirations (e.g., post-secondary learning and potential careers) (30-1: b.).\n- Identify and access learning sources and opportunities; assess, weigh, and manage risk; and demonstrate a willingness to continuously learn and grow.",
+          "parent": "1"
+        },
+        {
+          "code": "2.1.3",
+          "description": "- Engage prior knowledge a. reflect on and describe strategies used to engage prior knowledge as a means of assisting comprehension of new texts\n- And select, monitor and modify strategies as needed b. describe personal expectations for a text to be studied, by recalling prior experiences with and observations about similar contexts, content and text forms b. assess personal expectations for texts to be studied in light of prior experiences with and observations about similar contexts, content and text forms b. assess prior knowledge of contexts, content and text forms\n- And explain how it contributes to new understandings c. recall prior knowledge of rhetorical devices used in previously studied texts [such as anecdotes and rhetorical questions] and textual elements and structures employed or developed [such as characterization and narrative point of view] to assist in understanding new texts c. use metacognitive strategies to understand how knowledge of rhetorical devices, textual elements and structures used in previously studied texts contributes to understanding new texts c. identify variations and departures from the conventional use of rhetorical devices, textual elements and structures in texts\n- And describe the purpose and effect of such variations and departures d. classify the genre/form of new texts according to attributes of genres/forms previously studied ...........................\n- 30-1: b. assess prior knowledge of contexts, content and text forms",
+          "parent": "2"
+        },
+        {
+          "code": "2.1.4",
+          "description": "- Use a variety of appropriate reference strategies and technologies to aid understanding (e.g., formulate and refine questions, explore works cited, take notes, use library catalogues and Internet search engines).\n- Create and use personal reference materials to aid understanding (e.g., a personalized dictionary/glossary and a World Wide Web/URL address list).",
+          "parent": "2"
+        },
+        {
+          "code": "3.2.3",
+          "description": "- Form generalizations and synthesize new ideas by integrating new information with prior knowledge.\n- Draw conclusions that fit the findings, reflect your understanding, and align with the topic, purpose, and situation.\n- Distinguish between generalizations and supporting evidence, and support your generalizations and conclusions with relevant, consistent detail.",
+          "parent": "3"
+        },
+        {
+          "code": "3.2.4",
+          "description": "- Reflect on the effectiveness of inquiry/research strategies (e.g., time use, division of labour).\n- Identify and monitor strategies to improve future inquiry or research.\n- Evaluate the appropriateness, accuracy, and significance of findings, conclusions, and generalizations; keep detailed references; plan how to share information; determine next steps.\n- Seek feedback and use self-reflection to evaluate the entire process; strive for craftsmanship and accuracy; take pride in accomplishments.",
+          "parent": "3"
+        },
+        {
+          "code": "4.1.3",
+          "description": "- Select or craft a personally meaningful topic, concept, or idea and take ownership of text creation.\n- Assess and address personal (e.g., experience, prior knowledge) and contextual (e.g., time, resources) variables that influence topic selection.\n- Establish a clear focus and scope by framing an effective controlling idea or unifying effect.\n- Develop supporting details using appropriate developmental strategies and organizers.\n- Develop appropriate, relevant, and sufficient content—tailored to purpose, audience, form, and context—to support the controlling idea or unifying effect, integrating examples, evidence, and findings from personal experience, exploration, inquiry, and research as appropriate.",
+          "parent": "4"
+        },
+        {
+          "code": "4.1.4",
+          "description": "- Use production, publication and presentation strategies and technologies consistent with context a. meet particular production, publication and display requirements for print texts [for example, adhere to a particular manuscript style when creating a research paper]\n- And explain requirements in light of purpose, audience and situation b. develop presentation materials\n- And select strategies and technologies appropriate to purpose, audience and situation [for example, use technologies such as presentation software, videos, CD–ROMs, DVDs, audiotaped interviews and handouts] b. adapt presentation materials, strategies and technologies to suit purpose, audience and situation [for example, increase audience participation in a lecture by providing a note- taking frame] b. adapt presentation strategies to suit changes in purpose, audience and situation [for example, use close physical proximity, eye contact and other body language strategies effectively to regain audience attention following an interruption] c. develop and deliver oral, visual and multimedia presentations, using voice production factors [such as volume, tone and stress], nonverbal factors [such as gestures, posture, distance and eye contact] and visual production factors [such as colour and contrast] appropriate to purpose, audience and situation d. experiment with various strategies to create rapport between the presenter and the audience [for example, ask questions to involve the audience] d. develop a repertoire of effective strategies that can be used to create rapport with an audience [for example, use personal anecdotes and examples] d. create rapport with an audience, by selecting from a repertoire of effective strategies [for example, use humour to open a presentation and set a positive tone with the audience]\n- 30-1: b. adapt presentation strategies to suit changes in purpose, audience and situation [for example, use close physical proximity, eye contact and other body language strategies effectively to regain audience attention following an interruption]\n- Create rapport with an audience, by selecting from a repertoire of effective strategies [for example, use humour to open a presentation and set a positive tone with the audience] English Language Arts (Senior High) /49 (2003)",
+          "parent": "4"
+        },
+        {
+          "code": "5",
+          "description": "- Respect, support, and collaborate with others",
+          "type": "general"
+        },
+        {
+          "code": "5.1.1",
+          "description": "- Monitor your verbal and nonverbal communication to convey respect and consideration.\n- Analyze and explain how language and images in texts convey respectful or disrespectful perspectives, including stereotyping, parody, and journalistic bias.\n- Evaluate portrayals of people, be sensitive to others’ feelings, and use inclusive verbal and nonverbal communication aligned with situational expectations.\n- Distinguish constructive criticism from ridicule and irony from sarcasm, and give and receive constructive feedback appropriately.\n- Analyze public tolerance for language and images in specific texts, use appropriate language and images, and explain when applicable how these tolerances have changed over time.",
+          "parent": "5"
+        },
+        {
+          "code": "5.1.2",
+          "description": "- Appreciate diversity of expression, opinion and perspective a. appreciate diversity of thought and expression, select and monitor appropriate strategies for appreciating diversity, and modify selected strategies as needed b. describe the ways in which selected works of literature and other print and nonprint texts influence individual and group values and behaviours b. explain how selected works of literature and other print and nonprint texts convey, shape and, at times, challenge individual and group values and behaviours c. identify the underlying assumptions reflected in the ideas and opinions presented in a text c. analyze the relationship between a text creator’s ideas and opinions and his or her underlying assumptions [such as those deriving from ideology or social status] c. explain how a text creator’s underlying assumptions influence his or her ideas, opinions and selection of supporting details\n- 30-1: c. explain how a text creator’s underlying assumptions influence his or her ideas, opinions and selection of supporting details",
+          "parent": "5"
+        },
+        {
+          "code": "5.1.3",
+          "description": "- Use language and image to honour your own and others’ accomplishments (e.g., celebrate classmates’ work; hold a “portfolio launch”).\n- Identify formal and informal ways language and image are used to honour people and celebrate events (e.g., eulogy, toast, public service announcement).\n- Describe ways language and image are used to honour people and celebrate events (e.g., heritage day; wall of honour or photography exhibit; naming ceremonies, religious ceremonies and prayers of First Nations and Aboriginal peoples).\n- Explain how these uses of language and image help build community.",
+          "parent": "5"
+        },
+        {
+          "code": "5.2.1",
+          "description": "- Set appropriate personal goals for your participation in the group.\n- Respect, be open to, and support others’ thoughts, opinions, and contributions; share relevant knowledge, expertise, and perspectives.\n- Reflect on and describe strategies used; select, monitor, and modify strategies to negotiate, coordinate, and cooperate to accomplish group goals.\n- Ensure the team’s purpose and objectives are clear.",
+          "parent": "5"
+        },
+        {
+          "code": "5.2.2",
+          "description": "- Develop and apply criteria to monitor and assess group processes (e.g., division of labour, time management).\n- Identify and explain group member roles and responsibilities (e.g., researcher, presenter, director, participant, chairperson, recorder, timekeeper; roles of Aboriginal Elders in teaching about the medicine wheel and values of respect, humility, kindness, sharing, honesty, faith, perseverance), analyze how these roles interact, appreciate their contributions, and lead or support to motivate high performance.\n- Use strategies to facilitate completion of group projects (e.g., establish clear purposes and procedures, monitor progress, modify plans to meet objectives).\n- Analyze and use teamwork tools (e.g., checklists, role descriptors, timelines, flow charts, whiteboards, electronic list servers, agendas, meeting notes) to work effectively and collaboratively, and manage and resolve conflict to reach solutions.\n- Identify and analyze the communication needs and working relationships in communications careers (e.g., advertising, public relations, broadcast journalism), and assess collaborative processes in producing literary texts (e.g., author–illustrator–editor–publisher; playwright–actor–producer–director).",
+          "parent": "5"
+        }
+      ],
+      "topics": [
+        "Advanced literary analysis techniques",
+        "Developing sophisticated thesis statements",
+        "Close reading and textual evidence",
+        "Analyzing literary devices and their effects",
+        "Constructing analytical arguments",
+        "Evaluating author's craft and purpose"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Khan Academy: Literary analysis",
+          "url": "https://www.khanacademy.org/ela/cc-9th-reading-vocab/x6c5bbf0e196c8001:cc-9th-literature",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Reading comprehension strategies",
+          "url": "https://www.khanacademy.org/ela/cc-9th-reading-vocab",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Writing process",
+          "url": "https://www.khanacademy.org/ela/cc-9th-reading-vocab/cc-9th-language-and-vocab",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "1.1.2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Literary Terms Purdue Owl Purdue University",
+          "url": "https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/literary_terms/index.html",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "2.1.1",
+            "2.1.2",
+            "2.2.1",
+            "2.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Creating a Thesis Statement, Thesis Statement Tips - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/general_writing/the_writing_process/thesis_statement_tips.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2.1.1",
+            "2.1.2",
+            "2.2.1",
+            "2.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Elements of Analysis - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/general_writing/visual_rhetoric/analyzing_visual_documents/elements_of_analysis.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2.1.1",
+            "2.1.2",
+            "2.2.1",
+            "2.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Argument and persuasion",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "1.1.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Writing a Literary Analysis",
+          "url": "https://www.khanacademy.org/humanities/english/hs-writing/hs-writing-literary-analysis/writing-a-literary-analysis",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "1.1.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Communication in Teams",
+          "url": "https://www.khanacademy.org/ela/college-careers-more/communication-skills/in-person-communication/v/communication-in-teams",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "1.2.3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Critical Thinking",
+          "url": "https://www.khanacademy.org/ela/critical-thinking",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Literary analysis - Purdue OWL",
+          "url": "https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_about_literature/index.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Organizing Research",
+          "url": "https://www.khanacademy.org/college-careers-more/personal-finance/personal-finance-intro/personal-finance-research/v/organizing-research",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "3.2.3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Rhetorical analysis",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/index.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "1.1.2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Self-Assessment and Reflection",
+          "url": "https://www.khanacademy.org/college-careers-more/financial-literacy/personal-finance/income-and-employment/self-assessment-reflection/a/self-assessment-reflection",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "1.2.2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Building an Argument in Literary Analysis",
+          "url": "https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/building_an_argument.html",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "2.1.1",
+            "2.1.2",
+            "2.2.1",
+            "2.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Citing Evidence in Literary Analysis",
+          "url": "https://www.khanacademy.org/ela/8th-grade-reading-and-vocabulary/x435b1de09a877dd7:the-mind-at-play-8/x435b1de09a877dd7:citing-text-evidence-8/v/citing-evidence-in-literary-analysis-reading",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2.1.1",
+            "2.1.2",
+            "2.2.1",
+            "2.2.2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Khan Academy: Citing textual evidence",
+          "url": "https://www.khanacademy.org/ela/cc-9th-reading-vocab/x6c5bbf0e196c8001:cc-9th-info-text",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "1.2.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Khan Academy: APA format guide - Purdue OWL",
+          "url": "https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "3.2.3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Khan Academy: MLA format guide - Purdue OWL",
+          "url": "https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "3.2.3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Khan Academy: Research and citation - Purdue OWL",
+          "url": "https://owl.purdue.edu/owl/research_and_citation/resources.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "1.1.2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Writing in Literature Introduction - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/index.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2.1.1",
+            "2.1.2",
+            "2.2.1",
+            "2.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Analyzing Literature",
+          "url": "https://www.khanacademy.org/humanities/ap-english/ap-english-language-and-composition/ap-writing-structure-and-organization/v/analyzing-literature",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "How to Analyze Literature",
+          "url": "https://www.youtube.com/watch?v=4LyKhpn7D0s",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2.1.3"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "How to Use the Library: Online Catalogs",
+          "url": "https://www.youtube.com/watch?v=z8yRRljKOgk",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "2.1.4"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "\"Conducting Research for Argumentative Essays\"",
+          "url": "https://www.youtube.com/watch?v=7B6y1AJFQ3g",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "3.2.4"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "How to Select and Refine Your Topic",
+          "url": "https://www.youtube.com/watch?v=wOdRrEg_RAY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4.1.3"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "\"How to Present a Speech Effectively - Public Speaking\"",
+          "url": "https://www.youtube.com/watch?v=VKa2Z8iyCHY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4.1.4"
+          ],
+          "source": "TED-Ed",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "How and Why We Collaborate",
+          "url": "https://www.youtube.com/watch?v=kMzQRfACSdA",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "5"
+          ],
+          "source": "TED-Ed (YouTube)",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "\"Andrew Solomon: How the worst moments in our lives make us who we are\"",
+          "url": "https://www.youtube.com/watch?v=UF5NJN--kVY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "5.1.1"
+          ],
+          "source": "TED-Ed via YouTube",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Understanding and Appreciating Diversity in Literature",
+          "url": "https://www.youtube.com/watch?v=H6SmexYhqIo",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "5.1.2"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Using Language and Images to Celebrate and Honour",
+          "url": "https://www.youtube.com/watch?v=2Pm4a0rA-XY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "5.1.3"
+          ],
+          "source": "YouTube (TEDx Talks)",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "How to Work Well in Group Projects",
+          "url": "https://www.youtube.com/watch?v=Q6XhH33fBg0",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "5.2.1"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Group Roles and Responsibilities for Effective Teamwork",
+          "url": "https://www.youtube.com/watch?v=oG9iLkvWZ_E",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "5.2.2"
+          ],
+          "source": "LearnTeachLead on YouTube",
+          "provider": "youtube",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "personal-response-to-texts",
+      "title": "Personal Response to Texts",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "2.3.1",
+          "title": "Connect self, text, culture and milieu",
+          "parent": "2",
+          "description": "- Identify and consider personal, moral, ethical, and cultural perspectives when studying literature and other texts, and reflect on how these perspectives may change through interpretation and discussion.\n- Respond personally and analytically to ideas in literature and other texts, and analyze how ideas are reflected in personal and cultural opinions, values, beliefs, and perspectives.\n- Form positions on issues that arise from text study, and assess and relate the ideas, information, arguments, emotions, experiences, values, and beliefs expressed in texts to issues that are personally meaningful and culturally significant.\n- Compare, explain, and assess the choices and motives of characters and people portrayed in texts in light of the choices and motives of self and others.\n- Identify and examine how cultural and societal influences are reflected in a variety of Canadian and international texts, and respond personally and critically to these reflections."
+        },
+        {
+          "code": "2.3.2",
+          "title": "Evaluate the verisimilitude, appropriateness and significance of print and nonprint",
+          "parent": "2",
+          "description": "- Evaluate print and nonprint texts for verisimilitude (created reality), appropriateness, and significance.\n- Develop, apply, monitor, and refine criteria to judge text effectiveness (e.g., adequacy and relevance of content; creator’s voice and style).\n- Assess the appropriateness of your own and others’ interpretations using supporting or contradictory textual evidence.\n- Analyze settings, plots, and images for created reality, plausibility, and appropriateness to purpose and audience.\n- Analyze characterization for consistency, motivation, plausibility, and contribution to theme; evaluate the significance of the theme or controlling idea and the effectiveness of supporting details, examples, and illustrations."
+        },
+        {
+          "code": "2.3.3",
+          "title": "Appreciate the effectiveness and artistry of print and nonprint texts",
+          "parent": "2",
+          "description": "- Use appropriate terminology to discuss the effectiveness and artistry of print and nonprint texts, including media texts.\n- Describe how craft, form, and structure present feelings, ideas, and information and evoke response."
+        },
+        {
+          "code": "4",
+          "title": "Create oral, print, visual and multimedia texts, and enhance clarity and artistry",
+          "type": "general",
+          "description": "- Create oral, print, visual, and multimedia texts.\n- Enhance the clarity and artistry of these texts."
+        },
+        {
+          "code": "4.1.1",
+          "title": "Assess text creation context",
+          "parent": "4",
+          "description": "- Reflect on the purposes and motives for text creation, and consider potential consequences of your choices.\n- Identify the purpose and target audience, and select strategies to accomplish the purpose and engage the audience.\n- Analyze audience factors that affect text creation and explain how they influence your choices.\n- Identify expectations and constraints of the communication situation, select strategies to address them, and explain and assess their effectiveness.\n- Assess the results of text creation in terms of the intended purpose and audience engagement."
+        }
+      ],
+      "topics": [
+        "Understanding rhetorical appeals and strategies",
+        "Analyzing author's purpose and audience",
+        "Making meaningful personal connections",
+        "Evaluating effectiveness of rhetorical techniques",
+        "Writing insightful personal responses",
+        "Supporting ideas with textual evidence"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Khan Academy: Reading comprehension strategies",
+          "url": "https://www.khanacademy.org/ela/cc-9th-reading-vocab",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Writing process",
+          "url": "https://www.khanacademy.org/ela/cc-9th-reading-vocab/cc-9th-language-and-vocab",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Reading a Novel or Story - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/reading_a_novel_or_story.html",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "2.3.1",
+            "2.3.2",
+            "2.3.3",
+            "4.1.1"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "How Authors Use Rhetoric to Achieve Their Purposes",
+          "url": "https://www.khanacademy.org/ela/10th-grade-reading-and-vocabulary/xd89aabc5d5847a2b:ties-that-bind/xd89aabc5d5847a2b:identifying-authors-purpose-and-rhetoric-10/a/how-do-authors-use-rhetoric-to-achieve-their-purposes",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2.3.1",
+            "2.3.2",
+            "2.3.3",
+            "4.1.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Rhetorical Situations - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/index.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2.3.1",
+            "2.3.2",
+            "2.3.3",
+            "4.1.1"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Rhetorical Strategies - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "2.3.1",
+            "2.3.2",
+            "2.3.3",
+            "4.1.1"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Identifying Authors Purpose",
+          "url": "https://www.khanacademy.org/ela/10th-grade-reading-and-vocabulary/xd89aabc5d5847a2b:ties-that-bind/xd89aabc5d5847a2b:identifying-authors-purpose-and-rhetoric-10/e/identifying-the-authors-purpose",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "2.3.1",
+            "2.3.2",
+            "2.3.3",
+            "4.1.1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "ELA 30-1 Scoring Guide",
+          "url": "https://www.alberta.ca/system/files/educ-ela-30-1-scoring-guide.pdf",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "2.3.1",
+            "2.3.2",
+            "2.3.3",
+            "4.1.1"
+          ],
+          "source": "Alberta Education",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "expository-composition",
+      "title": "Expository and Formal Composition",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "4.1.2",
+          "title": "Consider and address form, structure and medium",
+          "parent": "4",
+          "description": "- Select a text form appropriate to purpose and content.\n- Use a variety of structures, including complex ones, consistent with form, content, and purpose; explain and justify these choices.\n- Select an effective medium appropriate to content and context; explain the interplay among medium, content, context, audience, and purpose.\n- Apply conventions of oral, print, visual, and multimedia forms; when appropriate, deliberately depart from conventions and assess the impact on the text."
+        },
+        {
+          "code": "4.2.1",
+          "title": "Enhance thought and understanding and support and detail",
+          "parent": "4",
+          "description": "- Assess and refine the controlling idea or unifying effect of a text in progress for clarity, focus, appropriateness, and significance, modifying as needed to meet purpose, audience, and situation.\n- Review and refine supporting details (events, images, facts, data) for accuracy, specificity, precision, vividness, and relevance; add, modify, or delete to ensure complete and effective support or development.\n- Evaluate reasoning for logic and the consistency, completeness, and relevance of evidence; detect and correct logical fallacies and strengthen arguments by adjusting supporting details.\n- Review critical/analytical responses to literature for plausibility and appropriateness of interpretations and for precise, complete, relevant evidence; revise interpretations and evidence as needed."
+        },
+        {
+          "code": "4.2.2",
+          "title": "Enhance organization",
+          "parent": "4",
+          "description": "- Assess and revise the beginning of a text to establish purpose and engage the audience.\n- Review and revise organizational components (e.g., paragraphs, scenes, steps) to strengthen their effectiveness and intended effects.\n- Assess and revise the closing to align with purpose, convey developed understanding, and achieve the intended audience effect.\n- Strengthen relationships among controlling idea, supporting ideas, and details to enhance unity and coherence in oral, print, visual, and multimedia texts.\n- Assess and refine transitions and transitional devices to improve coherence."
+        }
+      ],
+      "topics": [
+        "Advanced essay structure and organization",
+        "Developing sophisticated thesis statements",
+        "Effective paragraph development",
+        "Argumentation and supporting evidence",
+        "Transitions and coherence",
+        "Formal academic writing conventions",
+        "Introduction and conclusion techniques"
+      ],
+      "resources": [
+        {
+          "type": "article",
+          "title": "Argumentative Essays - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4.1.2",
+            "4.2.1",
+            "4.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Essay Writing - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/index.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4.1.2",
+            "4.2.1",
+            "4.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Organizing Your Argument - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4.1.2",
+            "4.2.1",
+            "4.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Strong Thesis Statements - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4.1.2",
+            "4.2.1",
+            "4.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Academic Writing Introduction - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/index.html",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "4.1.2",
+            "4.2.1",
+            "4.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Organization and Structure - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/graduate_writing/graduate_writing_topics/graduate_writing_organization_structure_new.html",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "4.1.2",
+            "4.2.1",
+            "4.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "advanced-research-documentation",
+      "title": "Advanced Research and Documentation",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "3",
+          "title": "Manage ideas and information",
+          "type": "general",
+          "description": "- Gather ideas and information for a specific purpose\n- Organize and store ideas and information for easy retrieval\n- Evaluate, select, and use relevant ideas and information effectively"
+        },
+        {
+          "code": "3.1.1",
+          "title": "Focus on purpose and presentation form",
+          "parent": "3",
+          "description": "- Reflect on and describe strategies to determine the depth and breadth of inquiry or research and to identify the purpose, audience, and potential forms of presentation.\n- Select and monitor the effectiveness of strategies used to determine depth and breadth and to identify the purpose, audience, and form of presentation.\n- Modify selected strategies as needed to refine the depth and breadth of inquiry or research and to identify the purpose, audience, and form of presentation.\n- Describe the purpose and scope of the inquiry or research; identify the target audience; and identify the potential form for presenting findings.\n- Refine the purpose of the inquiry or research by limiting or expanding the topic as appropriate."
+        },
+        {
+          "code": "3.1.2",
+          "title": "Plan inquiry or research, and identify information needs and sources",
+          "parent": "3",
+          "description": "- Plan and manage an inquiry or research process that fits the purpose, audience, situation, and presentation requirements\n- Reflect on and describe strategies for inquiry or research; select, monitor, and modify strategies as needed\n- Determine the breadth and depth of prior knowledge; formulate and refine questions to identify and categorize information needs and guide information gathering\n- Identify information sources and predict their usefulness in filling knowledge gaps\n- Select and use effective strategies and technologies to gather, generate, and record information"
+        },
+        {
+          "code": "3.2.1",
+          "title": "Select, record and organize information",
+          "parent": "3",
+          "description": "- Reflect on, select, monitor, and adjust strategies to select, record, and organize information.\n- Select information appropriate to purpose from a variety of print and nonprint sources.\n- Record information accurately and completely; document and reference sources to avoid plagiarism.\n- Organize information logically (e.g., by question, category, chronology, or cause and effect).\n- Follow safe, ethical Internet use, including protecting privacy, respecting copyright, and citing online sources."
+        },
+        {
+          "code": "3.2.2",
+          "title": "Evaluate sources, and assess information",
+          "parent": "3",
+          "description": "- Reflect on and describe strategies to evaluate information sources for credibility and bias; select, monitor, and modify these strategies as needed\n- Assess sources for appropriateness to purpose, audience, and presentation form\n- Assess the accuracy, completeness, currency, and relevance of selected information and its appropriateness to the task\n- Identify biases and vested interests in sources, and explain how assumptions, bias, and positive or negative spin affect credibility"
+        }
+      ],
+      "topics": [
+        "APA citation format and style",
+        "MLA citation format and style",
+        "In-text citations and reference lists",
+        "Evaluating source credibility",
+        "Avoiding plagiarism",
+        "Integrating quotations and paraphrases",
+        "Research methodology and organization"
+      ],
+      "resources": [
+        {
+          "type": "article",
+          "title": "Introduction Purdue Owl Purdue University",
+          "url": "https://owl.purdue.edu/owl/research_and_citation/conducting_research/evaluating_sources_of_information/index.html",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "3.1.1",
+            "3.1.2",
+            "3.2.1",
+            "3.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "APA In-Text Citations: The Basics",
+          "url": "https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "3.1.1",
+            "3.1.2",
+            "3.2.1",
+            "3.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Critical Thinking",
+          "url": "https://www.khanacademy.org/ela/critical-thinking",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Organizing Research",
+          "url": "https://www.khanacademy.org/college-careers-more/personal-finance/personal-finance-intro/personal-finance-research/v/organizing-research",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Self-Assessment and Reflection",
+          "url": "https://www.khanacademy.org/college-careers-more/financial-literacy/personal-finance/income-and-employment/self-assessment-reflection/a/self-assessment-reflection",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Quoting, Paraphrasing, and Summarizing - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "3.1.1",
+            "3.1.2",
+            "3.2.1",
+            "3.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "MLA Formatting and Style Guide - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "3.1.1",
+            "3.1.2",
+            "3.2.1",
+            "3.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "APA Style Introduction - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "3.1.1",
+            "3.1.2",
+            "3.2.1",
+            "3.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "MLA Works Cited: Electronic Sources - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_electronic_sources.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "3.1.1",
+            "3.1.2",
+            "3.2.1",
+            "3.2.2"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "revision-editing-proofreading",
+      "title": "Revision, Editing, and Proofreading",
+      "estimatedHours": 5,
+      "outcomes": [
+        {
+          "code": "4.2.3",
+          "title": "Consider and address matters of choice",
+          "parent": "4",
+          "description": "- Evaluate and expand vocabulary and stylistic choices for effectiveness\n- Assess and revise diction to achieve intended tone and effects\n- Assess and revise syntax and sentence patterns for clarity and impact\n- Apply and explain stylistic techniques and rhetorical devices to create intended effects\n- Develop a repertoire of stylistic choices that contribute to personal voice"
+        },
+        {
+          "code": "4.2.4",
+          "title": "Edit text for matters of correctness",
+          "parent": "4",
+          "description": "- Edit text for matters of correctness a. use handbooks and other tools, including electronic tools, as resources to assist with text creation [for example, dictionaries, thesauri, spell checkers and handbooks] b. know and be able to apply capitalization and punctuation conventions correctly, including end punctuation, commas, semicolons, colons, apostrophes, quotation marks, hyphens, dashes, ellipses, parentheses, underlining and italics c. know and be able to apply spelling conventions consistently and independently ............................................. d. identify and be able to use parts of speech correctly, including nouns, pronouns, verbs, adjectives, adverbs, prepositions, definite and indefinite articles, and coordinating and subordinating conjunctions d. understand the importance of grammatical agreement\n- And assess and revise texts in progress to ensure correctness of grammatical agreement, including correct pronoun reference and pronoun–antecedent agreement, and correct use of modifiers and other parts of speech e. identify parts of the sentence in own and others’ texts, including subject, verb, predicate complement, and direct and indirect object e. assess and revise texts in progress to ensure correct subject–verb agreement, correct pronoun case and appropriate consistency of verb tense f. review and revise texts in progress to correct common sentence faults—comma splice, run-on sentence and unintended sentence fragment f. use unconventional punctuation, spelling and sentence structure for effect, when appropriate [for example, use nonstandard spelling to indicate dialect, and use sentence fragments for emphasis, when appropriate] g. know and be able to use common sentence structures correctly— simple, compound, complex and compound-complex g. assess and revise texts in progress to ensure the correct use of clauses and phrases, including verbal phrases (participle, gerund and infinitive), and to ensure the correct use of structural features [such as appositives and parallel structure] h. pay particular attention to punctuation, spelling, grammar, usage and sentence construction when using unfamiliar vocabulary, complex syntax and sophisticated rhetorical devices i. assess strengths and areas of need [for example, develop a checklist of skills mastered and skills to be developed, and set goals for language growth]\n- 30-1: e. review and revise texts in progress to ensure correct subject–verb agreement, correct pronoun case and appropriate consistency of verb tense General Outcome 4 Alberta Learning, Alberta, Canada\n- Review and revise texts in progress to ensure that parallel structure, prepositional phrases, and dependent and independent clauses are used correctly and appropriately English Language Arts (Senior High) /61 (2003)"
+        }
+      ],
+      "topics": [
+        "Multi-level revision strategies",
+        "Improving clarity and style",
+        "Advanced grammar and mechanics",
+        "Sentence variety and fluency",
+        "Eliminating wordiness and redundancy",
+        "Proofreading techniques",
+        "Common errors in formal writing"
+      ],
+      "resources": [
+        {
+          "type": "article",
+          "title": "Concision Purdue Owl Purdue University",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/conciseness/index.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4.2.3",
+            "4.2.4"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Steps for Revising - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/general_writing/the_writing_process/proofreading/steps_for_revising.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4.2.3",
+            "4.2.4"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Editing & Proofreading - Purdue OWL®",
+          "url": "https://owl.purdue.edu/owl/graduate_writing/graduate_writing_topics/graduate_writing_topics_editing_proofreading_new.html",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "4.2.3",
+            "4.2.4"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Owl Exercises Purdue Owl Purdue University",
+          "url": "https://owl.purdue.edu/owl_exercises/index.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4.2.3",
+            "4.2.4"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Parallel Structure Practice",
+          "url": "https://www.khanacademy.org/humanities/grammar/syntax-conventions-of-standard-english/dangling-modifiers-and-parallel-structure/e/parallel-structure",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "4.2.3",
+            "4.2.4"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Mechanics Introduction Purdue Owl Purdue University",
+          "url": "https://owl.purdue.edu/owl/general_writing/mechanics/index.html",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "4.2.3",
+            "4.2.4"
+          ],
+          "source": "Purdue OWL",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "diploma-exam-preparation",
+      "title": "Diploma Exam Preparation and Strategies",
+      "estimatedHours": 6,
+      "outcomes": [],
+      "topics": [
+        "Diploma exam format and structure",
+        "Time management strategies",
+        "Critical/analytical response writing",
+        "Personal response to texts",
+        "Reading comprehension strategies",
+        "Planning and organizing under pressure",
+        "Using the scoring guide effectively"
+      ],
+      "resources": [
+        {
+          "type": "article",
+          "title": "Writing Process Introduction Purdue Owl Purdue University",
+          "url": "https://owl.purdue.edu/owl/general_writing/the_writing_process/index.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Purdue OWL",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "A guide for students : English Language Arts 30-1 - Open Government",
+          "url": "https://open.alberta.ca/publications/a-guide-for-students-english-language-arts-30-1",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "Alberta Education",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "ELA 30-1 Information Bulletin",
+          "url": "https://www.alberta.ca/system/files/custom_downloaded_images/ed-diploma-exam-ela30-1-information-bulletin.pdf",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "Alberta Education",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Writing Diploma Exams",
+          "url": "https://www.alberta.ca/writing-diploma-exams",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "Alberta Education",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Examples of Students' Writing (2019)",
+          "url": "https://www.alberta.ca/system/files/custom_downloaded_images/edc-ela-30-1-examples-students-writing-Jan-2019.pdf",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Alberta Education",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Examples of Students' Writing (2023)",
+          "url": "https://www.alberta.ca/system/files/educ-ela-30-1-examples-students-writing-jan-2023.pdf",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Alberta Education",
+          "embeddable": false
+        }
+      ]
+    }
+  ]
+}

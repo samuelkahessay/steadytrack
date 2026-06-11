@@ -1,0 +1,142 @@
+[
+  {
+    "file": "bio-20.json",
+    "unit": "Human Systems",
+    "resource": "Hs Introduction Human Body",
+    "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-body-structure-and-homeostasis/v/hs-introduction-to-the-human-body",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "bio-30.json",
+    "unit": "Nervous and Endocrine Systems",
+    "resource": "Electrochemical Gradient",
+    "url": "https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/changes-in-signal-transduction-pathways/v/the-electrochemical-gradient",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "bio-30.json",
+    "unit": "Reproduction and Development",
+    "resource": "Embryology",
+    "url": "https://www.khanacademy.org/science/ap-biology/heredity/embryology/v/embryology",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "bio-30.json",
+    "unit": "Reproduction and Development",
+    "resource": "Oogenesis",
+    "url": "https://www.khanacademy.org/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/oogenesis",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "bio-30.json",
+    "unit": "Cell Division, Genetics and Molecular Biology",
+    "resource": "Mitosis, Meiosis and Sexual Reproduction",
+    "url": "https://www.khanacademy.org/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/mitosis-meiosis-and-sexual-reproduction",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "chem-20.json",
+    "unit": "The Diversity of Matter and Chemical Bonding",
+    "resource": "VSEPR Theory and Molecular Geometry",
+    "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:molecular-and-ionic-compound-structure-and-properties/x2eef969c74e0d802:structures-of-ionic-solids/v/vsepr-theory",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "chem-20.json",
+    "unit": "Solutions and Aqueous Reactions",
+    "resource": "pH and pOH Calculations",
+    "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:acids-and-bases/x2eef969c74e0d802:ph-and-poh-of-strong-acids-and-bases/v/introduction-to-ph-poh-and-pkw",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "chem-30.json",
+    "unit": "Thermochemical Changes",
+    "resource": "Calorimetry",
+    "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:thermodynamics/x2eef969c74e0d802:calorimetry/v/calorimetry",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "chem-30.json",
+    "unit": "Electrochemical Changes",
+    "resource": "Cell Potential Example Problems",
+    "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:thermodynamics-and-electrochemistry/x2eef969c74e0d802:applications-of-thermodynamics-to-electrochemistry/v/cell-potential-example-problems",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "chem-30.json",
+    "unit": "Chemical Equilibrium Focusing on Acid-Base Systems",
+    "resource": "Introduction Ka",
+    "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:acids-and-bases/x2eef969c74e0d802:weak-acid-and-base-equilibria/v/introduction-to-ka",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "chem-30.json",
+    "unit": "Solutions and Solubility",
+    "resource": "Solubility Product Constant (Ksp)",
+    "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:equilibrium/x2eef969c74e0d802:solubility-equilibria/v/solubility-product-constant-ksp",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "math-20-1.json",
+    "unit": "Radical Expressions & Functions",
+    "resource": "Simplifying Radicals",
+    "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:simplifying-square-roots/v/simplifying-radicals",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "math-30-1.json",
+    "unit": "Transformations",
+    "resource": "Introduction to Function Transformations",
+    "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:transformations/x2ec2f6f830c9fb89:graphs-of-square-and-cube-root-functions/v/introduction-to-transformations-of-functions",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "math-30-1.json",
+    "unit": "Rational Functions",
+    "resource": "Introduction to Rational Functions",
+    "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:rational-functions/x9e81a4f98389efdf:graphs-of-rational-functions/v/introduction-to-rational-functions",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "phys-30.json",
+    "unit": "Oscillations and Waves",
+    "resource": "Spring-Mass Systems and Energy",
+    "url": "https://www.khanacademy.org/science/ap-physics-1/simple-harmonic-motion-ap/spring-mass-systems-ap/v/potential-energy-in-a-spring",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "phys-30.json",
+    "unit": "Wave Properties and Sound",
+    "resource": "Doppler Effect Formula When Source Is Moving Towards",
+    "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound/doppler-effect/v/doppler-effect-formula-when-source-is-moving-towards-observer",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "phys-30.json",
+    "unit": "Magnetic Fields and Forces",
+    "resource": "Magnitude Magnetic Force Current Carrying Wire",
+    "url": "https://www.khanacademy.org/science/ap-college-physics-2/x0a36c7bf1f0ba9de:magnetic-forces-and-fields/x0a36c7bf1f0ba9de:magnetic-force/v/magnitude-of-magnetic-force-on-current-carrying-wire",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "social-30-1.json",
+    "unit": "Nationalism",
+    "resource": "What is Nationalism?",
+    "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-2-liberal-and-national-revolutions/xcabef9ed3fc7da7b:2-3-nationalism/v/whp-what-is-nationalism",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "social-30-1.json",
+    "unit": "Political & Economic Ideologies",
+    "resource": "Capitalism and Socialism (Crash Course)",
+    "url": "https://www.khanacademy.org/humanities/whp-1750/xcabef9ed3fc7da7b:unit-7-industrialization-and-imperialism/xcabef9ed3fc7da7b:7-5-living-in-industrial-societies/v/watch-capitalism-and-socialism-crash-course-world-history-33",
+    "reason": "Khan Academy video - YouTube ID needed"
+  },
+  {
+    "file": "social-30-1.json",
+    "unit": "Globalization",
+    "resource": "Whp Globalization Ii",
+    "url": "https://www.khanacademy.org/humanities/whp-origins/era-9-1980-to-the-present/99-the-anthropocene/v/whp-globalization-ii",
+    "reason": "Khan Academy video - YouTube ID needed"
+  }
+]

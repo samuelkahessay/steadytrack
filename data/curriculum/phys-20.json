@@ -1,0 +1,2145 @@
+{
+  "subject": "Physics 20",
+  "grade": 11,
+  "albertaDocs": [
+    {
+      "title": "Physics 20-30 Program of Studies 2007 (Updated 2014)",
+      "url": "https://education.alberta.ca/media/3069387/pos_phys_20_30.pdf"
+    },
+    {
+      "title": "Student-Based Performance Standards Physics 20 and Physics 30",
+      "url": "https://www.alberta.ca/system/files/custom_downloaded_images/edc-physics20-30-performance-standards.pdf"
+    }
+  ],
+  "units": [
+    {
+      "id": "kinematics",
+      "title": "Kinematics",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "20-A1",
+          "description": "- Describe motion in terms of displacement, velocity, acceleration, and time.",
+          "type": "general"
+        },
+        {
+          "code": "20-A1.1k",
+          "description": "- Define displacement, velocity, and acceleration qualitatively and quantitatively.",
+          "category": "knowledge",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.2k",
+          "description": "- Operationally define scalar and vector quantities, and compare and contrast them.",
+          "category": "knowledge",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.3k",
+          "description": "- Explain uniform and uniformly accelerated motion qualitatively and quantitatively using written descriptions, numerical data, and graphs.",
+          "category": "knowledge",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.4k",
+          "description": "- Interpret quantitatively the motion of one object relative to another using displacement and velocity vectors.",
+          "category": "knowledge",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.5k",
+          "description": "- Explain two-dimensional motion in a horizontal or vertical plane quantitatively using vector components.",
+          "category": "knowledge",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Identify, define, and delimit questions to investigate (e.g., relationships among displacement, velocity, acceleration, and time) (IP–NS1).\n- Explain why distances are measured in different units (e.g., as the crow flies, days of travel, mileage from city centre to city centre, light years).",
+          "category": "skills",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.1sts",
+          "description": "- Explain that the goal of science is knowledge about the natural world (NS1).\n- Identify common applications of kinematics, such as determining average speed for a run, bike ride, or car trip, or the acceleration required to launch an aircraft from a carrier.",
+          "category": "sts",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.2s",
+          "description": "- Investigate relationships among observable variables, using a range of tools and techniques to gather and record data and information.\n- Perform an experiment to demonstrate the relationships among displacement, velocity, acceleration, and time using available technologies; e.g., interval timers, photo gates (PR–NS2, PR–NS3) [ICT C6–4.4].\n- Collect information from print and electronic sources to explain the use of kinematics concepts; e.g., the synchronization of traffic lights (PR–ST1) [ICT C1–4.1].",
+          "category": "skills",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.2sts",
+          "description": "- Explain that scientific knowledge is subject to change as new evidence becomes apparent and as laws and theories are tested and subsequently revised, reinforced, or rejected (NS4)\n- Analyze lunar free fall as illustrated in a video",
+          "category": "sts",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Construct and analyze graphs to show relationships among displacement, velocity, acceleration, and time for uniform and uniformly accelerated motion (AI–NS2) [ICT C7–4.2].\n- Relate acceleration to the slope of, and displacement to the area under, a velocity-time graph (AI–NS2, AI–NS6) [ICT C7–4.2].\n- Solve quantitative projectile motion problems near Earth’s surface, ignoring air resistance (AI–NS3) [ICT C6–4.1].\n- Analyze uniform motion using computer simulations (AI–NS3) [ICT C6–4.4].",
+          "category": "skills",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.3sts",
+          "description": "- Explain that technological development includes testing and evaluating designs and prototypes against established criteria (ST5d) [ICT C6–4.5].\n- Investigate applications of kinematics principles, such as determining appropriate airport runway length, designing merging lanes, or timing traffic lights.",
+          "category": "sts",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.4s",
+          "description": "- Work collaboratively to address problems, applying scientific skills and conventions to communicate information and assess results\n- Use appropriate Système international (SI) units, including fundamental and derived units, and significant digits (CT–NS2)\n- Use numeric, symbolic, graphical, and linguistic representations to communicate ideas, plans, and results (CT–NS2)\n- Use delta notation correctly to describe changes in quantities (CT–NS2)",
+          "category": "skills",
+          "parent": "20-A1"
+        }
+      ],
+      "topics": [
+        "Position, displacement, and distance",
+        "Velocity and speed (uniform and average)",
+        "Acceleration (uniform and instantaneous)",
+        "Graphical analysis of motion",
+        "Kinematic equations for uniformly accelerated motion",
+        "Free fall and projectile motion",
+        "Vector addition and components"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Xf Cccc Kinematics",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-1/xf557a762645cccc5:kinematics",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-A1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Projectile At Angle",
+          "url": "https://www.khanacademy.org/science/physics/two-dimensional-motion/two-dimensional-projectile-mot/v/projectile-at-an-angle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "ZZ39o1rAZWY",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/ZZ39o1rAZWY?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Displacement and Velocity Vectors - University Physics Volume 1",
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/4-1-displacement-and-velocity-vectors",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Free Fall University Physics Volume",
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/3-5-free-fall",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "1-Dimensional Kinematics Problem Sets",
+          "url": "https://www.physicsclassroom.com/calcpad/1dkin/problems",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1"
+          ],
+          "source": "www.physicsclassroom.com",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "Projectile Motion - Kinematics",
+          "url": "https://phet.colorado.edu/en/simulations/projectile-motion",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-A1"
+          ],
+          "source": "PhET",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: One-dimensional motion",
+          "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.1k",
+            "20-A1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Forces and Newton's laws",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.1k",
+            "20-A1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Physics library",
+          "url": "https://www.khanacademy.org/science/physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Forces and Motion: Basics",
+          "url": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-A1.3k",
+            "20-A1.5k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "One-dimensional Motion",
+          "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.3k",
+            "20-A1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Light waves",
+          "url": "https://www.khanacademy.org/science/physics/light-waves",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Light and optics",
+          "url": "https://www.khanacademy.org/science/physics/geometric-optics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Magnetic forces and fields",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Circuits",
+          "url": "https://www.khanacademy.org/science/physics/circuits-topic",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Work and energy",
+          "url": "https://www.khanacademy.org/science/physics/work-and-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Motion in a Straight Line",
+          "url": "https://www.youtube.com/watch?v=ZM8ECpBuQYE",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.4k",
+            "20-A1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Two-dimensional motion",
+          "url": "https://www.khanacademy.org/science/physics/two-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.4k",
+            "20-A1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Newton's laws of motion",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Reflection and refraction",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-geometric-optics/reflection-refraction-ap/v/specular-and-diffuse-reflection",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Scalar and Vector Quantities",
+          "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion/v/scalar-and-vector-quantities",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Vectors and Scalars",
+          "url": "https://physics.info/vectors/",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.2k"
+          ],
+          "source": "Physics Info",
+          "provider": "online",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "Vector Addition",
+          "url": "https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_en.html",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.2k"
+          ],
+          "source": "PhET Interactive Simulations",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "Scalar vs. Vector Quantities",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws/v/scalar-vs-vector-quantities",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Scalar and Vector Quantities",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws/scalar-vector-quantities/v/scalar-and-vector-quantities",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "hyperphysics",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "dynamics",
+      "title": "Dynamics",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "20-B1",
+          "description": "- Explain the effects of balanced and unbalanced forces on velocity.",
+          "type": "general"
+        },
+        {
+          "code": "20-B2",
+          "description": "- Explain that gravitational effects extend throughout the universe.",
+          "type": "general"
+        },
+        {
+          "code": "20-B1.1k",
+          "description": "- Explain that a nonzero net force causes a change in velocity",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.2k",
+          "description": "- Apply Newton’s first law of motion to explain, qualitatively, an object’s state of rest or uniform motion",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.3k",
+          "description": "- Apply Newton’s second law of motion to explain, qualitatively, the relationships among net force, mass and acceleration",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.4k",
+          "description": "- Apply Newton’s third law to qualitatively explain interactions between two objects, recognizing that the equal and opposite forces act on different objects.",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.5k",
+          "description": "- Explain qualitatively and quantitatively the static and kinetic friction forces acting on an object.",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.6k",
+          "description": "- Calculate the resultant force, or its components, on an object by adding vector components graphically and algebraically.",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.7k",
+          "description": "- Apply Newton’s laws of motion to algebraically solve linear motion problems in horizontal, vertical, and inclined planes near Earth’s surface, ignoring air resistance.",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B2.1k",
+          "description": "- Identify the gravitational force as one of the fundamental forces in nature",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.2k",
+          "description": "- Describe Newton’s law of universal gravitation qualitatively and quantitatively.",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.3k",
+          "description": "- Explain qualitatively the principles of the Cavendish experiment used to determine the universal gravitational constant, G",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.4k",
+          "description": "- Define the term \"field\" as a concept that replaces \"action at a distance\".\n- Apply the field concept to describe gravitational effects.",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.5k",
+          "description": "- Relate, qualitatively and quantitatively, the gravitational constant to the local acceleration due to gravity using Newton’s law of universal gravitation.",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.6k",
+          "description": "- Predict quantitative differences in the weight of objects on different planets.",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems and issues.\n- Identify questions to investigate arising from practical problems (e.g., relationships among acceleration, mass and force acting on a moving object) (IP–ST1).",
+          "category": "skills",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.1sts",
+          "description": "- Explain that the goal of technology is to solve practical problems; that technological development includes testing and evaluating designs and prototypes against established criteria; and that technological products cannot solve all problems (ST1, ST5d, ST6) [ICT F2–4.4].\n- Assess the design and use of injury-prevention devices in cars and sports in terms of Newton’s laws of motion.\n- Explain how buffalo jumps represented a technological solution to food supply problems and describe their advantages and limitations.",
+          "category": "sts",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.2s",
+          "description": "- Investigate relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Conduct experiments to determine relationships among force, mass, and acceleration, using available technologies (e.g., interval timers or motion sensors) (PR–ST3) [ICT C6–4.4].\n- Research the use of kinematics and dynamics principles in everyday life (e.g., traffic accident investigation methods), using the Internet and/or interviews (PR–ST1).",
+          "category": "skills",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.2sts",
+          "description": "- Explain that science and technology are developed to meet societal needs and that society provides direction for scientific and technological development (SEC1, SEC4) [ICT F2–4.8]\n- Discuss the use of seat belts in school buses",
+          "category": "sts",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Analyze a graph of empirical data to infer the mathematical relationships among force, mass, and acceleration (AI–NS6) [ICT C6–4.1].\n- Use free-body diagrams to describe the forces acting on an object (AI–NS1).",
+          "category": "skills",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.3sts",
+          "description": "- Explain that scientific knowledge and theories develop through hypotheses, evidence collection, investigation, and the ability to provide explanations (NS2).\n- Analyze the trajectories of lunar dust particles as illustrated in a video.",
+          "category": "sts",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.4s",
+          "description": "- Work collaboratively to address problems, applying scientific skills and conventions to communicate information and ideas and to assess results.\n- Select and use appropriate numeric, symbolic, graphical, or linguistic representations to communicate findings and conclusions (CT–ST2).",
+          "category": "skills",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Identify, define, and delimit questions to investigate (e.g., the relationship between the local value of the acceleration due to gravity and gravitational field strength) (IP–NS1).",
+          "category": "skills",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.1sts",
+          "description": "- Explain that concepts, models, and theories are used to interpret observations and predict future observations (NS6a).\n- Compare apparent weightlessness and zero net gravity, and explain tidal forces on Earth.\n- Investigate the existence and shape of globular star clusters.\n- Describe the forces required to accelerate the Mars rover on Earth and on Mars.\n- Explore the evolution of theories of gravity using different worldviews.",
+          "category": "sts",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Determine empirically the local value of the acceleration due to gravity (PR–NS2).\n- Explore the relationship between the local value of the acceleration due to gravity and gravitational field strength (PR–NS1) [ICT C7–4.2].",
+          "category": "skills",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- List the limitations of mass-weight determinations at different points on Earth’s surface (AI–NS4).\n- Treat acceleration due to gravity as uniform near Earth’s surface (AI–NS3).",
+          "category": "skills",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.4s",
+          "description": "- Work collaboratively to address problems, and apply the skills and conventions of science to communicate information and ideas and assess results (CT–NS2).\n- Select and use appropriate numeric, symbolic, graphical, or linguistic representations to communicate findings and conclusions (CT–NS2).",
+          "category": "skills",
+          "parent": "20-B2"
+        }
+      ],
+      "topics": [
+        "Newton's First Law (inertia)",
+        "Newton's Second Law (F=ma)",
+        "Newton's Third Law (action-reaction)",
+        "Free body diagrams",
+        "Force of gravity and weight",
+        "Normal force",
+        "Friction (static and kinetic)",
+        "Tension and applied forces",
+        "Inclined planes"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Force and Translational Dynamics Course",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-1/xf557a762645cccc5:force-and-translational-dynamics",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-B1",
+            "20-B2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Normal Force Contact Force",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws/normal-contact-force/v/normal-force-and-contact-force",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1",
+            "20-B2"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "1WOrgrIcQZU",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/1WOrgrIcQZU?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Newton's Laws of Motion Tutorial",
+          "url": "https://www.physicsclassroom.com/Physics-Tutorial/Newton-s-Laws",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-B1",
+            "20-B2"
+          ],
+          "source": "www.physicsclassroom.com",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Newton S Second Law University Physics Volume",
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/5-3-newtons-second-law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1",
+            "20-B2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "The Gravitational Field Practice Problems",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-1/xf557a762645cccc5:kinematics-and-introduction-to-dynamics/xf557a762645cccc5:the-gravitational-field/e/the-gravitational-field",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1",
+            "20-B2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "Forces and Motion: Basics - Force",
+          "url": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-B1",
+            "20-B2",
+            "20-B1.4k",
+            "20-B2.1k",
+            "20-B1.1s",
+            "20-B1.1sts",
+            "20-B1.3k"
+          ],
+          "source": "PhET",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Forces and Newton's laws",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.1k",
+            "20-B1.3k",
+            "20-B1.4k",
+            "20-B1.7k",
+            "20-B2.1k",
+            "20-B2.5k",
+            "20-B1.1s",
+            "20-B1.2s",
+            "20-B2.1s",
+            "20-B2.2s",
+            "20-B2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Physics library",
+          "url": "https://www.khanacademy.org/science/physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.1k",
+            "20-B1.1sts",
+            "20-B1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Magnetic forces and fields",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: One-dimensional motion",
+          "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.1k",
+            "20-B1.3k",
+            "20-B1.7k",
+            "20-B2.5k",
+            "20-B1.1s",
+            "20-B1.2s",
+            "20-B2.1s",
+            "20-B2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Work and energy",
+          "url": "https://www.khanacademy.org/science/physics/work-and-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.5k",
+            "20-B2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric charge and fields",
+          "url": "https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Charges and Fields",
+          "url": "https://phet.colorado.edu/en/simulations/charges-and-fields",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-B2.4k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Two-dimensional motion",
+          "url": "https://www.khanacademy.org/science/physics/two-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Newton's laws of motion",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.2k",
+            "20-B1.3k",
+            "20-B1.4k",
+            "20-B1.7k",
+            "20-B2.1k",
+            "20-B2.5k",
+            "20-B1.1sts",
+            "20-B2.1s",
+            "20-B2.2s",
+            "20-B2.3s",
+            "20-B1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Motion in a Straight Line",
+          "url": "https://www.youtube.com/watch?v=ZM8ECpBuQYE",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.2k",
+            "20-B1.3k",
+            "20-B1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Impulse and momentum",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-linear-momentum/introduction-to-linear-momentum-and-impulse-ap/v/introduction-to-momentum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric force and Coulomb's law",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-electric-charge-electric-force-and-voltage/coulombs-law-and-electric-force-ap/v/coulombs-law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ohm's law and circuits",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-circuits-topic/ohms-law-and-circuits-with-resistors-ap/v/circuits-part-1",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Rutherford's gold foil experiment",
+          "url": "https://www.khanacademy.org/science/chemistry/electronic-structure-of-atoms/history-of-atomic-structure/v/rutherford-s-gold-foil-experiment",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Atomic Models",
+          "url": "https://www.youtube.com/watch?v=HsKK9zPdXAY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.3s",
+            "20-B2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photoelectric effect",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-quantum-physics/photoelectric-effect-ap/v/introduction-to-the-photoelectric-effect",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.4s",
+            "20-B2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Forces and Newton's Laws of Motion",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.1sts",
+            "20-B1.3k",
+            "20-B1.4k",
+            "20-B2.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Gravity: The Weight of Objects on Different Planets",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws/gravity/a/gravity-calculator",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "Gravity and Orbits",
+          "url": "https://phet.colorado.edu/en/simulations/",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.6k"
+          ],
+          "source": "PhET Interactive Simulations",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Weight on Different Planets - Explained",
+          "url": "https://www.youtube.com/watch?v=f7dx8RjunP4",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.6k"
+          ],
+          "source": "NASA's YouTube Channel",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "What is Weight?",
+          "url": "https://www.khanacademy.org/science/physics/gravity/newton-law-of-gravitation/a/what-is-weight",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "libretexts",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Gravity on Other Planets",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws/gravity/a/gravity-on-other-planets",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Why Don't School Buses Have Seatbelts? - Safety Science Series",
+          "url": "https://www.youtube.com/watch?v=A31lzE3Z6Lg",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-B1.2sts"
+          ],
+          "source": "TED-Ed",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Introduction to Newton's Laws",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-B1.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "circular-motion",
+      "title": "Circular Motion, Work and Energy",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "20-C1",
+          "description": "- Explain circular motion using Newton’s laws of motion.",
+          "type": "general"
+        },
+        {
+          "code": "20-C2",
+          "description": "- Explain that work is a transfer of energy.\n- Explain that conservation of energy in an isolated system is a fundamental physical concept.",
+          "type": "general"
+        },
+        {
+          "code": "20-C1.1k",
+          "description": "- Describe uniform circular motion as a special case of two-dimensional motion",
+          "category": "knowledge",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.2k",
+          "description": "- Explain qualitatively and quantitatively that the acceleration in uniform circular motion is directed toward the centre of a circle.",
+          "category": "knowledge",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.3k",
+          "description": "- Explain quantitatively the relationships among speed, frequency, period, and radius for circular motion.",
+          "category": "knowledge",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.4k",
+          "description": "- Explain uniform circular motion qualitatively using Newton’s laws of motion.",
+          "category": "knowledge",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.5k",
+          "description": "- Explain quantitatively the motion of planets and natural and artificial satellites, using circular motion to approximate elliptical orbits.",
+          "category": "knowledge",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.6k",
+          "description": "- Predict a celestial body's mass using orbital data from a satellite in uniform circular motion around it.",
+          "category": "knowledge",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.7k",
+          "description": "- Explain qualitatively how Kepler’s laws were used in the development of Newton’s law of universal gravitation.",
+          "category": "knowledge",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C2.1k",
+          "description": "- Define mechanical energy as the sum of kinetic and potential energy",
+          "category": "knowledge",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.2k",
+          "description": "- Determine, quantitatively, the relationships among kinetic energy, gravitational potential energy, and total mechanical energy of a mass at any point between maximum potential and maximum kinetic energy.",
+          "category": "knowledge",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.3k",
+          "description": "- Quantitatively analyze kinematics and dynamics problems involving conservation of mechanical energy in an isolated system.",
+          "category": "knowledge",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.4k",
+          "description": "- Recall that work measures the mechanical energy transferred.\n- Recall that power is the rate of doing work.",
+          "category": "knowledge",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.5k",
+          "description": "- Describe power qualitatively and quantitatively",
+          "category": "knowledge",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.6k",
+          "description": "- Describe qualitatively how mechanical energy changes in a non-isolated system.",
+          "category": "knowledge",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Design an experiment to investigate relationships among orbital speed, orbital radius, acceleration, and force in uniform circular motion (IP–NS2).\n- Explore design characteristics of structures that facilitate circular motion (e.g., how racetrack banking makes high-speed turns safer) (IP–ST1).",
+          "category": "skills",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.1sts",
+          "description": "- Explain that scientific investigation includes analyzing evidence and providing explanations based on scientific theories and concepts (NS5f)\n- Examine the role of orbital perturbations in the discovery of outer planets\n- Examine the evidence for extra-solar planets",
+          "category": "sts",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.2s",
+          "description": "- Conduct investigations into relationships among observable variables using a broad range of tools and techniques to gather and record data and information.\n- Perform an experiment to investigate the relationships among net force acting on an object in uniform circular motion and the object’s frequency, mass, speed, and path radius (PR–NS3).",
+          "category": "skills",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.2sts",
+          "description": "- Explain how science and technology are developed to meet societal needs and expand human capability (SEC1) [ICT F2–4.8]\n- Explain the functions, applications, and societal impacts of geosynchronous satellites",
+          "category": "sts",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Organize and interpret experimental data using prepared graphs or charts (AI–NS1) [ICT C7–4.2].\n- Construct graphs to show relationships among frequency, mass, speed, and path radius.\n- Summarize an analysis of the relationships among frequency, mass, speed, and path radius (AI–NS6).\n- Solve quantitative circular motion problems in horizontal and vertical planes using algebraic and/or graphical vector analysis (AI–NS3) [ICT C6–4.1].",
+          "category": "skills",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.3sts",
+          "description": "- Explain that the goal of technology is to provide solutions to practical problems (ST1).\n- Analyze the principles and applications of circular motion in daily situations.",
+          "category": "sts",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.4s",
+          "description": "- Work collaboratively to address problems.\n- Apply scientific skills and conventions to communicate information and ideas and to assess results.\n- Select and use appropriate numeric, symbolic, graphical, or linguistic representations to communicate findings and conclusions (CT–NS2).",
+          "category": "skills",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Design an experiment to demonstrate the conservation of energy (e.g., Is energy conserved in a collision?) (IP–NS1, IP–NS2).",
+          "category": "skills",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.1sts",
+          "description": "- Explain that concepts, models, and theories are used to interpret observations and predict future observations (NS6a).\n- Estimate the energy released during a meteorite impact with Earth’s surface.\n- Analyze the gravitational collapse of a star.\n- Explain how a planet can provide a gravity assist to a space probe.\n- Analyze the transformation of kinetic and potential energy of an orbiting object at perihelion and aphelion.",
+          "category": "sts",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.2s",
+          "description": "- Investigate relationships among observable variables, using a range of tools and techniques to gather and record data and information.\n- Perform an experiment to demonstrate the law of conservation of energy (PR–NS3).\n- Research the development of the law of conservation of energy using library and Internet sources (PR–NS1) [ICT C1–4.1].",
+          "category": "skills",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.2sts",
+          "description": "- Explain that the products of technology are devices, systems and processes that meet given needs, but cannot solve all problems (ST6) [ICT F3–4.1].\n- Evaluate the design and efficiency of energy transfer devices in terms of relationships among mechanical energy, work and power.\n- Analyze the use of irrigation systems and water wheels by different cultures, such as the Incas.",
+          "category": "sts",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Use free-body diagrams to organize and communicate solutions to work-energy theorem problems (AI–NS1).\n- Solve quantitative kinematics and dynamics problems using the work-energy theorem (AI–NS3) [ICT C6–4.1].\n- Analyze data to determine effective energy conservation strategies (e.g., whether lowering the speed limit or modifying the internal combustion engine saves more energy in vehicles) (AI–ST2, AI–SEC3) [ICT C7–4.2].",
+          "category": "skills",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.3sts",
+          "description": "- Evaluate how Canadian society supports scientific research and technological development to facilitate a sustainable society, economy, and environment (SEC4a) [ICT F2–4.1].\n- Investigate and report on a technology that improves energy-transfer efficiency to balance society’s energy needs with environmental protection and judicious energy use.",
+          "category": "sts",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.4s",
+          "description": "- Work collaboratively to address problems, applying scientific skills and conventions to communicate ideas and assess results.\n- Use integrated software effectively and efficiently to produce work that incorporates data, graphics, and text (CT–NS2) [ICT P4–4.3].",
+          "category": "skills",
+          "parent": "20-C2"
+        }
+      ],
+      "topics": [
+        "Uniform circular motion",
+        "Centripetal acceleration",
+        "Centripetal force",
+        "Work done by a force",
+        "Kinetic energy",
+        "Gravitational potential energy",
+        "Elastic potential energy",
+        "Law of conservation of energy",
+        "Work-energy theorem",
+        "Power"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Work, Energy, and Power Course",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-1/xf557a762645cccc5:work-energy-and-power",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-C1",
+            "20-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Potential Energy of a System - University Physics Volume 1",
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/8-1-potential-energy-of-a-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1",
+            "20-C2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "What Is Centripetal Force",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-1/xf557a762645cccc5:force-and-translational-dynamics/xf557a762645cccc5:circular-motion/a/what-is-centripetal-force",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1",
+            "20-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Work-Energy Theorem Review",
+          "url": "https://www.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-work-energy-and-power/in-in-class11-work-energy-theorem/a/work-energy-theorem-ap1",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1",
+            "20-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Centripetal Acceleration Centripetal Force",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-1/xf557a762645cccc5:force-and-translational-dynamics/xf557a762645cccc5:circular-motion/e/centripetal-acceleration-and-centripetal-force",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1",
+            "20-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Conservation of Energy Practice Problems",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-1/xf557a762645cccc5:energy-and-momentum/xf557a762645cccc5:conservation-of-energy/e/conservation-of-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1",
+            "20-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "Energy Skate Park",
+          "url": "https://phet.colorado.edu/en/simulations/energy-skate-park",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-C1",
+            "20-C2",
+            "20-C2.6k",
+            "20-C2.1sts",
+            "20-C2.2s",
+            "20-C2.2sts",
+            "20-C2.3sts",
+            "20-C2.5k"
+          ],
+          "source": "PhET",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: One-dimensional motion",
+          "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.1k",
+            "20-C1.1s",
+            "20-C1.2s",
+            "20-C1.3sts",
+            "20-C2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Physics library",
+          "url": "https://www.khanacademy.org/science/physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.1k",
+            "20-C1.5k",
+            "20-C1.6k",
+            "20-C2.4k",
+            "20-C1.1s",
+            "20-C1.2s",
+            "20-C1.3sts",
+            "20-C2.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Forces and Motion: Basics",
+          "url": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-C1.1k",
+            "20-C1.6k",
+            "20-C1.2s",
+            "20-C1.3sts",
+            "20-C1.5k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "One-dimensional Motion",
+          "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.1k",
+            "20-C1.5k",
+            "20-C1.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Forces and Newton's laws",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.2k",
+            "20-C1.6k",
+            "20-C1.1s",
+            "20-C1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Waves and sound",
+          "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Work and energy",
+          "url": "https://www.khanacademy.org/science/physics/work-and-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.1k",
+            "20-C2.4k",
+            "20-C2.6k",
+            "20-C2.1sts",
+            "20-C2.2s",
+            "20-C2.2sts",
+            "20-C2.3s",
+            "20-C2.3sts",
+            "20-C2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Work and Energy",
+          "url": "https://www.khanacademy.org/science/physics/work-and-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.1k",
+            "20-C2.2sts",
+            "20-C2.3s",
+            "20-C2.1sts",
+            "20-C2.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Momentum",
+          "url": "https://www.khanacademy.org/science/physics/linear-momentum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Newton's laws of motion",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.4k",
+            "20-C1.5k",
+            "20-C1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Two-dimensional motion",
+          "url": "https://www.khanacademy.org/science/physics/two-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.4k",
+            "20-C1.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Motion in a Straight Line",
+          "url": "https://www.youtube.com/watch?v=ZM8ECpBuQYE",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric force and Coulomb's law",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-electric-charge-electric-force-and-voltage/coulombs-law-and-electric-force-ap/v/coulombs-law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ohm's law and circuits",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-circuits-topic/ohms-law-and-circuits-with-resistors-ap/v/circuits-part-1",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Conservation of energy",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-work-and-energy/conservation-of-energy-ap/v/conservation-of-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.2k",
+            "20-C2.4k",
+            "20-C2.6k",
+            "20-C2.1sts",
+            "20-C2.2s",
+            "20-C2.3s",
+            "20-C2.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric potential and voltage",
+          "url": "https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-potential-voltage",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Conservation of momentum",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-linear-momentum/conservation-of-momentum-ap/v/deriving-the-conservation-of-momentum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Atomic Models",
+          "url": "https://www.youtube.com/watch?v=HsKK9zPdXAY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photoelectric effect",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-quantum-physics/photoelectric-effect-ap/v/introduction-to-the-photoelectric-effect",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.4s",
+            "20-C2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Exploring Power in Physics",
+          "url": "https://www.khanacademy.org/science/physics/energy-work/power/v/power",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Power Review",
+          "url": "https://www.khanacademy.org/science/physics/energy-work/power-in-physics/a/power-review",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "hyperphysics",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "What is Power?",
+          "url": "https://www.khanacademy.org/science/physics/work-and-energy/work-and-energy-tutorial/a/what-is-power",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "online",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Understanding Power in Physics",
+          "url": "https://www.youtube.com/watch?v=FBoQUa1X1m0",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.5k"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Centripetal Force and Gravitation",
+          "url": "https://www.khanacademy.org/science/physics/centripetal-force-and-gravitation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "An Introduction to Geosynchronous Orbits",
+          "url": "https://www.khanacademy.org/science/in-in-class11th-physics/in-in-currents-electricity/geo-synchronous-satellite/v/an-introduction-to-geosynchronous-orbits",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "oscillations-waves",
+      "title": "Oscillatory Motion and Mechanical Waves",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "20-D1",
+          "description": "- Describe the conditions that produce oscillatory motion.",
+          "type": "general"
+        },
+        {
+          "code": "20-D2",
+          "description": "- Describe the properties of mechanical waves.\n- Explain how mechanical waves transmit energy.",
+          "type": "general"
+        },
+        {
+          "code": "20-D2.1k",
+          "description": "- Describe mechanical waves as particles of a medium moving in simple harmonic motion.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.2k",
+          "description": "- Compare and contrast energy transport by matter and by waves.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.3k",
+          "description": "- Define longitudinal and transverse waves by the motion of medium particles relative to the wave’s direction of propagation.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.4k",
+          "description": "- Define wavelength, wave velocity, period, frequency, amplitude, wave front, and ray for transverse and longitudinal waves.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.5k",
+          "description": "- Explain how wave speed depends on the characteristics of the medium.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.6k",
+          "description": "- Quantitatively predict and verify the effects of changing one or more variables in the universal wave equation (v = fλ)",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.7k",
+          "description": "- Explain qualitatively the reflection of mechanical waves.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.8k",
+          "description": "- Explain, qualitatively, the conditions for constructive and destructive interference of waves and for acoustic resonance.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.9k",
+          "description": "- Explain, qualitatively and quantitatively, the Doppler effect for a stationary observer of a moving source.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D1.1k",
+          "description": "- Describe oscillatory motion in terms of period and frequency",
+          "category": "knowledge",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.2k",
+          "description": "- Define simple harmonic motion as motion with a restoring force directly proportional and opposite to the displacement from equilibrium.",
+          "category": "knowledge",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.3k",
+          "description": "- Explain quantitatively the relationships among displacement, velocity, acceleration, and time in simple harmonic motion, illustrated by a frictionless horizontal mass–spring system or a pendulum (using the small-angle approximation).",
+          "category": "knowledge",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.4k",
+          "description": "- Determine quantitatively the relationships among kinetic, gravitational potential, and total mechanical energies of a mass executing simple harmonic motion.",
+          "category": "knowledge",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.5k",
+          "description": "- Define mechanical resonance.",
+          "category": "knowledge",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Design an experiment to demonstrate simple harmonic motion within certain limits, relating frequency and period to the system’s physical characteristics (e.g., a frictionless horizontal mass–spring system or a pendulum) (IP–NS2).\n- Predict the conditions required for mechanical resonance (IP–NS3).",
+          "category": "skills",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.1sts",
+          "description": "- Explain that the goal of science is knowledge about the natural world (NS1).\n- Analyze, qualitatively, the forces in real-life examples of simple harmonic motion (e.g., springs in vehicle suspensions; mechanical resonance in cars, bridges, and buildings; seismic waves in Earth’s crust).\n- Relate the fundamental frequency and amplitude of a vibrating drum membrane to its properties.",
+          "category": "sts",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a variety of tools and techniques to gather and record data and information.\n- Perform an experiment to determine the relationship between pendulum length and period of oscillation (PR–NS3).\n- Perform an experiment to illustrate mechanical resonance (PR–NS3).\n- Perform an experiment to determine the spring constant of a spring (PR–NS3).",
+          "category": "skills",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Relate the length of a pendulum to its period of oscillation (AI–NS2) [ICT C7–4.2].\n- Ask whether the mass of the pendulum bob is a factor in the pendulum’s period of oscillation (AI–NS5).",
+          "category": "skills",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.4s",
+          "description": "- Work collaboratively to address problems, apply the skills and conventions of science to communicate information and ideas, and assess results.\n- Select and use appropriate numeric, symbolic, graphical, or linguistic modes of representation to communicate findings and conclusions (CT–NS2).",
+          "category": "skills",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Predict the conditions required for constructive and destructive interference to occur (IP–NS3).",
+          "category": "skills",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.1sts",
+          "description": "- Explain that the goal of technology is to provide solutions to practical problems (ST1) [ICT F2–4.4, F2–4.8].\n- Investigate applications of acoustic phenomena in recreation, medicine, industry, and technology (sonography, ultrasound, sonar, pipe organs, wind and brass instruments, noise-reduction devices, noise-measurement devices).\n- Describe wave properties used to manipulate direction and speed when travelling in rivers or oceans (surfing, canoeing or kayaking).",
+          "category": "sts",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Draw wave-front and ray diagrams (PR–NS4).\n- Draw a wave-front diagram of a two-point source interference pattern (PR–NS4).\n- Perform an experiment to illustrate acoustic resonance (PR–NS3).",
+          "category": "skills",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Determine the speed of a mechanical wave (e.g., water and sound waves) (PR–NS2).\n- Relate apparent changes in wavelength and frequency to the speed of the source relative to the observer (AI–NS2) [ICT C7–4.2].",
+          "category": "skills",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.4s",
+          "description": "- Work collaboratively to address problems, applying the skills and conventions of science to communicate information and ideas and assess results.\n- Select and use appropriate numeric, symbolic, graphical, or linguistic modes of representation to communicate findings and conclusions (CT–NS2).",
+          "category": "skills",
+          "parent": "20-D2"
+        }
+      ],
+      "topics": [
+        "Simple harmonic motion",
+        "Period and frequency",
+        "Amplitude",
+        "Springs and Hooke's Law",
+        "Pendulums",
+        "Wave properties (wavelength, frequency, speed)",
+        "Transverse and longitudinal waves",
+        "Wave interference and superposition",
+        "Standing waves",
+        "Resonance"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Simple Harmonic Motion",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/simple-harmonic-motion-ap/introduction-to-simple-harmonic-motion-ap/v/introduction-to-harmonic-motion",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-D1",
+            "20-D2"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "Nk2q-_jkJVs",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/Nk2q-_jkJVs?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Waves and Sound",
+          "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-D1",
+            "20-D2",
+            "20-D2.8k",
+            "20-D1.1sts",
+            "20-D1.2s",
+            "20-D2.1sts",
+            "20-D2.2s",
+            "20-D2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Simple Harmonic Motion - University Physics Volume 1",
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/15-1-simple-harmonic-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1",
+            "20-D2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Physics Tutorial Vibrations Waves",
+          "url": "https://www.physicsclassroom.com/class/waves",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1",
+            "20-D2"
+          ],
+          "source": "www.physicsclassroom.com",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Vibrations Waves Problem Sets",
+          "url": "https://www.physicsclassroom.com/calcpad/waves/problems",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1",
+            "20-D2"
+          ],
+          "source": "www.physicsclassroom.com",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "Masses and Springs - Periodic Motion",
+          "url": "https://phet.colorado.edu/en/simulations/masses-and-springs",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-D1",
+            "20-D2"
+          ],
+          "source": "PhET",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "Wave on a String",
+          "url": "https://phet.colorado.edu/en/simulations/wave-on-a-string",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-D1",
+            "20-D2",
+            "20-D2.8k",
+            "20-D1.2s",
+            "20-D2.3s",
+            "20-D2.2s"
+          ],
+          "source": "PhET",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Physics library",
+          "url": "https://www.khanacademy.org/science/physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.1k",
+            "20-D1.1sts",
+            "20-D2.1sts",
+            "20-D2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: One-dimensional motion",
+          "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Forces and Motion: Basics",
+          "url": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-D2.1k",
+            "20-D1.1s",
+            "20-D1.1sts"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Work and energy",
+          "url": "https://www.khanacademy.org/science/physics/work-and-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.2k",
+            "20-D1.4s",
+            "20-D2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Energy Skate Park",
+          "url": "https://phet.colorado.edu/en/simulations/energy-skate-park",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-D2.2k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "Mechanical waves and sound",
+          "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.5k",
+            "20-D2.8k",
+            "20-D2.1sts",
+            "20-D2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Light and optics",
+          "url": "https://www.khanacademy.org/science/physics/geometric-optics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Forces and Newton's laws",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.2k",
+            "20-D1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Magnetic forces and fields",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Two-dimensional motion",
+          "url": "https://www.khanacademy.org/science/physics/two-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Wave properties",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-mechanical-waves-and-sound/wave-characteristics-ap/v/introduction-to-waves",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.4k",
+            "20-D1.1s",
+            "20-D1.1sts",
+            "20-D2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photoelectric effect",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-quantum-physics/photoelectric-effect-ap/v/introduction-to-the-photoelectric-effect",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.6k",
+            "20-D2.9k",
+            "20-D1.4s",
+            "20-D2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Motion in a Straight Line",
+          "url": "https://www.youtube.com/watch?v=ZM8ECpBuQYE",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Impulse and momentum",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-linear-momentum/introduction-to-linear-momentum-and-impulse-ap/v/introduction-to-momentum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Conservation of energy",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-work-and-energy/conservation-of-energy-ap/v/conservation-of-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.4k",
+            "20-D1.5k",
+            "20-D1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Atomic Models",
+          "url": "https://www.youtube.com/watch?v=HsKK9zPdXAY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Quantum physics introduction",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "One-dimensional Motion",
+          "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    }
+  ]
+}

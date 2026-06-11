@@ -1,0 +1,2592 @@
+{
+  "subject": "Biology 20",
+  "grade": 11,
+  "albertaDocs": [
+    {
+      "title": "Biology 20-30 Program of Studies",
+      "url": "https://education.alberta.ca/media/3069386/pos_bio_20_30.pdf",
+      "type": "reference"
+    }
+  ],
+  "units": [
+    {
+      "id": "energy-matter-biosphere",
+      "title": "Energy and Matter Exchange in the Biosphere",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "20-A1",
+          "description": "- Explain the constant flow of energy through the biosphere and ecosystems.",
+          "type": "general"
+        },
+        {
+          "code": "20-A2",
+          "description": "- Explain the cycling of matter through the biosphere.",
+          "type": "general"
+        },
+        {
+          "code": "20-A3",
+          "description": "- Explain how the biosphere, as an open system, balances energy and matter exchange to maintain equilibrium.",
+          "type": "general"
+        },
+        {
+          "code": "20-A1.1k",
+          "description": "- Explain the one-way flow of energy through the biosphere in general terms.\n- Explain how stored energy in the biosphere, as a system, is eventually lost as heat.\n- Illustrate using photosynthesis/chemosynthesis, cellular respiration (muscle heat generation, decomposition), and energy transfer by conduction, radiation, and convection.",
+          "category": "knowledge",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.2k",
+          "description": "- Explain how energy in the biosphere reflects a balance among photosynthesis, chemosynthesis, and cellular respiration.\n- Describe energy flow in photosynthetic environments and in deep-sea vent (chemosynthetic) and other extreme ecosystems.",
+          "category": "knowledge",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.3k",
+          "description": "- Explain ecosystem trophic levels using models such as food chains and food webs.",
+          "category": "knowledge",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.4k",
+          "description": "- Explain, quantitatively, the flow of energy and the exchange of matter in aquatic and terrestrial ecosystems using models such as pyramids of numbers, biomass, and energy.",
+          "category": "knowledge",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A2.1k",
+          "description": "- Explain and summarize the biogeochemical cycles of carbon, oxygen, nitrogen, and phosphorus.\n- Relate these cycles to the general reuse of matter in the biosphere.",
+          "category": "knowledge",
+          "parent": "20-A2"
+        },
+        {
+          "code": "20-A2.2k",
+          "description": "- Explain how water’s chemical and physical properties (i.e., universal solvent, hydrogen bonding) underpin its primary role in biogeochemical cycles.",
+          "category": "knowledge",
+          "parent": "20-A2"
+        },
+        {
+          "code": "20-A3.1k",
+          "description": "- Explain the interrelationship of energy, matter and ecosystem productivity (biomass production)\n- E.g.,\n- Antarctic Ocean versus tropical seas\n- Tropical rain forest versus desert\n- Taiga versus tundra",
+          "category": "knowledge",
+          "parent": "20-A3"
+        },
+        {
+          "code": "20-A3.2k",
+          "description": "- Explain how the balance of gas exchange in photosynthesis and cellular respiration affects atmospheric composition.",
+          "category": "knowledge",
+          "parent": "20-A3"
+        },
+        {
+          "code": "20-A3.3k",
+          "description": "- Describe geologic evidence (stromatolites) for changes in atmospheric oxygen and carbon dioxide from anoxic conditions to the present.\n- Explain scientific explanations for these changes in atmospheric composition.\n- Describe the significance of these changes to current biosphere equilibrium.",
+          "category": "knowledge",
+          "parent": "20-A3"
+        },
+        {
+          "code": "20-A1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into questions, ideas, problems, and issues.\n- Propose a relationship between producers and the available energy of a system (IP–SEC1).\n- Predict a relationship between solar energy storage by plants and varying light conditions (IP–NS3) [ICT C6–4.1].",
+          "category": "skills",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.1sts",
+          "description": "- Explain that scientific investigation involves analyzing evidence and providing explanations based on scientific theories and concepts (NS5f) [ICT C6–4.2].\n- Evaluate evidence for the influence of ice and snow on the trapping of solar energy (albedo effect) and hypothesize the consequences of fluctuations for biological systems.\n- Explain how drying harvested grain before storage reduces metabolic heat release, and the scientific principles underlying this technology.\n- Explain, in terms of energy flow, the advantage of vegetarianism in densely populated countries.",
+          "category": "sts",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a range of tools and techniques to gather and record data and information\n- Perform an experiment to demonstrate solar energy storage by plants (PR–NS3, PR–NS4, PR–NS5)\n- Draw annotated diagrams of food chains, food webs, and ecological pyramids by hand or using technology (PR–NS4)",
+          "category": "skills",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Analyze data on the diversity of plants, animals, and decomposers in an endangered ecosystem (e.g., wetlands, short grass prairie) and predict long-term outcomes (AI–SEC1) [ICT C6–4.1].\n- Compare ways to present ecosystem energy flow data (pyramids of energy, biomass, and numbers) (AI–SEC1, AI–NS4, AI–NS6) [ICT C6–4.2].\n- Analyze data on how plants store solar energy (AI–NS2, AI–NS3, AI–NS4, AI–NS6).",
+          "category": "skills",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A1.4s",
+          "description": "- Work collaboratively to solve problems and apply the skills and conventions of science to communicate information and ideas and to assess results.\n- Use appropriate Système international (SI) units, fundamental and derived units, and significant digits (CT–NS2).\n- Use appropriate numeric, symbolic, graphical, and linguistic representations to communicate ideas, plans, and results (CT–NS2).\n- Use appropriate unit notation in data presented in an energy pyramid (CT–NS2).\n- Work cooperatively as a team to investigate, synthesize, and present information on the effect of organism diversity on an ecosystem (CT–SEC1, CT–SEC2, CT–SEC3) [ICT C1–4.4, C7–4.2].",
+          "category": "skills",
+          "parent": "20-A1"
+        },
+        {
+          "code": "20-A2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into questions, ideas, problems, and issues.\n- Design an experiment to compare the carbon dioxide production of plants and animals (IP–NS1, IP–NS2, IP–NS3, IP–NS4).\n- Hypothesize how alterations in the carbon cycle from burning fossil fuels might affect other cycling phenomena (e.g., sulfur, iron, water) (IP–NS3) [ICT C6–4.1].\n- Predict disruptions in the nitrogen and phosphorus cycles caused by human activities (IP–NS3) [ICT C6–4.1].",
+          "category": "skills",
+          "parent": "20-A2"
+        },
+        {
+          "code": "20-A2.1sts",
+          "description": "- Explain that science and technology have both intended and unintended consequences for humans and the environment (SEC3) [ICT F3–4.1]\n- Discuss how human activities influence the biogeochemical cycling of phosphorus, sulfur, iron, and nitrogen\n- Discuss society’s use of water, its impacts on water quality and quantity in ecosystems, and the need for water purification and conservation\n- Analyze how heavy metals released into the environment move through natural food chains/webs and affect quality of life",
+          "category": "sts",
+          "parent": "20-A2"
+        },
+        {
+          "code": "20-A2.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information (PR–NS2, PR–NS3, PR–NS4) [ICT P2–4.1].\n- Measure and record pH and the amounts of nitrates, phosphates, iron, or sulfites in water samples (PR–NS2, PR–NS3, PR–NS4) [ICT P2–4.1].",
+          "category": "skills",
+          "parent": "20-A2"
+        },
+        {
+          "code": "20-A2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Analyze data on water consumption and loss in plants and animals (AI–NS2, AI–NS3, AI–NS4) [ICT C7–4.2].",
+          "category": "skills",
+          "parent": "20-A2"
+        },
+        {
+          "code": "20-A2.4s",
+          "description": "- Work collaboratively to address problems, applying scientific skills and conventions to communicate information and assess results.\n- Work cooperatively in a group to investigate how human activities influence biogeochemical cycles and present findings using appropriate multimedia (CT–SEC1, CT–SEC2, CT–SEC3) [ICT C1–4.2, F2–4.7, P3–4.1].",
+          "category": "skills",
+          "parent": "20-A2"
+        },
+        {
+          "code": "20-A3.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of related questions, ideas, problems, and issues.\n- Predict how changes in carbon dioxide and oxygen concentrations affect atmospheric equilibrium when human activity significantly reduces photosynthetic organisms (IP–NS3) [ICT C6–4.1].",
+          "category": "skills",
+          "parent": "20-A3"
+        },
+        {
+          "code": "20-A3.1sts",
+          "description": "- Explain that science and technology are developed to meet societal needs and expand human capability (SEC1) [ICT F2–4.4, F2–4.8]\n- Evaluate closed-system technologies in terms of energy and matter, including space stations and spaceships, Biosphere experiments, and manned exploration of Mars' surface",
+          "category": "sts",
+          "parent": "20-A3"
+        },
+        {
+          "code": "20-A3.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data.\n- Collect evidence from various print and electronic sources on how human activities disrupt photosynthetic and cellular respiratory activities (PR–SEC1, PR–SEC2) [ICT C1–4.1].",
+          "category": "skills",
+          "parent": "20-A3"
+        },
+        {
+          "code": "20-A3.2sts",
+          "description": "- Explain that science and technology have intended and unintended consequences for humans and the environment (SEC3) [ICT F3–4.1]\n- Describe how human activities can disrupt the biosphere’s balance between photosynthesis and cellular respiration, including fossil fuel combustion, stratospheric ozone depletion, and forest destruction",
+          "category": "sts",
+          "parent": "20-A3"
+        },
+        {
+          "code": "20-A3.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Design and evaluate a model of a closed biological system in equilibrium with respect to carbon dioxide, water, and oxygen exchange (PR–ST2, AI–ST1).\n- Compare and contrast the flow of energy and the cycling of matter in Biosphere 2 with that in Earth’s biosphere (AI–SEC2).",
+          "category": "skills",
+          "parent": "20-A3"
+        },
+        {
+          "code": "20-A3.4s",
+          "description": "- Work collaboratively to address problems, applying the skills and conventions of science to communicate information and ideas and to assess results.\n- Work cooperatively as a group to investigate, synthesize, and present information on the effects of changes to stratospheric ozone levels on society, agriculture, plants, and animals (CT–SEC1, CT–SEC2, CT–SEC3) [ICT C1–4.4, C7–4.2, F2–4.7].",
+          "category": "skills",
+          "parent": "20-A3"
+        }
+      ],
+      "topics": [
+        "Energy flow through ecosystems",
+        "Thermodynamics in biological systems",
+        "Biogeochemical cycles (carbon, nitrogen, water, phosphorus)",
+        "Photosynthesis and cellular respiration overview",
+        "Human impacts on nutrient cycles",
+        "Ecosystem balance and steady state"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Carbon Cycle",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/biogeochemical-cycles/v/carbon-cycle",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-A2.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "_dYkByQ9Kmg",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/_dYkByQ9Kmg?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Biogeochemical Cycles",
+          "url": "https://openstax.org/books/biology-2e/pages/46-3-biogeochemical-cycles",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A2.1k",
+            "20-A2.2k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Energy Flow through Ecosystems",
+          "url": "https://openstax.org/books/biology-2e/pages/46-2-energy-flow-through-ecosystems",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.1k",
+            "20-A1.3k",
+            "20-A1.4k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "The Nitrogen Cycle",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/biogeochemical-cycles/a/the-nitrogen-cycle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A2.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Biogeochemical Cycles Practice",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/biogeochemical-cycles/e/biogeochemical-cycles",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A2.1k",
+            "20-A2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Ecology of Ecosystems",
+          "url": "https://openstax.org/books/biology-2e/pages/46-1-ecology-of-ecosystems",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1",
+            "20-A2",
+            "20-A3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Biology library",
+          "url": "https://www.khanacademy.org/science/biology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cellular respiration",
+          "url": "https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ecology and ecosystems",
+          "url": "https://www.khanacademy.org/science/biology/ecology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cells",
+          "url": "https://www.khanacademy.org/science/biology/structure-of-a-cell",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photosynthesis",
+          "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: DNA and RNA",
+          "url": "https://www.khanacademy.org/science/biology/dna-as-the-genetic-material",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Gene Expression",
+          "url": "https://phet.colorado.edu/en/simulations/gene-expression-essentials",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-A1.4s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Cell",
+          "url": "https://openstax.org/books/biology-2e/pages/3-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.2s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ecological pyramids",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/energy-flow-through-ecosystems/v/ecological-pyramids",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.1k",
+            "20-A1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Energy Flow in Ecosystems",
+          "url": "https://www.youtube.com/watch?v=FHW2mOzZQCg",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.1k",
+            "20-A1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Ecology - Community Ecology",
+          "url": "https://www.youtube.com/watch?v=0m3SF7S1RzM",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Carbon cycle",
+          "url": "https://www.khanacademy.org/science/biology/ecology/biogeochemical-cycles/v/carbon-cycle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.3k",
+            "20-A3.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Amoeba Sisters: Carbon and Nitrogen Cycles",
+          "url": "https://www.youtube.com/watch?v=leHy-Y_8nRs",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.3k",
+            "20-A2.4s",
+            "20-A3.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Biogeochemical cycles",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/biogeochemical-cycles/v/introduction-to-biogeochemical-cycles",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.3k",
+            "20-A2.3s",
+            "20-A2.4s",
+            "20-A3.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Visual phototransduction",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/phototransduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Energy flow in ecosystems",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/energy-flow-through-ecosystems/v/energy-flow-in-ecosystems",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.1s",
+            "20-A1.2s",
+            "20-A1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Food chains and food webs",
+          "url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecology/v/food-chains-and-food-webs",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.1s",
+            "20-A1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: The Eye",
+          "url": "https://www.youtube.com/watch?v=WQPE87BNd9w",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Ecology - Energy Flow",
+          "url": "https://www.youtube.com/watch?v=RS7P5JCzVSc",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Phosphorus cycle",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/biogeochemical-cycles/v/phosphorus-cycle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A2.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Water cycle",
+          "url": "https://www.khanacademy.org/science/biology/ecology/biogeochemical-cycles/v/water-cycle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A2.2s",
+            "20-A2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: The ear and hearing",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/the-ear",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Nitrogen cycle",
+          "url": "https://www.khanacademy.org/science/biology/ecology/biogeochemical-cycles/v/nitrogen-cycle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A2.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Photosynthesis",
+          "url": "https://openstax.org/books/biology-2e/pages/8-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.2sts"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Amoeba Sisters: Food Webs and Energy Pyramids",
+          "url": "https://www.youtube.com/watch?v=hLq2datPo5M",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "\"Space Exploration: The Technologies and Challenges\"",
+          "url": "https://www.youtube.com/watch?v=gnUhpupVgaY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.1sts"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Ozone Layer: Formation and Destruction",
+          "url": "https://www.khanacademy.org/science/biology/ecology/earths-biosphere/v/ozone-layer-formation-and-destruction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-A3.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "ecosystems-population-change",
+      "title": "Ecosystems and Population Change",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "20-B1",
+          "description": "- Explain that the biosphere is composed of ecosystems, each with distinctive biotic and abiotic characteristics.",
+          "type": "general"
+        },
+        {
+          "code": "20-B2",
+          "description": "- Explain mechanisms of population change over time.",
+          "type": "general"
+        },
+        {
+          "code": "20-B1.1k",
+          "description": "- Define species, population, community, and ecosystem.\n- Explain the interrelationships among these levels.",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.2k",
+          "description": "- Explain how terrestrial and aquatic ecosystems support a diversity of organisms through a variety of habitats and niches\n- E.g.,\n- Terrestrial: canopy, sub-canopy, forest floor, soil\n- Aquatic: littoral, limnetic, profundal and benthic zones",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.3k",
+          "description": "- Identify biotic and abiotic characteristics and explain their influence in a local aquatic and a local terrestrial ecosystem (e.g., stream, lake, prairie, boreal forest, vacant lot, sports field).",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.4k",
+          "description": "- Explain how limiting factors influence organism distribution and range\n- E.g.,\n- Abiotic factors: soil, relative humidity, moisture, ambient temperature, sunlight, nutrients, oxygen\n- Biotic factors: competitors, predators and parasites",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.5k",
+          "description": "- Explain the fundamental principles of taxonomy and binomial nomenclature.\n- Classify organisms at the kingdom level using modes of nutrition.\n- Differentiate organisms at the genus and species levels using morphological characteristics.",
+          "category": "knowledge",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B2.1k",
+          "description": "- Explain that variation within a species arises from heritable mutations and that some mutations may confer a selective advantage",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.2k",
+          "description": "- Explain the significance of sexual reproduction for individual variation in populations and for the process of evolution.",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.3k",
+          "description": "- Compare Lamarckian and Darwinian explanations of evolutionary change",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.4k",
+          "description": "- Summarize and describe evidence supporting the evolution of modern species from ancestral forms, including the fossil record, Earth’s history, biogeography, homologous and analogous structures, embryology, and biochemistry.",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.5k",
+          "description": "- Explain speciation and the conditions required for it.",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.6k",
+          "description": "- Describe modern evolutionary theories, including punctuated equilibrium and gradualism.",
+          "category": "knowledge",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B1.1s",
+          "description": "- Formulate questions about observed relationships; plan investigations of questions, ideas, problems, and issues; and define and delimit problems to facilitate investigation.\n- Hypothesize the role of biotic and abiotic factors in ecosystems; e.g., competition and chinooks (IP–NS3) [ICT C6–4.1].\n- Plan a field study to gather and evaluate biotic and abiotic characteristics associated with an ecosystem, such as the effects of dominant plants on abiotic conditions (e.g., soil and microclimate) (IP–NS1, IP–NS2, IP–NS3, IP–NS4).",
+          "category": "skills",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.1sts",
+          "description": "- Explain how science and technology have intended and unintended consequences for humans and the environment (SEC3) [ICT F3–4.1].\n- Evaluate how human activities affect biodiversity in ecosystems, including wetlands management, land use, interbasin water transfer, habitat fragmentation, urbanization, slash-and-burn and clearcutting, and monoculturing of forests, lawns, and field crops.\n- Assess the environmental consequences of introducing new species (e.g., tropical fish in Banff Hot Springs, starlings, quack grass, scented chamomile, purple loosestrife) and discuss society’s responsibility to protect the environment through science and technology.",
+          "category": "sts",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Perform a field study to quantitatively measure appropriate abiotic characteristics of an ecosystem and gather quantitative and qualitative evidence to analyze the diversity of life in the studied ecosystem (PR–NS3, PR–NS4, PR–NS5) [ICT F2–4.1].\n- Research and develop a land reclamation strategy for a disturbed area as a solution to environmental damage (e.g., open-pit mine, garbage dump, school yard reclamation) (PR–SEC1, PR–NS1, PR–NS4) [ICT C1–4.1].",
+          "category": "skills",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.2sts",
+          "description": "- Explain how mathematical conventions, nomenclature, and notation provide a basis for organizing and communicating scientific theories, relationships, and concepts (NS6b).\n- Research the historical development of the modern classification system.\n- Research plant and animal classification systems developed by Aboriginal peoples in their cultural practices.",
+          "category": "sts",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess solutions\n- Apply classification and binomial nomenclature systems in a field study (AI–NS1)\n- Analyze interrelationships among biotic and abiotic characteristics of the studied ecosystem (AI–NS2, AI–NS3, AI–NS6)\n- Evaluate the accuracy and reliability of measurement instruments and identify the degree of error in field-study data (AI–NS4)\n- Compile and organize evidence on whether human activity is responsible for ecosystem change, and analyze the relationship between human activity and changing ecosystems (AI–NS2, AI–NS6, AI–SEC2) [ICT C2–4.1, C7–4.2]",
+          "category": "skills",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B1.4s",
+          "description": "- Work collaboratively to address problems and apply scientific skills and conventions to communicate information and assess results.\n- Work cooperatively to gather and share data on a field trip (CT–NS1, CT–NS2).\n- Work cooperatively to make clear, logical arguments to defend a decision on an issue, such as human impact on ecosystems, land reclamation, or wildlife habitat preservation (CT–SEC1, CT–SEC2, CT–SEC3) [ICT C1–4.4].\n- Develop, present, and defend a strategy to improve wildlife habitats (CT–SEC3) [ICT C1–4.4].",
+          "category": "skills",
+          "parent": "20-B1"
+        },
+        {
+          "code": "20-B2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Design an investigation to measure or describe inherited variation in a plant or animal population (IP–NS1, IP–NS2, IP–NS3, IP–NS4).\n- Hypothesize the adaptive significance of variations in a range of homologous structures in living and extinct organisms (IP–NS3).",
+          "category": "skills",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.1sts",
+          "description": "- Explain that scientific knowledge and theories develop through hypotheses, collection of evidence, investigation, and the ability to provide explanations (NS2).\n- Discuss the nature of science as a way of knowing, including contributions of Buffon, Lyell, Malthus, and Wallace to evolution, and of Aristotle, Galileo, and Popper to the philosophy of science.\n- Describe how paleontology and the role of evidence in accumulating knowledge (e.g., the Burgess Shale) provide invaluable data for theories explaining observable variations in organisms over time.\n- Discuss geologic evidence and probable causes for past mass extinctions, and contrast these with the forces driving the current decline in species.",
+          "category": "sts",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.2s",
+          "description": "- Conduct investigations into relationships between and among observable variables, using a broad range of tools and techniques to gather and record data.\n- Gather actual or simulated data on organisms to demonstrate how inherited characteristics change over time (e.g., Darwin’s finches, peppered moths, bacteria, domesticated plants and animals) (PR–NS1, PR–NS4).",
+          "category": "skills",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions\n- Analyze actual or simulated data on plants and animals to demonstrate morphological changes over time (e.g., Darwin’s finches, peppered moths, bacteria, domesticated plants or animals) (AI–NS2) [ICT C6–4.2, C7–4.2]\n- Analyze DNA sequences from online or other sources to infer relationships among organisms at various classification levels (AI–NS2) [ICT C1–4.1]\n- State conclusions or generalizations from research data that support or refute explanations for biological change, and identify new questions or problems that arise (AI–NS5, AI–NS6) [ICT C7–4.2]",
+          "category": "skills",
+          "parent": "20-B2"
+        },
+        {
+          "code": "20-B2.4s",
+          "description": "- Work collaboratively to address problems.\n- Apply scientific skills and conventions to communicate information and ideas and assess results.\n- Use appropriate numeric, symbolic, graphical, and linguistic modes of representation to communicate ideas, plans, and results (CT–NS2).",
+          "category": "skills",
+          "parent": "20-B2"
+        }
+      ],
+      "topics": [
+        "Ecosystem characteristics (biotic and abiotic)",
+        "Population dynamics and growth patterns",
+        "Exponential growth (J-curve)",
+        "Logistic growth and carrying capacity (S-curve)",
+        "Limiting factors (density-dependent and independent)",
+        "Natural selection and evolution",
+        "Species interactions (competition, predation, symbiosis)"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Populations, Communities, and Ecosystems",
+          "url": "https://www.khanacademy.org/science/ms-biology/x0c5bb03129646fd6:interactions-in-ecosystems/x0c5bb03129646fd6:populations-communities-and-ecosystems/v/ms-populations-communities-and-ecosystems",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-B1.1k",
+            "20-B1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "xzINev2Bd8s",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/xzINev2Bd8s?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Exponential and Logistic Growth",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/population-ecology-ap/v/exponential-and-logistic-growth-in-populations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "KyAKEisg2PQ",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/KyAKEisg2PQ?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Community Ecology",
+          "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.2k",
+            "20-B1.3k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Population Dynamics and Regulation",
+          "url": "https://openstax.org/books/biology-2e/pages/45-4-population-dynamics-and-regulation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Population Growth and Regulation",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/population-ecology-ap/a/population-growth-and-regulation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Population Ecology Review",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/population-ecology-ap/a/hs-population-ecology-review",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "9.1: What is Population Ecology?",
+          "url": "https://bio.libretexts.org/Workbench/General_Ecology_Ecology/Chapter_9:_The_Ecology_of_Populations/9.1:_What_is_Population_Ecology",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "20-B2"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ecology and ecosystems",
+          "url": "https://www.khanacademy.org/science/biology/ecology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1",
+            "20-B1.2s",
+            "20-B1.3s",
+            "20-B1.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Natural Selection",
+          "url": "https://phet.colorado.edu/en/simulations/natural-selection",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-B2.1k",
+            "20-B2.6k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Natural selection and evolution",
+          "url": "https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.2k",
+            "20-B2.5k",
+            "20-B2.6k",
+            "20-B2.1sts",
+            "20-B2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Biology library",
+          "url": "https://www.khanacademy.org/science/biology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Evolution",
+          "url": "https://openstax.org/books/biology-2e/pages/18-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.3k",
+            "20-B2.6k",
+            "20-B2.1sts"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Population",
+          "url": "https://openstax.org/books/biology-2e/pages/45-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.1s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Gene Expression",
+          "url": "https://phet.colorado.edu/en/simulations/gene-expression-essentials",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-B2.3s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: DNA and RNA",
+          "url": "https://www.khanacademy.org/science/biology/dna-as-the-genetic-material",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Gene expression and regulation",
+          "url": "https://www.khanacademy.org/science/biology/gene-regulation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Visual phototransduction",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/phototransduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Biogeochemical cycles",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/biogeochemical-cycles/v/introduction-to-biogeochemical-cycles",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Phosphorus cycle",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/biogeochemical-cycles/v/phosphorus-cycle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Biogeochemical Cycles",
+          "url": "https://www.youtube.com/watch?v=leHy-Y_8nRs",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: The ear and hearing",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/the-ear",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.4k",
+            "20-B1.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Reproductive system introduction",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/v/reproductive-system-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Ecology - Community Ecology",
+          "url": "https://www.youtube.com/watch?v=0m3SF7S1RzM",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.1s",
+            "20-B1.2s",
+            "20-B1.3s",
+            "20-B1.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Energy Flow in Ecosystems",
+          "url": "https://www.youtube.com/watch?v=FHW2mOzZQCg",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Water cycle",
+          "url": "https://www.khanacademy.org/science/biology/ecology/biogeochemical-cycles/v/water-cycle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Classification of Organisms",
+          "url": "https://www.khanacademy.org/science/biology/classification",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Taxonomy: Principles of Classification",
+          "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/v/taxonomy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Crash Course Biology: Taxonomy and Classification",
+          "url": "https://www.youtube.com/watch?v=8D7loUU2g0M",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.5k"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "Introduction to Classification",
+          "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/a/introduction-to-classification",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "libretexts",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Taxonomy Overview",
+          "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/a/taxonomy-unit-overview",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "online",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Ecosystems and Ecology",
+          "url": "https://www.khanacademy.org/science/biology/ecology/biogeochemical-cycles/v/ecosystems-ecology-links-in-the-chain",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-B2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "photosynthesis-cellular-respiration",
+      "title": "Photosynthesis and Cellular Respiration",
+      "estimatedHours": 5,
+      "outcomes": [
+        {
+          "code": "20-C1",
+          "description": "- Relate photosynthesis to the storage of energy in organic compounds.",
+          "type": "general"
+        },
+        {
+          "code": "20-C2",
+          "description": "- Explain the role of cellular respiration in releasing potential energy from organic compounds.",
+          "type": "general"
+        },
+        {
+          "code": "20-C1.1k",
+          "description": "- Explain, in general terms, how energy is absorbed by pigments, transferred via the reduction of nicotinamide adenine dinucleotide phosphate (NADP) to NADPH, and how chemiosmosis transfers chemical potential energy to ATP.\n- Describe where in the chloroplast these processes occur.",
+          "category": "knowledge",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.2k",
+          "description": "- Explain, in general terms, how NADPH and ATP from the light-dependent reactions are used to reduce carbon in the light-independent reactions to produce glucose.\n- Describe where the light-dependent and light-independent reactions occur within the chloroplast.",
+          "category": "knowledge",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C2.1k",
+          "description": "- Explain, in general terms, how glucose is oxidized during glycolysis and the Krebs cycle to produce reducing power in NADH and FADH (detailed metabolic intermediates not required).\n- Describe where in the cell these processes occur.",
+          "category": "knowledge",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.2k",
+          "description": "- Explain, in general terms, how chemiosmosis converts the reducing power of NADH and FADH into chemical potential energy stored in ATP.\n- Describe where these processes occur within the mitochondrion.",
+          "category": "knowledge",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.3k",
+          "description": "- Distinguish, in general terms, between aerobic respiration, anaerobic respiration, and fermentation in plants, animals, and yeast.",
+          "category": "knowledge",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.4k",
+          "description": "- Summarize and explain the role of ATP in cellular metabolism\n- E.g.,\n- Active transport\n- Cytoplasmic streaming\n- Phagocytosis",
+          "category": "knowledge",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C1.1s",
+          "description": "- Formulate questions about observed relationships, and plan investigations into related questions, ideas, problems, and issues.\n- Identify a testable factor that affects the rate of photosynthesis (IP–NS1).\n- Predict and hypothesize how changes in carbon dioxide and oxygen concentrations affect photosynthesis (IP–NS3) [ICT C6–4.1].",
+          "category": "skills",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.1sts",
+          "description": "- Explain how scientific knowledge may lead to new technologies, and how new technologies may lead to or facilitate scientific discovery (ST4) [ICT F2–4.4, F2–4.8]\n- Analyze the role of photosynthesis as the biological basis of agriculture and forestry",
+          "category": "sts",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Use local histories obtained from Aboriginal Elders to describe the importance of plant productivity to human sustainability (PR–SEC2).\n- Measure rates of evapotranspiration under various environmental conditions and relate these rates to photosynthetic activity (PR–NS2, PR–NS3, PR–NS4).\n- Investigate and integrate, from print and electronic sources, information on the C3 and C4 photosynthetic mechanisms or on the applications of cellular biochemistry in medicine or industry (PR–NS1, PR–NS4) [ICT C1–4.1].",
+          "category": "skills",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.2sts",
+          "description": "- Explain that the appropriateness, risks, and benefits of technologies need to be assessed for each potential application from multiple perspectives, including sustainability (ST7) [ICT F3–4.1].\n- Research and analyze the effects of herbicides on the biochemistry of photosynthesis.",
+          "category": "sts",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Collect and interpret data from chromatography experiments and calculate reference flow (Rf) values (PR–NS3, AI–NS2, AI–NS3, AI–NS4) [ICT F1–4.2].\n- Draw an analogy between the storage of energy by photosynthesis and the storage of energy by solar generating systems (AI–NS6).\n- Explain how data support or refute hypotheses on how changes in carbon dioxide and oxygen concentration affect photosynthesis (AI–NS4).\n- Collect and interpret experimental data demonstrating that plant leaves produce starch in the presence of light (PR–NS3, AI–NS2).",
+          "category": "skills",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C1.4s",
+          "description": "- Work collaboratively to address problems, and apply scientific skills and conventions to communicate information and ideas and assess results.\n- Work cooperatively as a group to investigate, synthesize, and present information on the effects of herbicides on the biochemistry of photosynthesis (CT–SEC1, CT–SEC2, CT–SEC3) [ICT C1–4.4, C7–4.2].",
+          "category": "skills",
+          "parent": "20-C1"
+        },
+        {
+          "code": "20-C2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Identify factors affecting the rate of cellular respiration (IP–NS1).\n- Design an experiment to demonstrate that heat is a by-product of cellular respiration (IP–NS1, IP–NS2, IP–NS3, IP–NS4).\n- Predict and hypothesize the effect of oxic and anoxic conditions on the rate of cellular respiration in unicellular organisms such as yeast and bacteria (IP–NS3) [ICT C6–4.1].",
+          "category": "skills",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.1sts",
+          "description": "- Explain that science and technology are developed to meet societal needs and expand human capability (SEC1) [ICT F2–4.4, F2–4.8].\n- Investigate applications of cellular biochemistry in health and industry, including aerobic and anaerobic fitness, methane gas production from organic waste, alcohol production, bread making, and yogurt.",
+          "category": "sts",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.2s",
+          "description": "- Conduct investigations to explore relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Use experimental methods to quantitatively demonstrate oxygen consumption in germinating seeds (PR–NS2, PR–NS3, PR–NS4, PR–NS5).\n- Measure temperature change over time in germinating and non-germinating seeds (PR–NS2, PR–NS3, PR–NS4, PR–NS5).\n- Investigate and integrate information from print and electronic sources on the action of metabolic toxins on cellular respiration (PR–NS1, PR–NS4) [ICT C1–4.1].",
+          "category": "skills",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.2sts",
+          "description": "- Explain that science and technology have both intended and unintended consequences for humans and the environment (SEC3) [ICT F3–4.1].\n- Discuss how pollutants such as hydrogen sulfide and cyanide arise as industrial by-products and explain their specific metabolic effects on aerobic organisms.",
+          "category": "sts",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Evaluate the reliability, accuracy, and validity of sources used to collect information on metabolic toxins and cellular respiration (AI–NS4) [ICT C3–4.1].\n- Interpret data on the oxygen consumption of an animal and relate it to metabolic rate (AI–NS2, AI–NS3, AI–NS4, AI–NS6).\n- Interpret data illustrating the effects of oxic and anoxic conditions on cellular respiration (AI–NS6) [ICT C7–4.2].\n- Relate the Aboriginal metaphor “the trees are the lungs of Mother Earth” to the complementary role of the carbon and oxygen cycles (AI–NS6).",
+          "category": "skills",
+          "parent": "20-C2"
+        },
+        {
+          "code": "20-C2.4s",
+          "description": "- Work collaboratively to address problems and apply scientific skills and conventions to communicate information and ideas and assess results.\n- Create a concept map or flow chart illustrating how the carbon, hydrogen, and oxygen atoms in glucose are ultimately released as carbon dioxide and water.\n- Work cooperatively to research and investigate cellular respiration in oxic and anoxic conditions and metabolic toxins (CT–SEC1) [ICT C1–4.1].",
+          "category": "skills",
+          "parent": "20-C2"
+        }
+      ],
+      "topics": [
+        "Light-dependent reactions (light reactions)",
+        "Light-independent reactions (Calvin cycle)",
+        "Photosystems and electron transport",
+        "ATP and NADPH production",
+        "Glycolysis",
+        "Krebs cycle (Citric acid cycle)",
+        "Oxidative phosphorylation",
+        "Electron transport chain in mitochondria",
+        "Relationship between photosynthesis and respiration"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Introduction to Cellular Respiration",
+          "url": "https://www.khanacademy.org/science/ap-biology/cellular-energetics/cellular-respiration-ap/v/introduction-to-cellular-respiration",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-C2.1k",
+            "20-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "2f7YwCtHcgk",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/2f7YwCtHcgk?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Krebs Cycle Overview",
+          "url": "https://www.khanacademy.org/science/ap-biology/cellular-energetics/cellular-respiration-ap/v/krebs-citric-acid-cycle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "juM2ROSLWfw",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/juM2ROSLWfw?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Intro to Photosynthesis",
+          "url": "https://www.khanacademy.org/science/ap-biology/cellular-energetics/photosynthesis/a/intro-to-photosynthesis",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-C1.1k",
+            "20-C1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Energy in Living Systems",
+          "url": "https://openstax.org/books/biology-2e/pages/7-1-energy-in-living-systems",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.1k",
+            "20-C2.2k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "The Light-Dependent Reactions of Photosynthesis",
+          "url": "https://openstax.org/books/biology-2e/pages/8-2-the-light-dependent-reactions-of-photosynthesis",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.1k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Cellular Respiration Practice",
+          "url": "https://www.khanacademy.org/science/ap-biology/cellular-energetics/cellular-respiration-ap/e/cellular-respiration",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Photosynthesis Exercise",
+          "url": "https://www.khanacademy.org/science/ap-biology/cellular-energetics/photosynthesis/e/photosynthesis-exercise",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Oxidative Phosphorylation",
+          "url": "https://openstax.org/books/biology-2e/pages/7-4-oxidative-phosphorylation",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "20-C2.2k"
+          ],
+          "source": "LibreTexts",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Biology library",
+          "url": "https://www.khanacademy.org/science/biology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.3k",
+            "20-C1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cellular respiration",
+          "url": "https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.3k",
+            "20-C2.2s",
+            "20-C2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Gene Expression",
+          "url": "https://phet.colorado.edu/en/simulations/gene-expression-essentials",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-C2.3k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Gene expression and regulation",
+          "url": "https://www.khanacademy.org/science/biology/gene-regulation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.3k",
+            "20-C1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cell membrane and transport",
+          "url": "https://www.khanacademy.org/science/ap-biology/cell-structure-and-function/membrane-transport",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cells",
+          "url": "https://www.khanacademy.org/science/biology/structure-of-a-cell",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.4k",
+            "20-C2.4s",
+            "20-C2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photosynthesis",
+          "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.1s",
+            "20-C1.3s",
+            "20-C1.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Photosynthesis",
+          "url": "https://openstax.org/books/biology-2e/pages/8-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.1s",
+            "20-C1.4s",
+            "20-C1.3s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Cell",
+          "url": "https://openstax.org/books/biology-2e/pages/3-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.2s",
+            "20-C2.2s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Nervous system",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Thyroid gland",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-endocrine-system/v/thyroid-gland",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Carbon cycle",
+          "url": "https://www.khanacademy.org/science/biology/ecology/biogeochemical-cycles/v/carbon-cycle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C1.1sts",
+            "20-C1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: The Eye",
+          "url": "https://www.youtube.com/watch?v=WQPE87BNd9w",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.1sts",
+            "20-C2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Biogeochemical cycles",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/biogeochemical-cycles/v/introduction-to-biogeochemical-cycles",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Amoeba Sisters: Carbon and Nitrogen Cycles",
+          "url": "https://www.youtube.com/watch?v=leHy-Y_8nRs",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Respiration",
+          "url": "https://openstax.org/books/biology-2e/pages/7-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-C2.1s",
+            "20-C2.2s",
+            "20-C2.4s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "human-systems",
+      "title": "Human Systems",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "20-D1",
+          "description": "- Students will explain how the human digestive and respiratory systems exchange energy and matter with the environment.",
+          "type": "general"
+        },
+        {
+          "code": "20-D2",
+          "description": "- Explain the role of the circulatory and defence systems in maintaining internal equilibrium.",
+          "type": "general"
+        },
+        {
+          "code": "20-D3",
+          "description": "- Explain the role of the excretory system in maintaining internal equilibrium in humans through exchanges of energy and matter with the environment.",
+          "type": "general"
+        },
+        {
+          "code": "20-D4",
+          "description": "- Explain the role of the motor system in the function of other body systems.",
+          "type": "general"
+        },
+        {
+          "code": "20-D1.1k",
+          "description": "- Identify the principal structures of the digestive and respiratory systems\n- I.e.,\n- Mouth, esophagus, stomach, sphincters, small and large intestines, liver, pancreas, gall bladder\n- Nasal passages, pharynx, larynx, epiglottis, trachea, bronchi, bronchioles, alveoli, diaphragm, rib muscles, pleural membranes",
+          "category": "knowledge",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.2k",
+          "description": "- Describe the chemical nature of carbohydrates, lipids, and proteins.\n- Describe the enzymes that act on them: carbohydrases, lipases, and proteases.",
+          "category": "knowledge",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.3k",
+          "description": "- Explain enzyme action.\n- Explain how temperature, pH, substrate concentration, feedback inhibition, and competitive inhibition affect enzyme activity.",
+          "category": "knowledge",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.4k",
+          "description": "- Describe the physical and chemical processing of matter in the digestive system and its transfer into the circulatory system.",
+          "category": "knowledge",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.5k",
+          "description": "- Explain how matter and thermal energy are exchanged between the body and the environment through breathing (gas exchange), removal of foreign material, and heat loss.",
+          "category": "knowledge",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D2.1k",
+          "description": "- Identify the principal structures of the heart and associated blood vessels; i.e., atria, ventricles, septa, valves, aorta, venae cavae, pulmonary arteries and veins, sinoatrial node, atrioventricular node, Purkinje fibres",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.2k",
+          "description": "- Describe the action of the heart.\n- Describe blood pressure.\n- Describe the general circulation of blood through coronary, pulmonary, and systemic pathways.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.3k",
+          "description": "- Describe the structure and function of arteries, veins, and capillaries.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.4k",
+          "description": "- Describe the main components of blood—plasma, erythrocytes, platelets, and leucocytes—and their roles in transport, clotting, and resisting the influence of pathogens.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.5k",
+          "description": "- Explain how the circulatory system at the capillary level enables the digestive, excretory, respiratory, and motor systems to exchange energy and matter with the environment.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.6k",
+          "description": "- Explain the role of blood in regulating body temperature",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.7k",
+          "description": "- Describe and explain, in general terms, the function of the lymphatic system.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.8k",
+          "description": "- List the main cellular and noncellular components of the human defence system and describe their role (skin, macrophage, helper T cell, B cell, killer T cell, suppressor T cell, memory T cell).",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.9k",
+          "description": "- Describe the ABO and Rh blood groups in terms of antigens and antibodies.",
+          "category": "knowledge",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D3.1k",
+          "description": "- Identify the principal structures of the excretory system: kidneys, ureters, urinary bladder, and urethra.",
+          "category": "knowledge",
+          "parent": "20-D3"
+        },
+        {
+          "code": "20-D3.2k",
+          "description": "- Identify the major nephron structures: glomerulus, Bowman's capsule, tubules, loop of Henle, collecting duct, afferent and efferent arterioles, and capillary net.\n- Explain how these structures maintain plasma composition (water, pH, ions).",
+          "category": "knowledge",
+          "parent": "20-D3"
+        },
+        {
+          "code": "20-D3.3k",
+          "description": "- Describe how the kidney excretes metabolic wastes and eliminates them from the body.",
+          "category": "knowledge",
+          "parent": "20-D3"
+        },
+        {
+          "code": "20-D3.4k",
+          "description": "- Identify the roles of antidiuretic hormone (ADH) and aldosterone in water and sodium ion reabsorption, excretion, and blood pressure regulation.",
+          "category": "knowledge",
+          "parent": "20-D3"
+        },
+        {
+          "code": "20-D4.1k",
+          "description": "- Explain how the motor system supports body functions (i.e., digestive, circulatory, respiratory, excretory and locomotory), referencing smooth, cardiac and striated muscle",
+          "category": "knowledge",
+          "parent": "20-D4"
+        },
+        {
+          "code": "20-D4.2k",
+          "description": "- Describe the roles of actin and myosin in muscle contraction and heat production.",
+          "category": "knowledge",
+          "parent": "20-D4"
+        },
+        {
+          "code": "20-D1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Design an investigation to examine food energy through calorimetry, enzyme action, or the mechanics of breathing (IP–NS1, IP–NS2, IP–NS3, IP–NS4).",
+          "category": "skills",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.1sts",
+          "description": "- Explain that the goal of technology is to provide solutions to practical problems (ST1) [ICT F2–4.4, F2–4.8]\n- Discuss and evaluate the role of food additives and/or food treatments in addressing food spoilage (antioxidants, irradiation technology)\n- Explain the biological basis of nutritional deficiencies, including anorexia nervosa, and the technological means available to restore internal equilibrium\n- Identify specific pathologies of the digestive system and technologies used to treat these conditions\n- Identify specific pathologies of the respiratory system and technologies used to treat these conditions",
+          "category": "sts",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.2s",
+          "description": "- Conduct investigations into relationships between and among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Observe, through dissection or computer simulations, the digestive and respiratory systems of a representative mammal and identify the major structural components (PR–NS2, PR–NS4, PR–NS5).\n- Perform experiments, using qualitative tests, to detect the presence of carbohydrates, proteins, and lipids (PR–NS2, PR–NS3, PR–NS4, PR–NS5).\n- Perform an experiment to investigate the influence of enzyme concentration, temperature, or pH on the activity of enzymes such as pepsin and pancreatin (PR–NS2, PR–NS3, PR–NS4, PR–NS5).\n- Perform an experiment to examine the mechanics of breathing, such as lung volume and breathing rate (PR–NS2, PR–NS3, PR–NS4, PR–NS5).",
+          "category": "skills",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.2sts",
+          "description": "- Explain that the products of technology are devices, systems, and processes that meet given needs, but cannot solve all problems (ST6) [ICT F2–4.4].\n- Assess the physiological effects of smoking and exposure to second-hand smoke, and the limitations of technologies available to address these conditions or diseases.\n- Assess the short- and long-term societal impacts of smoking.",
+          "category": "sts",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions\n- Analyze, draw conclusions, and assess the validity of data from an investigation on calorimetry or enzyme action (AI–NS2, AI–NS3, AI–NS4, AI–NS6) [ICT C7–4.2]\n- Analyze, draw conclusions, and assess the validity of data from an investigation on the mechanics of breathing (AI–NS2, AI–NS3, AI–NS4, AI–NS6) [ICT C7–4.2]",
+          "category": "skills",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D1.4s",
+          "description": "- Collaborate to address problems and apply scientific skills and conventions to communicate information and ideas and assess results.\n- Use appropriate notation and units to present data from investigations on digestion and respiration (CT–NS1, CT–NS2).\n- Collaborate to investigate how Aboriginal peoples and ranchers use observations of the excrement of game and farm animals to assess animal health (CT–NS1).\n- Collaborate to research contributions from various cultures to our current understanding of digestion or respiration and healing (CT–NS1).",
+          "category": "skills",
+          "parent": "20-D1"
+        },
+        {
+          "code": "20-D2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues (IP–NS1, IP–NS2, IP–NS3, IP–NS4).\n- Design procedures to investigate factors affecting heart rate and blood pressure (e.g., physical activity, emotion, gender, and chemicals such as caffeine) (IP–NS1, IP–NS2, IP–NS3, IP–NS4).",
+          "category": "skills",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.1sts",
+          "description": "- Explain how Canadian society supports scientific research and technological development to facilitate a sustainable society, economy, and environment (SEC4a) [ICT F2–4.2, F2–4.8]\n- Identify pathologies of the circulatory and defence systems, the technologies used to treat them, and why society supports developing these technologies\n- Evaluate how society’s needs, interests, and financial support affect efforts to prevent the spread of pathogens (e.g., staphylococcus, smallpox virus, E. coli, HIV)\n- Assess the physiological effects of drugs such as caffeine and nicotine on the circulatory system, and explain why habitual use is a societal concern\n- Evaluate the risks and benefits of blood transfusion",
+          "category": "sts",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.2s",
+          "description": "- Conduct investigations into relationships between and among observable variables and use a broad range of tools and techniques to gather and record data and information\n- Measure blood pressure and observe blood flow in capillaries in an organism or through demonstration in a virtual laboratory (PR–NS2, PR–NS3)\n- Determine the morphology and abundance of cellular components in a prepared human blood slide (PR–NS2, PR–NS3)\n- Select and integrate information from various sources to observe the principal features of a mammalian circulatory system and the direction of blood flow, and identify structures from drawings\n- G., valves, chambers (PR–NS1)",
+          "category": "skills",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.2sts",
+          "description": "- Explain that decisions about applying scientific and technological developments involve multiple perspectives—social, cultural, environmental, ethical, and economic (SEC4b) [ICT F2–4.2, F3–4.1].\n- Evaluate the ethical implications of organ and tissue transplants, including how societal needs, interests, and financial support influence research in this field.\n- Assess the implications of technological advances that help maintain internal equilibrium, e.g., vaccinations for pathogens and cardiac interventions (artificial valves, artificial hearts, xenotransplantation, stem cell culture).",
+          "category": "sts",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Determine, from available data, the relationship between blood pressure and exercise, and investigate lifestyle behaviour, physical fitness, and heart rate recovery, accounting for discrepancies (AI–NS2, AI–NS3) [ICT C7–4.2].\n- Identify limitations and evaluate the dependability of devices used to measure blood pressure (AI–NS4) [ICT C6–4.5].\n- Explore solutions to practical problems of the circulatory system, such as organ and tissue transplants and artificial blood (AI–ST2) [ICT C1–4.1].\n- Determine blood groups from artificial blood samples or electronic resources and predict ABO and Rh compatibility between donor and recipient (AI–NS6).",
+          "category": "skills",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D2.4s",
+          "description": "- Work collaboratively to solve problems and apply scientific skills and conventions to communicate information and ideas and assess results.\n- Work cooperatively with team members to measure and record blood pressure, heart rate, or other circulatory system factors (CT–NS1, CT–NS2) [ICT C6–4.4].",
+          "category": "skills",
+          "parent": "20-D2"
+        },
+        {
+          "code": "20-D3.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Predict how blood pressure affects urine composition and volume (IP–NS3) [ICT C6–4.1].",
+          "category": "skills",
+          "parent": "20-D3"
+        },
+        {
+          "code": "20-D3.1sts",
+          "description": "- Explain that the goal of science is knowledge about the natural world (NS1).\n- Examine how lifestyle factors contribute to hypertension and affect kidney function, including drugs (alcohol, nicotine), sedentary lifestyle, dietary excesses or deficiencies, and stress.\n- Explain how understanding nephron function is applied to renal and peritoneal dialysis.\n- Identify specific pathologies of the excretory system and the scientific knowledge connected with their treatment.\n- Identify the physiological complexities and challenges of organ and tissue transplants.",
+          "category": "sts",
+          "parent": "20-D3"
+        },
+        {
+          "code": "20-D3.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Research and create a flowchart describing how humans maintain homeostasis of water and ions in cases of increased/decreased water intake; ingestion of diuretics (e.g., caffeine, alcohol); excessive sodium intake; and after intense exercise, fever, or hemorrhage (PR–NS1).\n- Perform a kidney dissection to identify the organ’s major structures (PR–NS3).",
+          "category": "skills",
+          "parent": "20-D3"
+        },
+        {
+          "code": "20-D3.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Observe principal features of a mammalian excretory system and identify structures from drawings from print and electronic sources (AI–NS1) [ICT C1–4.1].\n- Collect and interpret data from simulated urine analysis, identify data limitations, compare the data to theoretical values, and produce a generalization (PR–NS2, PR–NS3, PR–NS4, PR–NS5, AI–NS2, AI–NS4, AI–NS6) [ICT C7–4.2].\n- Assess technological solutions to kidney failure, such as peritoneal dialysis, hemodialysis, and kidney transplant, and identify the potential strengths and weaknesses of each (AI–ST2).",
+          "category": "skills",
+          "parent": "20-D3"
+        },
+        {
+          "code": "20-D3.4s",
+          "description": "- Collaborate to solve problems and apply scientific skills and conventions to communicate information and assess results.\n- Cooperate with team members to assess and record simulated urine composition (CT–NS1, CT–NS2).",
+          "category": "skills",
+          "parent": "20-D3"
+        },
+        {
+          "code": "20-D4.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Design an investigation to determine the relationship between muscle activity, energy consumption, and fatigue (IP–NS1, IP–NS2, IP–NS3, IP–NS4).",
+          "category": "skills",
+          "parent": "20-D4"
+        },
+        {
+          "code": "20-D4.1sts",
+          "description": "- Explain that concepts, models, and theories help interpret and predict observations (NS6a).\n- Analyze the effects of exercise on muscle fibre.\n- Describe the relationship between fitness and the efficiency of muscle action.\n- Assess the physiological effects on the motor system of anabolic steroids and energy‑enhancing drugs such as creatine phosphate.",
+          "category": "sts",
+          "parent": "20-D4"
+        },
+        {
+          "code": "20-D4.2s",
+          "description": "- Conduct investigations into relationships among observable variables and use a broad range of tools and techniques to gather and record data and information.\n- Identify smooth, cardiac, and striated muscle tissue under magnification (PR–NS2).\n- Design and construct a model of a muscle fibre (PR–ST2).",
+          "category": "skills",
+          "parent": "20-D4"
+        },
+        {
+          "code": "20-D4.2sts",
+          "description": "- Explain that the goal of technology is to provide solutions to practical problems (ST1) [ICT F2–4.4, F2–4.8].\n- Identify specific pathologies of the motor system (e.g., muscle atrophy, fatigue, strain, tendonitis) and the technologies used to treat these conditions.",
+          "category": "sts",
+          "parent": "20-D4"
+        },
+        {
+          "code": "20-D4.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Obtain and interpret data to demonstrate a direct correlation between energy use by muscle cells and heat production (AI–NS2).",
+          "category": "skills",
+          "parent": "20-D4"
+        },
+        {
+          "code": "20-D4.4s",
+          "description": "- Work collaboratively to solve problems and use scientific conventions to communicate information and assess results.\n- Use appropriate Système international (SI) units, including fundamental and derived units (CT–NS2).\n- Work cooperatively with team members to measure and record body temperature (CT–NS1).",
+          "category": "skills",
+          "parent": "20-D4"
+        }
+      ],
+      "topics": [
+        "Digestive system - nutrient processing",
+        "Respiratory system - gas exchange",
+        "Circulatory system - transport",
+        "Excretory system - waste removal",
+        "Immune system - defense mechanisms",
+        "Nervous system - coordination",
+        "Endocrine system - hormonal regulation",
+        "Homeostasis and metabolic equilibrium",
+        "System disorders and medical technology"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Hs Introduction Human Body",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-body-structure-and-homeostasis/v/hs-introduction-to-the-human-body",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-D1",
+            "20-D2",
+            "20-D3",
+            "20-D4"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "article",
+          "title": "Gas Exchange across Respiratory Surfaces",
+          "url": "https://openstax.org/books/biology-2e/pages/39-2-gas-exchange-across-respiratory-surfaces",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.5k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Homeostasis and Regulation",
+          "url": "https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/feedback/a/homeostasis",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2",
+            "20-D3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "17.2: Introduction to the Cardiovascular System",
+          "url": "https://bio.libretexts.org/Bookshelves/Human_Biology/Human_Biology_(Wakim_and_Grewal)/17:_Cardiovascular_System/17.2:_Introduction_to_the_Cardiovascular_System",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.1k",
+            "20-D2.2k",
+            "20-D2.3k"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "18.2: Introduction to the Digestive System",
+          "url": "https://bio.libretexts.org/Bookshelves/Human_Biology/Human_Biology_(Wakim_and_Grewal)/18:_Digestive_System/18.2:_Introduction_to_the_Digestive_System",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.1k",
+            "20-D1.2k",
+            "20-D1.4k"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Innate Immune Response",
+          "url": "https://openstax.org/books/biology-2e/pages/42-1-innate-immune-response",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.8k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Hormones and the Endocrine System",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/human-body-systems/a/hormones-and-the-endocrine-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Nervous System",
+          "url": "https://bio.libretexts.org/Bookshelves/Human_Biology/Human_Biology_(Wakim_and_Grewal)/11:_Nervous_System",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "20-D4"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photosynthesis",
+          "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Nervous system",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cell membrane and transport",
+          "url": "https://www.khanacademy.org/science/ap-biology/cell-structure-and-function/membrane-transport",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cellular respiration",
+          "url": "https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ecology and ecosystems",
+          "url": "https://www.khanacademy.org/science/biology/ecology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Endocrine system",
+          "url": "https://www.khanacademy.org/science/biology/principles-of-physiology/endocrine-system-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Gene expression and regulation",
+          "url": "https://www.khanacademy.org/science/biology/gene-regulation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Gene Expression",
+          "url": "https://phet.colorado.edu/en/simulations/gene-expression-essentials",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-D2.7k",
+            "20-D1.2s",
+            "20-D2.2sts",
+            "20-D4.4s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: DNA and RNA",
+          "url": "https://www.khanacademy.org/science/biology/dna-as-the-genetic-material",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.1sts",
+            "20-D4.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Biology library",
+          "url": "https://www.khanacademy.org/science/biology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.4s",
+            "20-D2.2sts",
+            "20-D4.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Respiration",
+          "url": "https://openstax.org/books/biology-2e/pages/7-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.4s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cells",
+          "url": "https://www.khanacademy.org/science/biology/structure-of-a-cell",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.2s",
+            "20-D4.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Natural selection and evolution",
+          "url": "https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Cell",
+          "url": "https://openstax.org/books/biology-2e/pages/3-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.2s",
+            "20-D2.2sts",
+            "20-D4.3s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Gene",
+          "url": "https://openstax.org/books/biology-2e/pages/15-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.3s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Pancreas and blood glucose",
+          "url": "https://www.khanacademy.org/science/biology/principles-of-physiology/endocrine-system-introduction/v/glucose-insulin-and-diabetes",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.6k",
+            "20-D2.9k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Biogeochemical cycles",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/biogeochemical-cycles/v/introduction-to-biogeochemical-cycles",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Water cycle",
+          "url": "https://www.khanacademy.org/science/biology/ecology/biogeochemical-cycles/v/water-cycle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Neurons and the nervous system",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-nervous-system/v/structure-of-the-nervous-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D4.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Nervous System",
+          "url": "https://www.youtube.com/watch?v=qPix_X-9t7E",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D4.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Energy Flow in Ecosystems",
+          "url": "https://www.youtube.com/watch?v=FHW2mOzZQCg",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D4.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: The Eye",
+          "url": "https://www.youtube.com/watch?v=WQPE87BNd9w",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D4.2k",
+            "20-D1.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Reproductive system introduction",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/v/reproductive-system-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D4.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Male reproductive system",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/v/male-reproductive-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D4.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Reproductive System",
+          "url": "https://www.youtube.com/watch?v=RFDatCchpus",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D4.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: The ear and hearing",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/the-ear",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.1s",
+            "20-D2.1sts",
+            "20-D2.3s",
+            "20-D2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Somatosensation",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/mechanoreceptors",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D2.1s",
+            "20-D2.3s",
+            "20-D2.4s",
+            "20-D3.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Adrenal glands and stress",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-endocrine-system/v/adrenal-glands",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Action potentials",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/v/action-potential",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Hormones and signaling",
+          "url": "https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/changes-in-signal-transduction-pathways/v/types-of-hormones",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D4.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: The Endocrine System",
+          "url": "https://www.youtube.com/watch?v=WVrlHH14q3o",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "The Excretory System",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/excretory-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "The Urinary System - How it Works",
+          "url": "https://www.youtube.com/watch?v=OqP8rt1LMvw",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.1k"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "The Excretory System",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/excretory-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "The Excretory System",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/excretory-system/a/the-excretory-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "The Kidneys and Nephron",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/excretory-system/v/the-kidneys-and-nephron",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "The Urinary System",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/homeostasis/nervous-system-urinary-system/a/the-urinary-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "The Kidneys and How They Work",
+          "url": "https://www.youtube.com/watch?v=8G6gVYFv7wo",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.3k"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "The Kidney and Nephron",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/excretory-system/a/the-kidney-and-nephron",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "The Urinary System",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/homeostasis/urinary-system/a/the-urinary-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "practice",
+          "title": "The Excretory System",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/excretory-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "online",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Calorimetry: CrashCourse Chemistry #19",
+          "url": "https://www.youtube.com/watch?v=0yqDiyng_7A",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.1s"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "The Mechanics of Breathing",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/human-body-systems/v/the-mechanics-of-breathing",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Human Biology: Homeostasis and Excretory System",
+          "url": "https://www.khanacademy.org/science/biology/human-biology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D3.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Muscular System, Part 1: Muscle Cells: CrashCourse A&P #21",
+          "url": "https://www.youtube.com/watch?v=2NCUZ3GMVsU",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D4.1s"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Types of Muscle Tissue",
+          "url": "https://www.youtube.com/watch?v=C6u0u_905GU",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "20-D4.2s"
+          ],
+          "source": "Bozeman Science",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Overview of the Muscular System",
+          "url": "https://www.khanacademy.org/science/biology/anatomy-and-physiology/human-anatomy-and-physiology/v/overview-of-the-muscular-system",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "20-D4.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3469 @@
+{
+  "subject": "Physics 30",
+  "grade": 12,
+  "albertaDocs": [
+    {
+      "title": "Physics 30 Information Bulletin 2025-2026",
+      "url": "https://www.alberta.ca/system/files/custom_downloaded_images/edc-physics-30-info-bulletin.pdf"
+    },
+    {
+      "title": "Physics 30 Data Booklet - Constants and Equations",
+      "url": "https://www.alberta.ca/system/files/custom_downloaded_images/edc-physics30-data-booklet.pdf"
+    },
+    {
+      "title": "Physics 20-30 Program of Studies 2007 (Updated 2014)",
+      "url": "https://education.alberta.ca/media/3069387/pos_phys_20_30.pdf"
+    }
+  ],
+  "units": [
+    {
+      "id": "oscillations-and-waves",
+      "title": "Oscillations and Waves",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "30-A1",
+          "description": "- Explain how momentum is conserved when objects interact in an isolated system.",
+          "type": "general"
+        },
+        {
+          "code": "30-A1.1k",
+          "description": "- Define momentum as a vector equal to an object's mass times its velocity.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into questions, ideas, problems, and issues.\n- Design experiments that identify and control major variables, e.g., to demonstrate conservation of linear momentum or illustrate the relationship between impulse and change in momentum (IP–NS2).",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.1sts",
+          "description": "- Explain that technological problems often have multiple solutions using different designs, materials, and processes, with intended and unintended consequences (ST3) [ICT F3–4.1].\n- Investigate how impulse and momentum influence the design and function of rockets and thrust systems.\n- Assess how conservation laws, impulse, inertia, and Newton’s laws inform the design and use of injury-prevention devices in vehicles and sports.\n- Describe the limitations of applying results from isolated-system studies to practical problems, as seen in early airbag design and deployment.",
+          "category": "sts",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.2k",
+          "description": "- Explain quantitatively impulse and change in momentum using Newton’s laws of motion.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Perform an experiment to demonstrate the conservation of linear momentum using available technologies (e.g., air track, air table, motion sensors, strobe lights, photography) (PR–NS2, PR–NS3) [ICT C6–4.4].\n- Collect information from various print and electronic sources to explain the use of momentum and impulse concepts (e.g., rocketry and thrust systems, or the interaction between a golf club head and the ball) (PR–ST1, PR–ST2) [ICT C1–4.1].",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.3k",
+          "description": "- Explain qualitatively that momentum is conserved in an isolated system.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Analyze graphs that illustrate the relationship between force and time during a collision (AI–NS2) [ICT C7–4.2].\n- Analyze, quantitatively, one- and two-dimensional interactions, using given data or by manipulating objects or computer simulations (AI–NS3) [ICT C6–4.2, C7–4.2].",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.4k",
+          "description": "- Explain quantitatively that momentum is conserved in one- and two-dimensional interactions in an isolated system.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.4s",
+          "description": "- Work collaboratively to address problems, and apply the skills and conventions of science to communicate information and ideas and to assess results.\n- Use appropriate Système international (SI) units (fundamental and derived) and significant digits (CT–NS2).\n- Use appropriate numeric, symbolic, graphical, and linguistic modes of representation to communicate ideas, plans, and results (CT–ST2).\n- Use delta notation correctly when describing changes in quantities (CT–NS2).",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.5k",
+          "description": "- Define, compare, and contrast elastic and inelastic collisions in terms of conservation of kinetic energy, using quantitative examples.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-D1",
+          "description": "- Describe the electrical nature of the atom.",
+          "type": "general"
+        },
+        {
+          "code": "30-D1.1k",
+          "description": "- Describe matter as containing discrete positive and negative charges",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Identify, define, and delimit questions to investigate (IP–NS1).\n- Evaluate and select appropriate procedures, instruments, and sampling procedures for collecting evidence and information (IP–NS4) [ICT C6–4.5, F1–4.2].",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.1sts",
+          "description": "- Explain how scientific knowledge leads to new technologies, and how technologies lead to or facilitate scientific discovery (ST4) [ICT F2–4.4].\n- Analyze how identifying the electron and its characteristics illustrates the interaction of science and technology.\n- Analyze the operation of cathode-ray tubes and mass spectrometers.",
+          "category": "sts",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.2k",
+          "description": "- Explain how the discovery of cathode rays contributed to the development of atomic models",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.2s",
+          "description": "- Investigate relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Perform an experiment or use simulations to determine the charge-to-mass ratio of the electron (PR–NS2, PR–NS3) [ICT C6–4.4, F1–4.2].",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.3k",
+          "description": "- Explain J. J. Thomson’s experiment and its significance for science and technology.",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Determine the mass of an electron and/or ion from appropriate empirical data (AI–NS3).\n- Derive a formula for the charge-to-mass ratio with input variables measurable in experiments using electric and magnetic fields (AI–NS6).",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.4k",
+          "description": "- Explain, qualitatively, the significance of the results of Rutherford’s scattering experiment, in terms of scientists’ understanding of the relative size and mass of the nucleus and the atom.\n- Specific Outcomes for Science, Technology and Society (STS) (Nature of Science Emphasis)\n- Students will",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.4s",
+          "description": "- Work collaboratively to address problems, applying scientific skills and conventions to communicate information and ideas and to assess results.\n- Select and use appropriate numeric, symbolic, graphical, and linguistic modes of representation to communicate findings and conclusions (CT–NS2).",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D2",
+          "description": "- Describe the quantization of energy in atoms and nuclei.",
+          "type": "general"
+        },
+        {
+          "code": "30-D2.1k",
+          "description": "- Explain qualitatively how EMR emitted by an accelerating charged particle invalidates the classical model of the atom.",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into questions, ideas, problems, and issues.\n- Predict the conditions necessary to produce line-emission and line-absorption spectra (IP–NS3).\n- Predict possible energy transitions in the hydrogen atom using a labelled energy-level diagram (IP–NS3).",
+          "category": "skills",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.1sts",
+          "description": "- Explain that scientific knowledge and theories develop through hypotheses, evidence collection, investigation, and the ability to provide explanations (NS2).\n- Investigate and report on the use of line spectra to study the universe and identify substances.\n- Investigate how empirical evidence guided the evolution of the atomic model.",
+          "category": "sts",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.2k",
+          "description": "- Explain that each element has a unique line spectrum.",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Observe line-emission and line-absorption spectra, including representative line spectra of selected elements (PR–NS2).\n- Use library and electronic research tools to qualitatively compare and contrast the classical and quantum models of the atom (PR–NS1) [ICT C1–4.1, C7–4.2].",
+          "category": "skills",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.2sts",
+          "description": "- Explain how scientific knowledge can lead to new technologies, and how new technologies can lead to or facilitate scientific discovery (ST4) [ICT F2–4.4].\n- Investigate and report on applications of spectral or quantum concepts in the design and function of practical devices (e.g., street lights, advertising signs, electron microscopes, lasers).",
+          "category": "sts",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.3k",
+          "description": "- Explain qualitatively the characteristics of, and the conditions necessary to produce, continuous, line-emission, and line-absorption spectra.",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Identify elements in sample line spectra by comparing them to representative line spectra of elements (AI–NS6) [ICT C7–4.2].",
+          "category": "skills",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.4k",
+          "description": "- Explain qualitatively the concept of stationary states and how they account for the observed spectra of atoms and molecules.",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.4s",
+          "description": "- Work collaboratively to address problems\n- Apply the skills and conventions of science to communicate information and ideas and to assess results\n- Select and use appropriate numeric, symbolic, graphical, and linguistic representations to communicate findings and conclusions (CT–NS2)",
+          "category": "skills",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.5k",
+          "description": "- Calculate the energy difference between states using conservation of energy and the observed characteristics of an emitted photon.",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.6k",
+          "description": "- Explain qualitatively how electron diffraction provides experimental support for the de Broglie hypothesis.",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.7k",
+          "description": "- Describe qualitatively how the two-slit electron interference experiment shows that quantum systems, like photons and electrons, may be modelled as particles or waves, contrary to intuition.",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D3",
+          "description": "- Describe nuclear fission and fusion as powerful energy sources in nature.",
+          "type": "general"
+        },
+        {
+          "code": "30-D3.1k",
+          "description": "- Describe the nature, properties, and biological effects of alpha, beta, and gamma radiation.",
+          "category": "knowledge",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of related questions, ideas, problems, and issues.\n- Predict the penetrating characteristics of decay products (IP–NS3).",
+          "category": "skills",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.1sts",
+          "description": "- Explain that the goal of science is knowledge about the natural world (NS1)\n- Investigate the role of nuclear reactions in the evolution of the universe (nucleosynthesis, stellar expansion and contraction)\n- Investigate particle annihilation and pair production",
+          "category": "sts",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.2k",
+          "description": "- Write nuclear equations in isotope notation for alpha, beta-negative, and beta-positive decays, including the appropriate neutrino or antineutrino.",
+          "category": "knowledge",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.2s",
+          "description": "- Investigate relationships among observable variables, using a variety of tools and techniques to gather and record data and information.\n- Research and report on scientists who contributed to understanding the structure of the nucleus (PR–NS1).",
+          "category": "skills",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.2sts",
+          "description": "- Explain that technological products are devices, systems, and processes that meet needs, and that their appropriateness, risks, and benefits must be assessed for each application from multiple perspectives, including sustainability (ST6, ST7) [ICT F2–4.2, F3–4.1].\n- Assess the risks and benefits of air travel (exposure to cosmic radiation), dental X-rays, radioisotopes used as tracers, food irradiation, use of fission or fusion as a commercial power source, and nuclear and particle research.\n- Assess the potential of fission or fusion as a commercial power source to meet rising energy demand, considering present and future generations.",
+          "category": "sts",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.3k",
+          "description": "- Perform simple half-life calculations without logarithms.",
+          "category": "knowledge",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Graph radioactive decay data to estimate half-life and infer the exponential relationship between measured radioactivity and elapsed time (AI–NS2) [ICT C6–4.3].\n- Interpret common nuclear decay chains (AI–NS6).\n- Compare the energy released in a nuclear reaction with that in a chemical reaction, using energy per unit mass of reactants (AI–NS3).",
+          "category": "skills",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.4k",
+          "description": "- Use conservation of charge and mass number to predict the particles emitted by a nucleus.",
+          "category": "knowledge",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.4s",
+          "description": "- Work collaboratively to address problems, applying the skills and conventions of science to communicate information and ideas and to assess results.\n- Select and use appropriate numeric, symbolic, graphical and linguistic modes of representation to communicate findings and conclusions (CT–NS2).",
+          "category": "skills",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.5k",
+          "description": "- Compare and contrast the characteristics of fission and fusion reactions",
+          "category": "knowledge",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.6k",
+          "description": "- Relate, qualitatively and quantitatively, the nuclear mass defect to the energy released in nuclear reactions using Einstein’s concept of mass-energy equivalence.",
+          "category": "knowledge",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D4",
+          "description": "- Describe the ongoing development of models of the structure of matter.",
+          "type": "general"
+        },
+        {
+          "code": "30-D4.1k",
+          "description": "- Explain how analyzing particle tracks enabled the discovery and identification of subatomic particle characteristics.",
+          "category": "knowledge",
+          "parent": "30-D4"
+        },
+        {
+          "code": "30-D4.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Predict the characteristics of elementary particles from images of their tracks in a bubble chamber within an external magnetic field (IP–NS3).",
+          "category": "skills",
+          "parent": "30-D4"
+        },
+        {
+          "code": "30-D4.1sts",
+          "description": "- Explain that concepts, models, and theories are used to interpret observations and predict future observations (NS6a).\n- Research and report on the development of models of matter.",
+          "category": "sts",
+          "parent": "30-D4"
+        },
+        {
+          "code": "30-D4.2k",
+          "description": "- Explain qualitatively, in terms of the strong nuclear force, why high-energy particle accelerators are required to study subatomic particles.",
+          "category": "knowledge",
+          "parent": "30-D4"
+        },
+        {
+          "code": "30-D4.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data.\n- Research, using library and electronic resources, the relationships among fundamental particles and the interactions they undergo (PR–NS1) [ICT C1–4.1].",
+          "category": "skills",
+          "parent": "30-D4"
+        },
+        {
+          "code": "30-D4.2sts",
+          "description": "- Explain that scientific knowledge can change as new evidence emerges and as laws and theories are tested and revised, reinforced, or rejected (NS4).\n- Explain how apparent conservation law violations prompted revisions to the atomic model, including the predicted existence of the neutrino (NS4).",
+          "category": "sts",
+          "parent": "30-D4"
+        },
+        {
+          "code": "30-D4.3k",
+          "description": "- Describe the modern model of protons and neutrons as composed of quarks.",
+          "category": "knowledge",
+          "parent": "30-D4"
+        },
+        {
+          "code": "30-D4.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Analyze particle tracks qualitatively for subatomic particles other than protons, electrons, and neutrons (AI–NS2) [ICT C7–4.2].\n- Write β+ and β− decay equations, identifying the elementary fermions involved (PR–NS4).\n- Use hand rules to determine the nature of a particle’s charge (AI–NS6).\n- Use accepted scientific conventions to express mass in MeV/c2, when appropriate (AI–NS1).",
+          "category": "skills",
+          "parent": "30-D4"
+        },
+        {
+          "code": "30-D4.3sts",
+          "description": "- Explain that scientific knowledge may lead to new technologies, and that new technologies may lead to or facilitate scientific discovery (ST4) [ICT F2–4.4].\n- Investigate how high-energy particle accelerators contributed to the development of the Standard Model of matter.",
+          "category": "sts",
+          "parent": "30-D4"
+        },
+        {
+          "code": "30-D4.4k",
+          "description": "- Compare and contrast the up quark, down quark, electron, and electron neutrino, and their antiparticles, in terms of charge and energy (mass-energy).",
+          "category": "knowledge",
+          "parent": "30-D4"
+        },
+        {
+          "code": "30-D4.4s",
+          "description": "- Work collaboratively to address problems, applying the skills and conventions of science to communicate information and ideas and assess results.\n- Select and use appropriate numeric, symbolic, graphical, and linguistic modes of representation to communicate findings and conclusions (CT–NS2).",
+          "category": "skills",
+          "parent": "30-D4"
+        },
+        {
+          "code": "30-D4.5k",
+          "description": "- Describe beta-positive (β+) and beta-negative (β−) decay using first-generation elementary fermions and the principle of charge conservation (Feynman diagrams not required).",
+          "category": "knowledge",
+          "parent": "30-D4"
+        }
+      ],
+      "topics": [
+        "Simple harmonic motion (SHM)",
+        "Period, frequency, and amplitude",
+        "Mass-spring systems and Hooke's Law",
+        "Simple pendulum motion",
+        "Energy in oscillating systems",
+        "Damped and driven oscillations",
+        "Resonance and natural frequency",
+        "Wave properties: wavelength, frequency, speed",
+        "Wave superposition and interference",
+        "Standing waves and harmonics"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Intuition About Simple Harmonic Oscillators",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-1/xf557a762645cccc5:oscillations/xf557a762645cccc5:simple-harmonic-oscillators/v/intuition-about-simple-harmonic-oscillators",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "ZcZQsj6YAgU",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/ZcZQsj6YAgU?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Atomic structure and spectra",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/quantum-numbers-and-orbitals",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.2k",
+            "30-D2.1s",
+            "30-D2.1sts",
+            "30-D2.2s",
+            "30-D2.3k",
+            "30-D2.4k",
+            "30-D4.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Atomic Models",
+          "url": "https://www.youtube.com/watch?v=HsKK9zPdXAY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.2k",
+            "30-D2.1k",
+            "30-D2.1sts",
+            "30-D2.2s",
+            "30-D2.3s",
+            "30-D3.3s",
+            "30-D4",
+            "30-D4.1sts",
+            "30-D4.2sts",
+            "30-D4.3k",
+            "30-D4.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Electric Fields",
+          "url": "https://www.youtube.com/watch?v=kVb8yEo-UuI",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.3s",
+            "30-D2.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Momentum and Collisions",
+          "url": "https://www.youtube.com/watch?v=9A6MwwnR1Mg",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.5k",
+            "30-A1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cathode rays and electrons",
+          "url": "https://www.khanacademy.org/science/chemistry/electronic-structure-of-atoms/history-of-atomic-structure/v/discovery-of-the-electron-and-nucleus",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.1sts",
+            "30-D1.3k",
+            "30-D2.6k",
+            "30-D4.2s",
+            "30-D4.3s",
+            "30-D4.4k",
+            "30-D4.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Conservation of energy",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-work-and-energy/conservation-of-energy-ap/v/conservation-of-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.5k",
+            "30-D3",
+            "30-D3.2sts",
+            "30-D3.4k",
+            "30-D3.6k",
+            "30-D4.5k",
+            "30-D4.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Conservation of momentum",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-linear-momentum/conservation-of-momentum-ap/v/deriving-the-conservation-of-momentum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.3k",
+            "30-A1.4k",
+            "30-D3.4k",
+            "30-D4.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Electric Fields",
+          "url": "https://www.youtube.com/watch?v=mdulzEfQXDE",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.3s",
+            "30-D2.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Momentum and Impulse",
+          "url": "https://www.youtube.com/watch?v=sI1C9DyIi_8",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Motion in a Straight Line",
+          "url": "https://www.youtube.com/watch?v=ZM8ECpBuQYE",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Elastic and inelastic collisions",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-linear-momentum/collisions-ap/v/elastic-and-inelastic-collisions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric charge and fields",
+          "url": "https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D3.4k",
+            "30-D4.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric force and Coulomb's law",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-electric-charge-electric-force-and-voltage/coulombs-law-and-electric-force-ap/v/coulombs-law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.2s",
+            "30-D2.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric potential and voltage",
+          "url": "https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-potential-voltage",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.5k",
+            "30-D4.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Forces and Newton's laws",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Impulse and momentum",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-linear-momentum/introduction-to-linear-momentum-and-impulse-ap/v/introduction-to-momentum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.2s",
+            "30-D4.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Light and optics",
+          "url": "https://www.khanacademy.org/science/physics/geometric-optics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Magnetic forces and fields",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Momentum",
+          "url": "https://www.khanacademy.org/science/physics/linear-momentum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-D4.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Newton's laws of motion",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D4.2k",
+            "30-D4.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: One-dimensional motion",
+          "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photoelectric effect",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-quantum-physics/photoelectric-effect-ap/v/introduction-to-the-photoelectric-effect",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.4s",
+            "30-D1.4s",
+            "30-D2.4s",
+            "30-D3.1k",
+            "30-D3.4s",
+            "30-D4.2s",
+            "30-D4.4k",
+            "30-D4.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Professor Dave: Atomic Structure",
+          "url": "https://www.youtube.com/watch?v=W2Xb2GFK2yc",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.1sts",
+            "30-D2.6k",
+            "30-D3.2s",
+            "30-D4",
+            "30-D4.3k",
+            "30-D4.4k",
+            "30-D4.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Professor Dave: Momentum and Impulse",
+          "url": "https://www.youtube.com/watch?v=fb6LWLAwFHk",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Quantum physics introduction",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.1s",
+            "30-D3.1s",
+            "30-D4.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Rutherford's gold foil experiment",
+          "url": "https://www.khanacademy.org/science/chemistry/electronic-structure-of-atoms/history-of-atomic-structure/v/rutherford-s-gold-foil-experiment",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.4k",
+            "30-D3.2s",
+            "30-D2.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Waves and sound",
+          "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Work and energy",
+          "url": "https://www.khanacademy.org/science/physics/work-and-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.1s",
+            "30-D1.4s",
+            "30-D2.4s",
+            "30-D3.3s",
+            "30-D3.4s",
+            "30-D4.4s",
+            "30-D4.3sts",
+            "30-D4.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Spring-Mass Systems and Energy",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/simple-harmonic-motion-ap/spring-mass-systems-ap/v/potential-energy-in-a-spring",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "video",
+          "title": "Alpha, Beta and Gamma Decay",
+          "url": "https://www.youtube.com/watch?v=7td1qoSB9IA",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.2k"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Beta Decay",
+          "url": "https://www.youtube.com/watch?v=fqtCnSx7CPg",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.2k"
+          ],
+          "source": "Professor Dave Explains",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Fusion vs. Fission - What's the Difference?",
+          "url": "https://www.youtube.com/watch?v=TRZ4Jw5MV0A",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.5k"
+          ],
+          "source": "TED-Ed",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Half-Life and Radioactive Decay",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/quantum-mechanics/half-life-and-radioactive-decay/v/half-life-and-radioactive-decay",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "online",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Half-Life Problem Solving",
+          "url": "https://www.khanacademy.org/science/physics/nuclear-physics/half-life/half-life-2/v/half-life-example",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Ch. 16 Introduction to Oscillatory Motion and Waves",
+          "url": "https://openstax.org/books/college-physics-2e/pages/16-introduction-to-oscillatory-motion-and-waves",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Physics library",
+          "url": "https://www.khanacademy.org/science/physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.2k",
+            "30-D2.1s",
+            "30-D3",
+            "30-D3.2sts",
+            "30-D3.6k",
+            "30-D4.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Electricity and Magnetism",
+          "url": "https://www.khanacademy.org/science/physics/electricity-and-magnetism",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Quantum Physics: Energy Levels in Atoms",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/quantum-number-and-orbital-wavef/v/nuclear-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2",
+            "30-D2.1s",
+            "30-D3",
+            "30-D3.2sts",
+            "30-D3.3s",
+            "30-D3.6k",
+            "30-D4.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Light and the electromagnetic spectrum",
+          "url": "https://www.khanacademy.org/science/physics/light-waves",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Magnetic Forces, Magnetic Fields, and Faraday's Law",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D4.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Linear Momentum and Collisions",
+          "url": "https://www.khanacademy.org/science/physics/linear-momentum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Double Slit Experiment",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/quantum-tunneling/v/double-slit-experiment",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Simple harmonic motion (overview)",
+          "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound/mechanical-waves/a/simple-harmonic-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Radioactive Decay and Exponential Laws",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/in-in-nuclei/v/radioactive-decay-and-exponential-laws",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "libretexts",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Nuclear decay",
+          "url": "https://www.khanacademy.org/science/physics/nuclear-physics/radioactive-decay/a/nuclear-decay",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Introduction to Nuclear Decay",
+          "url": "https://www.khanacademy.org/science/physics/nuclear-physics/nuclear-decay/v/introduction-to-nuclear-decay",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "libretexts",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Nuclear Fission and Fusion",
+          "url": "https://www.khanacademy.org/science/physics/nuclear-phenomena/fission-and-fusion/a/nuclear-fission-and-fusion",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Nuclear Fission and Fusion",
+          "url": "https://www.khanacademy.org/science/physics/",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Finding Frequency Period From Shm Graph Ap",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-1/xf557a762645cccc5:oscillations/xf557a762645cccc5:simple-harmonic-oscillators/e/finding-frequency-and-period-from-shm-graph-ap1",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Pendulum Motion and Period Calculations",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/simple-harmonic-motion-ap/simple-pendulums-ap/e/period-of-a-simple-pendulum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Charges and Fields",
+          "url": "https://phet.colorado.edu/en/simulations/charges-and-fields",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D1.1k",
+            "30-D4.3s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Circuit Construction Kit",
+          "url": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D1"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Energy Skate Park",
+          "url": "https://phet.colorado.edu/en/simulations/energy-skate-park",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A1.1s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Forces and Motion: Basics",
+          "url": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A1.1sts"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Wave on a String",
+          "url": "https://phet.colorado.edu/en/simulations/wave-on-a-string",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D2.7k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "Alpha Decay Simulation",
+          "url": "https://phet.colorado.edu/en/simulation/alpha-decay",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.2k"
+          ],
+          "source": "PhET Interactive Simulations",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "Nuclear Fission",
+          "url": "https://phet.colorado.edu/en/simulation/nuclear-fission",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.5k"
+          ],
+          "source": "PhET Interactive Simulations",
+          "provider": "online",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "Radioactive Dating Game",
+          "url": "https://phet.colorado.edu/en/simulation/legacy/radioactive-dating-game",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.3k"
+          ],
+          "source": "PhET Interactive Simulations",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "Understanding Half-Life Through Interactive Simulation",
+          "url": "https://www.khanacademy.org/science/physics/nuclear-physics/decay-game",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Nuclear Fission",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/nuclear-physics/fission-and-fusion/v/nuclear-fission",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D3.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "hyperphysics",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Oscillations - LibreTexts Complete Guide",
+          "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book:_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax)/15:_Oscillations",
+          "difficulty": "advanced",
+          "alignedOutcomes": [],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "CrashCourse Astronomy: Nucleosynthesis",
+          "url": "https://www.youtube.com/watch?v=5qFiMB78j1o",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D3.1sts"
+          ],
+          "source": "CrashCourse (YouTube)",
+          "provider": "youtube",
+          "embeddable": true
+        }
+      ]
+    },
+    {
+      "id": "wave-properties",
+      "title": "Wave Properties and Sound",
+      "estimatedHours": 5,
+      "outcomes": [
+        {
+          "code": "30-C1",
+          "description": "- Explain the nature and behaviour of EMR using the wave model.",
+          "type": "general"
+        },
+        {
+          "code": "30-C1.1k",
+          "description": "- Describe qualitatively how all accelerating charges produce EMR.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.2k",
+          "description": "- Compare and contrast the regions of the electromagnetic spectrum by frequency and wavelength.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.8k",
+          "description": "- Describe qualitatively diffraction, interference, and polarization.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.9k",
+          "description": "- Describe qualitatively how the results of Young’s double-slit experiment support the wave model of light.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.10k",
+          "description": "- Solve double-slit and diffraction grating problems using d sin θ = nλ and nλ = (x d)/L.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Predict the conditions required for diffraction to be observed (IP–NS3).\n- Predict the conditions required for total internal reflection to occur (IP–NS3).\n- Design an experiment to measure the speed of light (IP–NS2).",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.1sts",
+          "description": "- Explain that scientific knowledge can change as new evidence emerges and as laws and theories are tested and revised, reinforced, or rejected (NS4).\n- Use examples—such as Poisson’s spot, speed of light in water, sunglasses, photography, and liquid crystal diodes—to illustrate how theories evolve.",
+          "category": "sts",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.2s",
+          "description": "- Conduct investigations into relationships among observable variables and use a broad range of tools and techniques to gather and record data and information\n- Perform experiments to demonstrate refraction at plane and uniformly curved surfaces (PR–NS2)\n- Perform an experiment to determine the index of refraction of several different substances (PR–NS2, PR–NS3, PR–NS4)\n- Conduct an investigation to determine the focal length of a thin lens and of a curved mirror (PR–NS2, PR–NS3, PR–NS4)\n- Observe the visible spectra formed by diffraction gratings and triangular prisms (PR–NS2)",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.2sts",
+          "description": "- Explain that scientific knowledge may lead to the development of new technologies, and new technologies may lead to or facilitate scientific discovery (ST4) [ICT F2–4.4]\n- Describe procedures for measuring the speed of EMR\n- Investigate the design of greenhouses, cameras, telescopes, solar collectors, and fibre optics\n- Investigate the effects of frequency and wavelength on the growth of plants\n- Investigate the use of interferometry techniques in the search for extrasolar planets",
+          "category": "sts",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Derive the mathematical representation of the law of refraction from experimental data (AI–NS2) [ICT C7–4.2].\n- Use ray diagrams to describe an image formed by thin lenses and curved mirrors (AI–NS1).\n- Demonstrate the relationship among wavelength, slit separation, and screen distance using empirical data and algorithms (AI–NS6).\n- Determine the wavelength of EMR using data from demonstrations and other sources (e.g., microwave interference patterns from television signals or microwave ovens) (AI–NS3, AI–NS4).",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.4s",
+          "description": "- Work collaboratively to address problems and apply the skills and conventions of science to communicate information and ideas and to assess results.\n- Select and use appropriate numeric, symbolic, graphical, and linguistic representations to communicate findings and conclusions (e.g., draw ray diagrams) (CT–NS2).",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Predict the effect on photoelectric emissions of changing the intensity and/or frequency of the incident radiation or the material of the photocathode (IP–NS3).\n- Design an experiment to measure Planck’s constant using either a photovoltaic cell or a light-emitting diode (LED) (IP–NS2, IP–NS4).",
+          "category": "skills",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.1sts",
+          "description": "- Explain that scientific knowledge and theories develop through hypotheses, evidence collection, investigation, and explanation (NS2).\n- Describe how Hertz discovered the photoelectric effect while investigating electromagnetic waves.\n- Describe how Planck used energy quantization to explain blackbody radiation.",
+          "category": "sts",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Perform an experiment to demonstrate the photoelectric effect (PR–NS3) [ICT C6–4.4].\n- Measure Planck’s constant using either a photovoltaic cell or an LED (PR–NS2, PR–NS3).",
+          "category": "skills",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.2sts",
+          "description": "- Explain that concepts, models, and theories are often used to interpret and explain observations and to predict future observations (NS6a).\n- Investigate and report on the development of early quantum theory.\n- Identify similarities between physicists’ efforts to unify theories and holistic Aboriginal worldviews.",
+          "category": "sts",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions\n- Analyze and interpret empirical data from a photoelectric effect experiment using a hand-drawn or computer-generated graph (AI–NS2, AI–NS4) [ICT C6–4.2, C6–4.3]",
+          "category": "skills",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.3sts",
+          "description": "- Explain that the goal of technology is to provide solutions to practical problems (ST1) [ICT F2–4.4].\n- Analyze, in general terms, how technological applications of photons function to solve practical problems.",
+          "category": "sts",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.4s",
+          "description": "- Work collaboratively to address problems, applying scientific skills and conventions to communicate information and assess results.\n- Select and use appropriate numeric, symbolic, graphical, and linguistic representations to communicate findings and conclusions (CT–NS2).",
+          "category": "skills",
+          "parent": "30-C2"
+        }
+      ],
+      "topics": [
+        "Transverse and longitudinal waves",
+        "Wave equation (v = fλ)",
+        "Wave interference and diffraction",
+        "Sound waves and acoustics",
+        "Speed of sound in different media",
+        "Doppler effect",
+        "Beats and sound intensity",
+        "Resonance in sound tubes",
+        "Musical instruments and harmonics"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Doppler Effect Formula When Source Is Moving Towards",
+          "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound/doppler-effect/v/doppler-effect-formula-when-source-is-moving-towards-observer",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Atomic Models",
+          "url": "https://www.youtube.com/watch?v=HsKK9zPdXAY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.2sts",
+            "30-C2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric charge and fields",
+          "url": "https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.1k",
+            "30-C2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electromagnetic induction",
+          "url": "https://www.khanacademy.org/science/physics/electromagnetic-induction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Forces and Newton's laws",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Light and optics",
+          "url": "https://www.khanacademy.org/science/physics/geometric-optics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.9k",
+            "30-C1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Magnetic forces and fields",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photoelectric effect",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-quantum-physics/photoelectric-effect-ap/v/introduction-to-the-photoelectric-effect",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.1s",
+            "30-C2.3s",
+            "30-C2.3sts",
+            "30-C2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Quantum physics introduction",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.1s",
+            "30-C2.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Reflection and refraction",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-geometric-optics/reflection-refraction-ap/v/specular-and-diffuse-reflection",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Wave properties",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-mechanical-waves-and-sound/wave-characteristics-ap/v/introduction-to-waves",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.2sts",
+            "30-C1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Waves and sound",
+          "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.2k",
+            "30-C1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Work and energy",
+          "url": "https://www.khanacademy.org/science/physics/work-and-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.4s",
+            "30-C2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Double Slit Experiment Explained",
+          "url": "https://www.youtube.com/watch?v=1fA9M6jd8fE",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.10k"
+          ],
+          "source": "YouTube - Professor Dave Explains",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Double-slit experiment",
+          "url": "https://www.khanacademy.org/science/physics/waves/double-slit-experiment",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.10k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Interference and Diffraction of Light",
+          "url": "https://www.youtube.com/watch?v=2HxKb8iK3jk",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.8k"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Introduction to Diffraction",
+          "url": "https://www.khanacademy.org/science/physics/waves/interference-and-diffraction/intro-to-diffraction/a/introduction-to-diffraction",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.8k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Speed of Sound, Frequency, and Wavelength",
+          "url": "https://openstax.org/books/college-physics-2e/pages/17-2-speed-of-sound-frequency-and-wavelength",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C1"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "What are waves?",
+          "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound/mechanical-waves/a/what-are-waves",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Interference of sound waves",
+          "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound/sound-topic/a/interference-of-sound-waves",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Physics library",
+          "url": "https://www.khanacademy.org/science/physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Electricity and Magnetism",
+          "url": "https://www.khanacademy.org/science/physics/electricity-and-magnetism",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Light and the electromagnetic spectrum",
+          "url": "https://www.khanacademy.org/science/physics/light-waves",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Double Slit Experiment",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/quantum-tunneling/v/double-slit-experiment",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Interference and Diffraction",
+          "url": "https://www.khanacademy.org/science/physics/waves/interference-and-diffraction",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.8k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Quantum Physics I Lecture Notes (Including Double-slit and Gratings)",
+          "url": "https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-notes/MIT8_04S13_Lec15.pdf",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.10k"
+          ],
+          "source": "MIT OpenCourseWare",
+          "provider": "mit-ocw",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Double-Slit Diffraction",
+          "url": "https://openstax.org/books/university-physics-volume-3/pages/4-3-double-slit-diffraction",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.10k"
+          ],
+          "source": "OpenStax",
+          "provider": "libretexts",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Calculating Frequency Change From Doppler Effect",
+          "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound/doppler-effect/e/calculating-frequency-change-from-doppler-effect",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Wave Properties: Speed, Amplitude, Frequency, and Period",
+          "url": "https://openstax.org/books/physics/pages/13-2-wave-properties-speed-amplitude-frequency-and-period",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Charges and Fields",
+          "url": "https://phet.colorado.edu/en/simulations/charges-and-fields",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C1.1k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Circuit Construction Kit",
+          "url": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C2.2s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Wave on a String",
+          "url": "https://phet.colorado.edu/en/simulations/wave-on-a-string",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C1.2k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "Wave Interference",
+          "url": "https://phet.colorado.edu/en/simulations/wave-interference",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.8k"
+          ],
+          "source": "PhET Interactive Simulations",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "Wave Interference",
+          "url": "https://phet.colorado.edu/en/simulation/legacy/wave-interference",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.10k"
+          ],
+          "source": "PhET Interactive Simulations",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "reference",
+          "title": "Introduction to Interference and Diffraction",
+          "url": "https://www.khanacademy.org/science/physics/light-waves/interference-and-diffraction/interference-and-diffraction-intro/v/interference-of-light-waves",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.8k"
+          ],
+          "source": "Khan Academy",
+          "provider": "hyperphysics",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "electric-fields",
+      "title": "Electric Fields and Forces",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "30-B1",
+          "description": "- Explain the behaviour of electric charges using the laws that govern electrical interactions.",
+          "type": "general"
+        },
+        {
+          "code": "30-B2",
+          "description": "- Describe electrical phenomena using the electric field theory model.",
+          "type": "general"
+        },
+        {
+          "code": "30-B1.1k",
+          "description": "- Explain electrical interactions using the law of conservation of charge.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.2k",
+          "description": "- Explain electrical interactions in terms of the repulsion and attraction of charges",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.3k",
+          "description": "- Compare conduction and induction as methods of transferring charge.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.4k",
+          "description": "- Explain qualitatively the distribution of charge on the surfaces of conductors and insulators.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.5k",
+          "description": "- Explain qualitatively the principles of Coulomb’s torsion balance experiment.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.6k",
+          "description": "- Apply Coulomb’s law to quantitatively analyze the interaction between two point charges.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.7k",
+          "description": "- Determine quantitatively the magnitude and direction of the electric force on a point charge due to two or more other point charges in a plane.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.8k",
+          "description": "- Compare, qualitatively and quantitatively, the inverse-square relationship in Coulomb’s law and Newton’s universal law of gravitation.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B2.1k",
+          "description": "- Define vector fields.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.2k",
+          "description": "- Compare forces and fields.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.3k",
+          "description": "- Compare gravitational potential energy and electric potential energy qualitatively.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.4k",
+          "description": "- Define electric potential difference as the change in electric potential energy per unit charge.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.5k",
+          "description": "- Calculate the electric potential difference between two points in a uniform electric field",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.6k",
+          "description": "- Explain quantitatively the intensity (strength) and direction of electric fields relative to the source of the field and their effect on an electric charge.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.7k",
+          "description": "- Define electric current as the amount of charge passing a point per unit time.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.8k",
+          "description": "- Describe quantitatively the motion of an electric charge in a uniform electric field.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.9k",
+          "description": "- Explain electrical interactions quantitatively using the law of conservation of energy.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.10k",
+          "description": "- Explain Millikan’s oil-drop experiment and its significance relative to charge quantization.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Design an experiment to examine the relationships among magnitude of charge, electric force, and distance between point charges (IP–NS2).\n- Predict the results of an activity that demonstrates charge separation and transfer (IP–NS3) [ICT C6–4.1].",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.1sts",
+          "description": "- Explain that concepts, models, and theories are used to interpret and explain observations and to predict future observations (NS6a).\n- Explain that the electric model of matter underpins the interpretation of electrical phenomena.\n- Explain that charge separation and transfer between objects are fundamental electrical processes.",
+          "category": "sts",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Perform an activity to demonstrate methods of charge separation and transfer (PR–NS3).\n- Perform an experiment to demonstrate the relationships among magnitude of charge, electric force, and distance between point charges (PR–NS2, PR–NS3) [ICT C6–4.4].",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.2sts",
+          "description": "- Explain that scientific knowledge may lead to new technologies, and new technologies may lead to or facilitate scientific discovery (ST4) [ICT F2–4.4].\n- Compare and contrast the experimental designs of Coulomb and Cavendish, focusing on the role of technology in advancing science.",
+          "category": "sts",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and evaluate solutions.\n- Infer, from empirical evidence, the mathematical relationship among charge, force, and distance between point charges (AI–NS2) [ICT C7–4.2].\n- Use free-body diagrams to describe the electrostatic forces acting on a charge (AI–NS1).\n- Use graphical techniques to analyze data, e.g., curve straightening (manipulating variables to obtain a straight-line graph) (AI–NS2) [ICT C6–4.3, C7–4.2].",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.4s",
+          "description": "- Work collaboratively to address problems and apply scientific skills and conventions to communicate information and ideas and assess results.\n- Select and use appropriate numeric, symbolic, graphical, and linguistic representations to communicate findings and conclusions (CT–NS2).",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into questions, ideas, problems, and issues.\n- Evaluate and select appropriate procedures and instruments to collect data and information and to determine and plot electric fields (IP–ST3) [ICT C6–4.5].",
+          "category": "skills",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.1sts",
+          "description": "- Explain that the goal of technology is to provide solutions to practical problems (ST1) [ICT F2–4.4].\n- Assess how the principles of electrostatics are used in industry and technology to solve problems and improve quality of life (e.g., photocopiers, electrostatic air cleaners, precipitators, antistatic clothing products, lightning rods).",
+          "category": "sts",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.2s",
+          "description": "- Investigate relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Plot electric fields with field lines for discrete point charges, combinations of discrete point charges (similarly and oppositely charged), and charged parallel plates (PR–NS2).",
+          "category": "skills",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.2sts",
+          "description": "- Explain how scientific knowledge can lead to new technologies, and how new technologies can lead to or facilitate scientific discovery (ST4) [ICT F2–4.4]\n- Explain qualitatively how sensitive computer components are protected from electric fields",
+          "category": "sts",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Analyze quantitatively the motion of an electric charge along straight or curved paths in a uniform electric field using Newton’s second law, vector addition, and conservation of energy (AI–NS3).\n- Use accepted scientific convention and express energy in electron volts when appropriate (AI–NS1).\n- Use free-body diagrams to describe the forces acting on a charge in an electric field (AI–NS1).",
+          "category": "skills",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.4s",
+          "description": "- Work collaboratively to address problems and apply the skills and conventions of science to communicate information and ideas and to assess results\n- Select and use appropriate numeric, symbolic, graphical, and linguistic modes of representation to communicate findings and conclusions (CT–ST2)",
+          "category": "skills",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B3.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of related questions, ideas, problems, and issues.\n- Design an experiment to demonstrate the effect of a uniform magnetic field on a current-carrying conductor (IP–NS2).\n- Design an experiment to demonstrate the effect of a uniform magnetic field on a moving conductor (IP–NS2).\n- Design an experiment to demonstrate the effect of a uniform magnetic field on a moving electric charge (IP–NS2).",
+          "category": "skills",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.1sts",
+          "description": "- Explain that concepts, models, and theories are often used to interpret and explain observations and to predict future observations (NS6a).\n- Discuss Lenz’s law qualitatively in terms of conservation of energy, giving examples of situations in which it applies.\n- Investigate the mechanism that causes atmospheric auroras.",
+          "category": "sts",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.2s",
+          "description": "- Investigate relationships among observable variables, using a range of tools and techniques to gather and record data and information.\n- Perform an experiment to demonstrate the effect of a uniform magnetic field on a current-carrying conductor, using the appropriate apparatus effectively and safely (PR–NS2, PR–NS3) [ICT F5–4.2].\n- Perform an experiment to demonstrate the effect of a uniform magnetic field on a moving conductor, using the appropriate apparatus effectively and safely (PR–NS2, PR–NS3) [ICT F5–4.2].\n- Predict, using appropriate hand rules, the relative directions of motion, force, and field in electromagnetic interactions (PR–NS2).",
+          "category": "skills",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.2sts",
+          "description": "- Explain that technology aims to solve practical problems and that appropriateness, risks, and benefits must be assessed for each application from multiple perspectives, including sustainability (ST1, ST7) [ICT F2–4.2, F3–4.1].\n- Evaluate electromagnetic technologies, such as magnetic resonance imaging (MRI), positron emission tomography (PET), transformers, alternating current (AC) and direct current (DC) motors, AC and DC generators, speakers, and telephones.\n- Investigate the effects of electricity and magnetism on living organisms, considering the limitations of scientific knowledge and technology and impacts on quality of life.",
+          "category": "sts",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- State a conclusion, based on experimental evidence, that describes the interactions of a uniform magnetic field and a moving or current-carrying conductor (AI–NS6).\n- Analyze quantitatively the motion of an electric charge following a straight or curved path in a uniform magnetic field, using Newton’s second law and vector addition (AI–NS3) [ICT C7–4.2].\n- Analyze quantitatively the motion of an electric charge following a straight path in uniform, mutually perpendicular electric and magnetic fields, using Newton’s second law and vector addition (AI–NS3) [ICT C7–4.2].\n- Use free-body diagrams to describe forces acting on an electric charge in electric and magnetic fields (AI–NS1).",
+          "category": "skills",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.3sts",
+          "description": "- Explain that scientific knowledge may lead to new technologies, and new technologies may lead to or facilitate scientific discovery (ST4) [ICT F2–4.4].\n- Describe how technological developments were influenced by the discovery of superconductivity.\n- Investigate how nanotubes can be used to construct low-resistance conductors.",
+          "category": "sts",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.4s",
+          "description": "- Work collaboratively to address problems and apply the skills and conventions of science to communicate information and ideas and assess results.\n- Select and use appropriate numeric, symbolic, graphical, and linguistic modes of representation to communicate findings and conclusions (CT–NS2).",
+          "category": "skills",
+          "parent": "30-B3"
+        }
+      ],
+      "topics": [
+        "Electric charge and charge conservation",
+        "Coulomb's Law",
+        "Electric fields and field lines",
+        "Electric field strength (E = F/q)",
+        "Electric potential and voltage",
+        "Electric potential energy",
+        "Work done by electric fields",
+        "Uniform and non-uniform electric fields",
+        "Electric field applications"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "5.5: Electric Field",
+          "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_(OpenStax)/05:_Electric_Charges_and_Fields/5.05:_Electric_Field",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Coulombs Law",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-2/x0a36c7bf1f0ba9de:electrostatics/x0a36c7bf1f0ba9de:coulombs-law-and-electric-force/v/coulombs-law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "2GQTfpDE9DQ",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/2GQTfpDE9DQ?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Atomic Models",
+          "url": "https://www.youtube.com/watch?v=HsKK9zPdXAY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Electric Fields",
+          "url": "https://www.youtube.com/watch?v=kVb8yEo-UuI",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.4k",
+            "30-B2.1k",
+            "30-B2.2k",
+            "30-B1.1s",
+            "30-B1.1sts",
+            "30-B1.2s",
+            "30-B2.1s",
+            "30-B2.2s",
+            "30-B2.2sts",
+            "30-B3.1s",
+            "30-B3.2s",
+            "30-B3.3s",
+            "30-B2.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Circuits",
+          "url": "https://www.khanacademy.org/science/physics/circuits-topic",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.7k",
+            "30-B3.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Conservation of energy",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-work-and-energy/conservation-of-energy-ap/v/conservation-of-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.3k",
+            "30-B3.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Conservation of momentum",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-linear-momentum/conservation-of-momentum-ap/v/deriving-the-conservation-of-momentum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.9k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Circuits",
+          "url": "https://www.youtube.com/watch?v=m4jzgqZu-4s",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Electric Fields",
+          "url": "https://www.youtube.com/watch?v=mdulzEfQXDE",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.4k",
+            "30-B2.2k",
+            "30-B1.1s",
+            "30-B1.1sts",
+            "30-B2.2s",
+            "30-B2.2sts",
+            "30-B3.1s",
+            "30-B3.2s",
+            "30-B3.3s",
+            "30-B1.5k",
+            "30-B1.6k",
+            "30-B2.5k",
+            "30-B2.6k",
+            "30-B2.10k",
+            "30-B1.2s",
+            "30-B2.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Elastic and inelastic collisions",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-linear-momentum/collisions-ap/v/elastic-and-inelastic-collisions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.9k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric charge and fields",
+          "url": "https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.1k",
+            "30-B1.5k",
+            "30-B1.6k",
+            "30-B2.1k",
+            "30-B2.5k",
+            "30-B2.6k",
+            "30-B2.10k",
+            "30-B1.1s",
+            "30-B1.1sts",
+            "30-B1.2s",
+            "30-B1.2sts",
+            "30-B2.1s",
+            "30-B2.2s",
+            "30-B2.2sts",
+            "30-B3.1s",
+            "30-B3.2sts",
+            "30-B3.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric force and Coulomb's law",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-electric-charge-electric-force-and-voltage/coulombs-law-and-electric-force-ap/v/coulombs-law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.4k",
+            "30-B1.5k",
+            "30-B1.6k",
+            "30-B2.6k",
+            "30-B2.10k",
+            "30-B1.1s",
+            "30-B1.2s",
+            "30-B1.2sts",
+            "30-B2.1s",
+            "30-B3.1s",
+            "30-B3.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric potential and voltage",
+          "url": "https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-potential-voltage",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.3k",
+            "30-B2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electromagnetic induction",
+          "url": "https://www.khanacademy.org/science/physics/electromagnetic-induction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Forces and Newton's laws",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Light and optics",
+          "url": "https://www.khanacademy.org/science/physics/geometric-optics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Magnetic forces and fields",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.7k",
+            "30-B2.2k",
+            "30-B3.2s",
+            "30-B3.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Momentum",
+          "url": "https://www.khanacademy.org/science/physics/linear-momentum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Newton's laws of motion",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.3s",
+            "30-B3.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ohm's law and circuits",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-circuits-topic/ohms-law-and-circuits-with-resistors-ap/v/circuits-part-1",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: One-dimensional motion",
+          "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.8k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photoelectric effect",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-quantum-physics/photoelectric-effect-ap/v/introduction-to-the-photoelectric-effect",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.4s",
+            "30-B2.4s",
+            "30-B3.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Professor Dave: Electric Circuits",
+          "url": "https://www.youtube.com/watch?v=VnnfJRPCr6Q",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Work and energy",
+          "url": "https://www.khanacademy.org/science/physics/work-and-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.1k",
+            "30-B2.4s",
+            "30-B3.1sts",
+            "30-B3.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "5: Electric Charges and Fields",
+          "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_(OpenStax)/05:_Electric_Charges_and_Fields",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Physics library",
+          "url": "https://www.khanacademy.org/science/physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.7k",
+            "30-B3.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Electricity and Magnetism",
+          "url": "https://www.khanacademy.org/science/physics/electricity-and-magnetism",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.2k",
+            "30-B2.5k",
+            "30-B2.6k",
+            "30-B1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Quantum Physics: Energy Levels in Atoms",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/quantum-number-and-orbital-wavef/v/nuclear-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Light and the electromagnetic spectrum",
+          "url": "https://www.khanacademy.org/science/physics/light-waves",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Electric Potential and Potential Difference - University Physics Volume 2",
+          "url": "https://openstax.org/books/university-physics-volume-2/pages/7-2-electric-potential-and-potential-difference",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Coulombs Law",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-2/x0a36c7bf1f0ba9de:electrostatics/x0a36c7bf1f0ba9de:coulombs-law-and-electric-force/e/coulombs-law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Electric Field Practice Problems",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-2/x0a36c7bf1f0ba9de:electrostatics/x0a36c7bf1f0ba9de:electric-field/e/electric-field",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Charges and Fields",
+          "url": "https://phet.colorado.edu/en/simulations/charges-and-fields",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1.3k",
+            "30-B1.5k",
+            "30-B1.6k",
+            "30-B2.1k",
+            "30-B2.10k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Circuit Construction Kit",
+          "url": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1.2k",
+            "30-B3.2sts"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Energy Skate Park",
+          "url": "https://phet.colorado.edu/en/simulations/energy-skate-park",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1.1k",
+            "30-B3.1sts"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Forces and Motion: Basics",
+          "url": "https://phet.colorado.edu/en/simulations/forces-and-motion-basics",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1.8k",
+            "30-B3.3s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "reference",
+          "title": "Physics 30 Data Booklet - Electric Constants",
+          "url": "https://www.alberta.ca/system/files/custom_downloaded_images/edc-physics30-data-booklet.pdf",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2"
+          ],
+          "source": "Alberta Education",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "magnetism",
+      "title": "Magnetic Fields and Forces",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "30-B3",
+          "description": "- Explain how the properties of electric and magnetic fields are applied in various devices.",
+          "type": "general"
+        },
+        {
+          "code": "30-B3.1k",
+          "description": "- Describe magnetic interactions in terms of forces and fields",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.2k",
+          "description": "- Compare gravitational, electric, and magnetic fields in terms of their sources and directions, noting that magnetic fields are produced by permanent magnets and moving charges.",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.3k",
+          "description": "- Describe how Oersted's and Faraday's discoveries underpin the theory linking electricity and magnetism.",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.4k",
+          "description": "- Describe qualitatively how a moving charge produces a magnetic field.\n- Predict the orientation of the magnetic field from the charge’s direction of motion.",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.5k",
+          "description": "- Explain, qualitatively and quantitatively, how a uniform magnetic field affects a moving electric charge when velocity and field are perpendicular, using the relationships among charge, velocity, field direction, and field strength.",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.6k",
+          "description": "- Explain quantitatively how uniform magnetic and electric fields affect a moving electric charge when the motion and field directions are mutually perpendicular, using the relationships among charge, motion, field direction, and field strength.",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.7k",
+          "description": "- Describe and explain qualitatively how a magnetic field interacts with a moving charge.\n- Describe and explain qualitatively how a magnetic field interacts with a current-carrying conductor.",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.8k",
+          "description": "- Explain quantitatively the effect of an external magnetic field on a current-carrying conductor.",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.9k",
+          "description": "- Describe qualitatively the effects of moving a conductor in an external magnetic field in terms of moving charges in a magnetic field.",
+          "category": "knowledge",
+          "parent": "30-B3"
+        }
+      ],
+      "topics": [
+        "Magnetic fields and field lines",
+        "Sources of magnetic fields",
+        "Magnetic force on moving charges (F = qvB)",
+        "Right-hand rule for magnetic force",
+        "Magnetic force on current-carrying wires",
+        "Motion of charged particles in magnetic fields",
+        "Magnetic field due to current-carrying wires",
+        "Solenoids and electromagnets",
+        "Applications of magnetic forces"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Magnetic Fields, Field Lines, and Force",
+          "url": "https://openstax.org/books/physics/pages/20-1-magnetic-fields-field-lines-and-force",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Electric Fields",
+          "url": "https://www.youtube.com/watch?v=kVb8yEo-UuI",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Circuits",
+          "url": "https://www.khanacademy.org/science/physics/circuits-topic",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Electric Fields",
+          "url": "https://www.youtube.com/watch?v=mdulzEfQXDE",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric charge and fields",
+          "url": "https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric force and Coulomb's law",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-electric-charge-electric-force-and-voltage/coulombs-law-and-electric-force-ap/v/coulombs-law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electromagnetic induction",
+          "url": "https://www.khanacademy.org/science/physics/electromagnetic-induction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Forces and Newton's laws",
+          "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Magnetic forces and fields",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: One-dimensional motion",
+          "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photoelectric effect",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-quantum-physics/photoelectric-effect-ap/v/introduction-to-the-photoelectric-effect",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.8k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Magnitude Magnetic Force Current Carrying Wire",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-2/x0a36c7bf1f0ba9de:magnetic-forces-and-fields/x0a36c7bf1f0ba9de:magnetic-force/v/magnitude-of-magnetic-force-on-current-carrying-wire",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Physics library",
+          "url": "https://www.khanacademy.org/science/physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Motion of a charged particle in a magnetic field",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/motion-charged-particles-mag-fields/a/motion-of-a-charged-particle-in-a-magnetic-field",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "The Biot-Savart Law - University Physics Volume 2",
+          "url": "https://openstax.org/books/university-physics-volume-2/pages/12-1-the-biot-savart-law",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Calculating Magnetic Force Current Carrying Wire",
+          "url": "https://www.khanacademy.org/science/ap-college-physics-2/x0a36c7bf1f0ba9de:magnetic-forces-and-fields/x0a36c7bf1f0ba9de:magnetic-force/e/calculating-magnetic-force-on-a-current-carrying-wire",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Charges and Fields",
+          "url": "https://phet.colorado.edu/en/simulations/charges-and-fields",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B3.9k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Circuit Construction Kit",
+          "url": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B3.2k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "reference",
+          "title": "Magnetism - College Physics",
+          "url": "https://phys.libretexts.org/Bookshelves/College_Physics/College_Physics_1e_(OpenStax)/22:_Magnetism",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B3"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "electromagnetic-induction",
+      "title": "Electromagnetic Induction",
+      "estimatedHours": 5,
+      "outcomes": [],
+      "topics": [
+        "Electromagnetic induction",
+        "Faraday's law of induction",
+        "Lenz's law",
+        "Magnetic flux",
+        "Induced EMF and current",
+        "Generators and alternators",
+        "Electric motors",
+        "Transformers",
+        "Applications of electromagnetic induction"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Electromagnetic Induction - Faraday's Experiments",
+          "url": "https://www.khanacademy.org/science/highschool-physics/x6679aa2c65c01e53:electromagnetics/x6679aa2c65c01e53:electromagnetic-induction/v/electromagnetic-induction-faradays-experiments",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "yU--8Zk57-Y",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/yU--8Zk57-Y?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Lenzs Law",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/magnetic-flux-faradays-law/v/lenzs-law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "xxZenoBs2Pg",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/xxZenoBs2Pg?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Electric Generators College Physics",
+          "url": "https://openstax.org/books/college-physics-2e/pages/23-5-electric-generators",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "What is Faraday's law?",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/electromagnetic-induction-faradays-law/a/what-is-faradays-law",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Electromagnetic Induction Practice Problems",
+          "url": "https://www.khanacademy.org/science/electromagnetism/x4352f0cb3cc997f5:how-do-generators-work/x4352f0cb3cc997f5:a-new-way-to-create-current/e/electromagnetic-induction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "13: Electromagnetic Induction",
+          "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_(OpenStax)/13:_Electromagnetic_Induction",
+          "difficulty": "advanced",
+          "alignedOutcomes": [],
+          "source": "LibreTexts",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "modern-physics",
+      "title": "Modern Physics - Quantum Mechanics and Atomic Physics",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "30-C2",
+          "description": "- Explain the photoelectric effect using the quantum model.",
+          "type": "general"
+        },
+        {
+          "code": "30-C1.3k",
+          "description": "- Explain how EMR propagates as time-varying, perpendicular electric and magnetic fields traveling away from their source at the speed of light.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.4k",
+          "description": "- Explain, qualitatively, methods for measuring the speed of EMR.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.5k",
+          "description": "- Calculate the speed of EMR using data from a Michelson-type experiment.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.6k",
+          "description": "- Describe reflection and refraction quantitatively, including total internal reflection.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.7k",
+          "description": "- Describe quantitatively simple single-component optical systems for both lenses and curved mirrors.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.11k",
+          "description": "- Describe, qualitatively and quantitatively, how refraction supports the wave model of EMR using sinθ1/sinθ2 = v1/v2 = λ1/λ2 = n2/n1.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.12k",
+          "description": "- Compare and contrast the visible spectra produced by diffraction gratings and triangular prisms.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C2.1k",
+          "description": "- Define a photon as a quantum of EMR and calculate its energy",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.2k",
+          "description": "- Classify the regions of the electromagnetic spectrum by photon energy",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.3k",
+          "description": "- Describe the photoelectric effect in terms of the incident light's intensity and wavelength (or frequency) and the surface material.",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.4k",
+          "description": "- Describe quantitatively photoelectric emission using energy conservation.",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.5k",
+          "description": "- Describe the photoelectric effect as evidence for the wave-particle duality of EMR.",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.6k",
+          "description": "- Explain the Compton effect qualitatively and quantitatively as an example of wave-particle duality, applying the laws of mechanics and conservation of momentum and energy to photons.",
+          "category": "knowledge",
+          "parent": "30-C2"
+        }
+      ],
+      "topics": [
+        "Photoelectric effect",
+        "Einstein's photoelectric equation",
+        "Wave-particle duality",
+        "Photons and quantization of energy",
+        "De Broglie wavelength",
+        "Atomic structure and models",
+        "Bohr model and energy levels",
+        "Atomic spectra and spectral lines",
+        "Nuclear structure (protons, neutrons, nucleons)",
+        "Radioactivity and half-life",
+        "Nuclear reactions and energy",
+        "Mass-energy equivalence (E=mc²)"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Introduction Atom",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/atoms-and-electrons/v/introduction-to-the-atom",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "1xSQlwWGT8M",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/1xSQlwWGT8M?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Atomic structure and spectra",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/quantum-numbers-and-orbitals",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.12k",
+            "30-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Conservation of energy",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-work-and-energy/conservation-of-energy-ap/v/conservation-of-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electric charge and fields",
+          "url": "https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Electromagnetic induction",
+          "url": "https://www.khanacademy.org/science/physics/electromagnetic-induction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.3k",
+            "30-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Light and optics",
+          "url": "https://www.khanacademy.org/science/physics/geometric-optics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.3k",
+            "30-C1.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Magnetic forces and fields",
+          "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Momentum",
+          "url": "https://www.khanacademy.org/science/physics/linear-momentum",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photoelectric effect",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-quantum-physics/photoelectric-effect-ap/v/introduction-to-the-photoelectric-effect",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.3k",
+            "30-C2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Quantum physics introduction",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.3k",
+            "30-C2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Reflection and refraction",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-geometric-optics/reflection-refraction-ap/v/specular-and-diffuse-reflection",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Rutherford's gold foil experiment",
+          "url": "https://www.khanacademy.org/science/chemistry/electronic-structure-of-atoms/history-of-atomic-structure/v/rutherford-s-gold-foil-experiment",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Wave properties",
+          "url": "https://www.khanacademy.org/science/ap-physics-1/ap-mechanical-waves-and-sound/wave-characteristics-ap/v/introduction-to-waves",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.3k",
+            "30-C2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Waves and sound",
+          "url": "https://www.khanacademy.org/science/physics/mechanical-waves-and-sound",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.11k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Work and energy",
+          "url": "https://www.khanacademy.org/science/physics/work-and-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.1k",
+            "30-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Electromagnetic Waves - Crash Course Physics #30",
+          "url": "https://www.youtube.com/watch?v=pOqvMf0No0Y",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.4k"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Measuring the Speed of Light",
+          "url": "https://www.youtube.com/watch?v=ReQKc32GyQY",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.4k"
+          ],
+          "source": "Professor Dave Explains",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "Photoelectric Effect Explained",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/photons/a/photoelectric-effect",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Bohr's model of hydrogen",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/bohr-model/a/bohrs-model-of-hydrogen",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Physics library",
+          "url": "https://www.khanacademy.org/science/physics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.11k",
+            "30-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Electricity and Magnetism",
+          "url": "https://www.khanacademy.org/science/physics/electricity-and-magnetism",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Quantum Physics: Energy Levels in Atoms",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/quantum-number-and-orbital-wavef/v/nuclear-energy",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.1k",
+            "30-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Double Slit Experiment",
+          "url": "https://www.khanacademy.org/science/physics/quantum-physics/quantum-tunneling/v/double-slit-experiment",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Properties Nuclei University Physics Volume",
+          "url": "https://openstax.org/books/university-physics-volume-3/pages/10-1-properties-of-nuclei",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Wave Speed",
+          "url": "https://www.khanacademy.org/science/physics/waves/light/wave-speed-lesson/a/wave-speed-article",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Bohr Model Energy Calculations",
+          "url": "https://www.khanacademy.org/science/ap-chemistry/electronic-structure-of-atoms-ap/bohr-model-hydrogen-ap/e/bohr-model-energy-levels",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Einstein's Photoelectric Equation Practice",
+          "url": "https://www.khanacademy.org/science/ap-physics-2/ap-quantum-physics/x0e2f5a2c:ap-atoms-and-light/e/einstein-photoelectric-equation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Energy Skate Park",
+          "url": "https://phet.colorado.edu/en/simulations/energy-skate-park",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C2.1k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Wave on a String",
+          "url": "https://phet.colorado.edu/en/simulations/wave-on-a-string",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C1.11k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "Wave Interference",
+          "url": "https://phet.colorado.edu/en/simulation/legacy/wave-interference",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.4k"
+          ],
+          "source": "PhET Interactive Simulations",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "reference",
+          "title": "8: Atomic Structure",
+          "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/08:_Atomic_Structure",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C2"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Quantum Mechanics - University Physics",
+          "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07:_Quantum_Mechanics",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C2"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Wave Speed",
+          "url": "https://www.khanacademy.org/science/physics/waves-properties/wave-speed/v/wave-speed",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "hyperphysics",
+          "embeddable": false
+        }
+      ]
+    }
+  ]
+}

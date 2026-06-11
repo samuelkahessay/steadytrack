@@ -1,0 +1,3154 @@
+{
+  "subject": "Biology 30",
+  "grade": 12,
+  "albertaDocs": [
+    {
+      "title": "Biology 30 Information Bulletin 2025-2026",
+      "url": "https://www.alberta.ca/system/files/custom_downloaded_images/edc-biology-30-info-bulletin.pdf",
+      "type": "reference"
+    },
+    {
+      "title": "Biology 20-30 Program of Studies",
+      "url": "https://education.alberta.ca/media/3069386/pos_bio_20_30.pdf",
+      "type": "reference"
+    }
+  ],
+  "units": [
+    {
+      "id": "nervous-endocrine-systems",
+      "title": "Nervous and Endocrine Systems",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "30-A1",
+          "description": "- Explain how the nervous system controls physiological processes.",
+          "type": "general"
+        },
+        {
+          "code": "30-A2",
+          "description": "- Explain how the endocrine system contributes to homeostasis.",
+          "type": "general"
+        },
+        {
+          "code": "30-A1.1k",
+          "description": "- Describe the general structure and function of a neuron and the myelin sheath.\n- Explain the formation and transmission of an action potential, including the all-or-none response and intensity of response.\n- Explain the transmission of a signal across a synapse.\n- Identify the main chemicals and transmitters involved: norepinephrine, acetylcholine, and cholinesterase.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.2k",
+          "description": "- Identify the principal structures of the central and peripheral nervous systems: cerebral hemispheres and lobes, cerebellum, pons, medulla oblongata, hypothalamus, spinal cord, sympathetic and parasympathetic nervous systems, and the sensory-somatic nervous system.\n- Explain their functions in regulating the voluntary (somatic) and involuntary (autonomic) systems of the human organism.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.3k",
+          "description": "- Describe, using an example (e.g., the patellar or pupillary reflex), the organization of neurons into nerves and the composition and function of reflex arcs.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.4k",
+          "description": "- Describe the structure and function of the parts of the human eye: cornea, lens, sclera, choroid, retina, rods and cones, fovea centralis, pupil, iris, and optic nerve.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.5k",
+          "description": "- Describe the structure and function of the human ear’s parts: pinna, auditory canal, tympanum, ossicles, cochlea, organ of Corti, auditory nerve, semicircular canals, and Eustachian tube.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.6k",
+          "description": "- Explain other ways humans sense their environment and spatial orientation, including olfactory receptors, proprioceptors, taste receptors, and skin receptors.",
+          "category": "knowledge",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A2.1k",
+          "description": "- Identify the principal human endocrine glands: the hypothalamus/pituitary complex, thyroid, parathyroid, adrenal glands, and pancreatic islet cells.",
+          "category": "knowledge",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.2k",
+          "description": "- Describe the functions of the principal endocrine hormones: thyroid-stimulating hormone (TSH)/thyroxine, calcitonin/parathyroid hormone (PTH), adrenocorticotropic hormone (ACTH)/cortisol, glucagon/insulin, human growth hormone (hGH), antidiuretic hormone (ADH), epinephrine, and aldosterone.\n- Explain how these hormones maintain homeostasis through feedback.",
+          "category": "knowledge",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.3k",
+          "description": "- Explain the roles of hormones in homeostasis, including thyroxine in metabolism; insulin, glucagon, and cortisol in blood sugar regulation; hGH in growth; ADH in water regulation; and aldosterone in sodium ion regulation.",
+          "category": "knowledge",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.4k",
+          "description": "- Explain how the endocrine system senses the internal environment and coordinates appropriate responses (e.g., calcium balance, blood osmotic pressure).",
+          "category": "knowledge",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.5k",
+          "description": "- Compare the endocrine and nervous control systems and explain how they work together (e.g., stress and the adrenal gland).",
+          "category": "knowledge",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into related questions, ideas, problems, and issues.\n- Design an experiment to investigate heat, cold, pressure, and touch receptors (IP–NS1, IP–NS2, IP–NS3).",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.1sts",
+          "description": "- Explain how scientific knowledge and theories develop through hypotheses, evidence collection, investigation, and explanation (NS2).\n- Discuss the biological basis of neurological diseases, such as Alzheimer’s or Parkinson’s disease, and how this relates to treatment.\n- Evaluate the impact of photoperiod (light wavelength and duration) on humans and identify adaptations to light deprivation in northern communities.",
+          "category": "sts",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.2s",
+          "description": "- Conduct investigations into relationships between and among observable variables and use a broad range of tools and techniques to gather and record data and information\n- Design and perform an experiment to investigate the physiology of reflex arcs (IP–NS2, PR–NS2, PR–NS3, PR–NS4) [ICT F1–4.2]\n- Perform experiments to measure the ability to discriminate objects visually and to hear a range of sounds (PR–NS2, PR–NS3, PR–NS4)\n- Use a microscope and prepared slides to observe neurons and synapses (PR–NS2, PR–NS3, PR–NS4)\n- Observe the principal features of a mammalian brain, eye and ear, using models, computer simulations or dissections, and identify the major structures of those organs (PR–NS3, PR–NS4) [ICT C6–4.4]",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.2sts",
+          "description": "- Explain that scientific investigation involves analyzing evidence and providing explanations based on scientific theories and concepts (NS5f) [ICT C7–4.2].\n- Analyze experimental evidence on how natural and synthetic anesthetics, drugs, and chemicals affect the functioning of the nervous system, and relate this to addiction theories.\n- Analyze how technological developments and physiological knowledge have contributed to longevity and quality of life.",
+          "category": "sts",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions\n- Interpret patterns and trends in data on strength of stimuli versus force of muscle contraction (AI–NS2) [ICT C7–4.2]\n- Analyze and interpret aspects of vision, such as blind spot, acuity, accommodation, adaptation, binocular vision and peripheral vision (AI–NS2) [ICT C7–4.2]\n- Analyze a hearing aid as a device that simulates a sensory function (AI–ST1)\n- Pose new questions, such as: “Why are some people more tolerant to pain than others?” (AI–NS5)",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.3sts",
+          "description": "- Explain that the goal of technology is to provide solutions to practical problems (ST1) [ICT F2–4.4]\n- Investigate technologies used to correct eye and ear defects\n- Investigate the biological basis of neurotoxin action and their antidotes\n- Investigate the use of neurotoxins by Indigenous peoples\n- Discuss how advances in science have contributed to technologies that increase access to the world beyond normal sensory limits",
+          "category": "sts",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A1.4s",
+          "description": "- Work collaboratively to solve problems, applying scientific skills and conventions to communicate information and evaluate results.\n- Use appropriate Système international (SI) units, including fundamental and derived units, and significant digits (CT–NS2).\n- Use numeric, symbolic, graphical, and linguistic representations to communicate ideas, plans, and results (CT–NS2).\n- Work cooperatively to investigate neurological disorders such as Alzheimer’s or Parkinson’s disease (CT–NS1).",
+          "category": "skills",
+          "parent": "30-A1"
+        },
+        {
+          "code": "30-A2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into related questions, ideas, problems, and issues.\n- Formulate a hypothesis, using published data, about an environmental factor that humans can detect and respond to (e.g., stress and hormonal disruption; ultraviolet light and pigment deposition; diet and thyroid function) (IP–NS3).",
+          "category": "skills",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.1sts",
+          "description": "- Explain that science and technology are developed to meet societal needs and expand human capability (SEC1) [ICT F2–4.8].\n- Compare technological control systems (e.g., computer control of car emissions) with electrochemical control systems in organisms.\n- Assess the impact of research into biochemical control systems on human performance.\n- Describe current treatments for type 1 and type 2 diabetes.",
+          "category": "sts",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.2s",
+          "description": "- Investigate relationships between and among observable variables, using a broad range of tools and techniques to gather and record data.\n- Research Seasonal Affective Disorder (SAD) or General Adaptation Syndrome and identify the main hormonal and nervous components (PR–NS4).",
+          "category": "skills",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.2sts",
+          "description": "- Explain that science and technology have both intended and unintended consequences for humans and the environment (SEC3) [ICT F2–4.8, F3–4.1]\n- Evaluate the use of biotechnology to solve practical problems\n- Evaluate the use of hormone therapy in the treatment of humans\n- Explain the relationship between pigment deposition within skin cells and ultraviolet light as influenced by stratospheric ozone",
+          "category": "sts",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Infer the roles of ADH and aldosterone in the maintenance of water and ions by analyzing and interpreting blood and urine composition data (AI–NS6) [ICT C7–4.2].\n- Infer the role of insulin in regulating blood sugar by performing an experiment to test for glucose in simulated urine and comparing results with normal urinalysis data, and/or by using a computer simulation (AI–NS6) [ICT C7–4.2].",
+          "category": "skills",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.4s",
+          "description": "- Work collaboratively to address problems, and apply the skills and conventions of science to communicate information and ideas and to assess results.\n- Evaluate individual and group processes used in planning and carrying out group investigations of hormone therapy or the use of biotechnology to solve practical problems (CT–SEC1, CT–SEC4).",
+          "category": "skills",
+          "parent": "30-A2"
+        },
+        {
+          "code": "30-A2.6k",
+          "description": "- Describe, using an example, the physiological consequences of hormone imbalances (e.g., diabetes mellitus, diabetes insipidus, gigantism, goitre, cretinism, Graves’ disease).",
+          "category": "knowledge",
+          "parent": "30-A2"
+        }
+      ],
+      "topics": [
+        "Neuron structure and function",
+        "Action potentials and nerve impulses",
+        "Synaptic transmission (neurotransmitters)",
+        "Central nervous system (brain and spinal cord)",
+        "Peripheral nervous system",
+        "Reflex arcs",
+        "Hormones and target cells",
+        "Major endocrine glands (hypothalamus, pituitary, thyroid, adrenal, pancreas)",
+        "Negative and positive feedback mechanisms",
+        "Hormonal regulation of blood glucose",
+        "Stress response (fight or flight)",
+        "Integration of nervous and endocrine control"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Introduction to the Endocrine System",
+          "url": "https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/cell-communication/v/intro-to-the-endocrine-system",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "f_Z1zsR9lFM",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/f_Z1zsR9lFM?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Electrochemical Gradient",
+          "url": "https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/changes-in-signal-transduction-pathways/v/the-electrochemical-gradient",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "article",
+          "title": "The Nervous and Endocrine Systems Review",
+          "url": "https://www.khanacademy.org/science/hs-bio/x230b3ff252126bb6:from-cells-to-organisms/x230b3ff252126bb6:human-body-systems/a/hs-the-nervous-and-endocrine-systems-review",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Basic Structure and Function of the Nervous System - Anatomy and Physiology 2e",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Hormones Anatomy Physiology",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Mechanisms of Homeostasis Explained",
+          "url": "https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/feedback/a/homeostasis",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Hormones and the endocrine system",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/human-body-systems/a/hormones-and-the-endocrine-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Neurons: action potentials",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/neurons-action-potentials",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "The Nervous and Endocrine Systems Practice",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-nervous-and-endocrine-systems/e/hs-the-nervous-and-endocrine-systems",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1",
+            "30-A2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Gene Expression",
+          "url": "https://phet.colorado.edu/en/simulations/gene-expression-essentials",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A1.1k",
+            "30-A1.4s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Gene",
+          "url": "https://openstax.org/books/biology-2e/pages/15-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.1k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Nervous",
+          "url": "https://openstax.org/books/biology-2e/pages/35-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.2k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Nervous system",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.1k",
+            "30-A2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Gene expression and regulation",
+          "url": "https://www.khanacademy.org/science/biology/gene-regulation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.1k",
+            "30-A2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Endocrine system",
+          "url": "https://www.khanacademy.org/science/biology/principles-of-physiology/endocrine-system-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.1k",
+            "30-A2.2sts",
+            "30-A2.4s",
+            "30-A2.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Biology library",
+          "url": "https://www.khanacademy.org/science/biology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.1k",
+            "30-A2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cells",
+          "url": "https://www.khanacademy.org/science/biology/structure-of-a-cell",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.1k",
+            "30-A2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Cell",
+          "url": "https://openstax.org/books/biology-2e/pages/3-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.1k",
+            "30-A2.2sts"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Endocrine",
+          "url": "https://openstax.org/books/biology-2e/pages/37-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.2k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Metabolism",
+          "url": "https://openstax.org/books/biology-2e/pages/6-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.3k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: DNA and RNA",
+          "url": "https://www.khanacademy.org/science/biology/dna-as-the-genetic-material",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.4k",
+            "30-A1.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ecology and ecosystems",
+          "url": "https://www.khanacademy.org/science/biology/ecology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Natural selection and evolution",
+          "url": "https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.1sts",
+            "30-A1.3s",
+            "30-A2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Natural Selection",
+          "url": "https://phet.colorado.edu/en/simulations/natural-selection",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-A1.1sts"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Reflex arc",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-nervous-system/v/organization-of-the-nervous-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.3k",
+            "30-A1.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Amoeba Sisters: Nervous System",
+          "url": "https://www.youtube.com/watch?v=44B0ms3XPKU",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Neurons and the nervous system",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-nervous-system/v/structure-of-the-nervous-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.3k",
+            "30-A1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: The eye and vision",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/structure-of-the-eye",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.4k",
+            "30-A1.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: The Eye",
+          "url": "https://www.youtube.com/watch?v=WQPE87BNd9w",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.4k",
+            "30-A1.3sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Visual phototransduction",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/phototransduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.4k",
+            "30-A2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: The Eye",
+          "url": "https://www.youtube.com/watch?v=o0DYP-u1rNM",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: The ear and hearing",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/the-ear",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.5k",
+            "30-A1.3s",
+            "30-A2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Adrenal glands and stress",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-endocrine-system/v/adrenal-glands",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Taste and smell",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/olfaction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Somatosensation",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/mechanoreceptors",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.6k",
+            "30-A1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Hormones and signaling",
+          "url": "https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/changes-in-signal-transduction-pathways/v/types-of-hormones",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.6k",
+            "30-A1.1s",
+            "30-A2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Endocrine System",
+          "url": "https://www.youtube.com/watch?v=WVrlHH14q3o",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.5k",
+            "30-A2.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Amoeba Sisters: Endocrine System",
+          "url": "https://www.youtube.com/watch?v=NOaMH1k3YrY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Nervous System",
+          "url": "https://www.youtube.com/watch?v=qPix_X-9t7E",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: The Nervous System",
+          "url": "https://www.youtube.com/watch?v=2GKx_eJlP6M",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A1.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Thyroid gland",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-endocrine-system/v/thyroid-gland",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.1s",
+            "30-A2.4s",
+            "30-A2.6k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Pancreas and blood glucose",
+          "url": "https://www.khanacademy.org/science/biology/principles-of-physiology/endocrine-system-introduction/v/glucose-insulin-and-diabetes",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Biogeochemical cycles",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/biogeochemical-cycles/v/introduction-to-biogeochemical-cycles",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Water cycle",
+          "url": "https://www.khanacademy.org/science/biology/ecology/biogeochemical-cycles/v/water-cycle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-A2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "reproduction-development",
+      "title": "Reproduction and Development",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "30-B1",
+          "description": "- Explain how reproduction ensures the survival of the human species.",
+          "type": "general"
+        },
+        {
+          "code": "30-B2",
+          "description": "- Explain how chemical control systems regulate human reproduction.",
+          "type": "general"
+        },
+        {
+          "code": "30-B3",
+          "description": "- Explain how genetic, endocrine, and environmental factors regulate cell differentiation and development in humans.",
+          "type": "general"
+        },
+        {
+          "code": "30-B1.1k",
+          "description": "- Identify the structures of the human female reproductive system and describe the functions of the ovaries, Fallopian tubes, uterus, endometrium, cervix, and vagina.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.2k",
+          "description": "- Identify structures of the human male reproductive system and describe the functions of the testes, seminiferous tubules, interstitial cells, Sertoli cells, epididymides, vasa (ductus) deferentia, Cowper’s glands, seminal vesicles, prostate gland, ejaculatory duct, urethra, and penis.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.3k",
+          "description": "- Distinguish sperm from supporting structures: seminiferous tubules, interstitial cells, Sertoli cells.\n- Distinguish the egg from supporting structures: follicle, corpus luteum.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.4k",
+          "description": "- Describe chromosomal factors and hormonal influences, including the Y chromosome and testosterone, on the formation of the gonads and reproductive organs in male and female embryos and fetuses.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B2.1k",
+          "description": "- Describe the roles of GnRH, FSH, LH, estrogen, progesterone, and testosterone in regulating primary and secondary sex characteristics in females and males.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.2k",
+          "description": "- Identify the principal female reproductive hormones (estrogen, progesterone, FSH, LH) and explain how their interactions maintain the menstrual cycle.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.3k",
+          "description": "- Identify the principal male reproductive hormones (testosterone, FSH, LH).\n- Explain how these hormones interact in the maintenance and functioning of the male reproductive system.",
+          "category": "knowledge",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B3.1k",
+          "description": "- Trace the processes of fertilization, implantation, and formation of extra-embryonic membranes (placenta, amnion, chorion, allantois).\n- Trace embryonic and fetal development, parturition, and lactation.\n- Describe the hormonal control of these events (progesterone, LH, human chorionic gonadotropin (hCG), prostaglandins, oxytocin, prolactin).",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.2k",
+          "description": "- Describe development from fertilization to parturition across the major stages (trimesters).\n- Identify the main physiological events in organ system development and the key stages: zygote, blastocyst, gastrulation, and general morphogenesis.",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.3k",
+          "description": "- Identify major tissues and organs that arise from differentiation and morphological development of the ectoderm, mesoderm and endoderm in the embryo\n- I.e.,\n- Ectoderm: nervous system, epidermis\n- Mesoderm: skeleton, muscles, reproductive structures\n- Endoderm: lining of the digestive and respiratory systems, endocrine glands",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.4k",
+          "description": "- Describe how environmental factors—such as maternal lifestyle and teratogens (alcohol, drugs, viral infections, radiation)—influence embryonic and fetal development.",
+          "category": "knowledge",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into related questions, ideas, problems, and issues.\n- Identify ethical concerns about reproductive technologies, infertility, and the transmission of STIs (IP–SEC1).",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.1sts",
+          "description": "- Explain that decisions about applying scientific and technological developments involve social, cultural, environmental, ethical, and economic perspectives (SEC4b).\n- Evaluate the implications of a reproductive technology for human biology.\n- Consider long-term scientific and technological solutions to population control using the Aboriginal concept of seven generations.\n- Discuss society’s expectations of the scientific community regarding reproductive technologies.\n- Discuss the impact of STIs on individuals, focusing on the physiological damage they cause.",
+          "category": "sts",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data.\n- Observe principal features of the human reproductive system using models or computer simulations, and identify major structures from drawings (PR–NS4) [ICT C6–4.4].\n- Use a microscope to observe prepared slides of ovaries and testes, distinguishing eggs and sperm from supporting structures (follicle, corpus luteum, interstitial cells, Sertoli cells, seminiferous tubules) (PR–NS2, PR–NS4).",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Evaluate practical solutions to decreased fertility; i.e., low sperm count, difficulty in egg production, hormonal imbalance (AI–ST2, AI–SEC2).\n- Evaluate information collected from library and electronic sources on the implications of reproductive technologies such as surrogacy, sperm banks and cloning (AI–SEC2, AI–SEC4) [ICT C1–4.1, C3–4.1, C3–4.2].",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.4s",
+          "description": "- Collaborate to address problems and apply scientific skills and conventions to communicate information and ideas and to assess results.",
+          "category": "skills",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B1.5k",
+          "description": "- Explain how sexually transmitted infections (STIs), such as chlamydia, gonorrhea, and human papilloma virus, can interfere with fertility and reproduction.",
+          "category": "knowledge",
+          "parent": "30-B1"
+        },
+        {
+          "code": "30-B2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Design an investigation to determine when during the menstrual cycle a female is most fertile (IP–NS2, IP–NS3, IP–NS4).",
+          "category": "skills",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.1sts",
+          "description": "- Explain how science and technology have both influenced and been influenced by historical development and societal needs (SEC2).\n- Research and assess the effects on humans of the medical use of reproductive hormones.\n- Research and assess the implications for humans of producing and using reproductive hormones in domestic animals (e.g., cattle and horses).",
+          "category": "sts",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Graph changes in estrogen, progesterone, FSH, and LH levels in a female's blood throughout a single menstrual cycle (PR–NS4) [ICT C6–4.2].\n- Identify the follicle and corpus luteum within the ovary using models, diagrams, or computer simulations (PR–NS4) [ICT C6–4.4].",
+          "category": "skills",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.2sts",
+          "description": "- Explain why decisions about applying scientific and technological developments involve multiple perspectives—social, cultural, environmental, ethical, and economic (SEC4b) [ICT F2–4.2, F3–4.1].\n- Explain how natural aging disrupts reproductive hormone homeostasis.\n- Discuss whether available technologies, such as hormone treatment for menopause and andropause, should be used to restore this balance.",
+          "category": "sts",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Analyze blood hormone data and physiological events for a single menstrual cycle to infer the roles of female sex hormones (AI–NS2, AI–NS6).\n- Analyze blood hormone data and physiological events to infer the roles of male sex hormones (AI–NS2, AI–NS6) [ICT C7–4.2].\n- Research and assess the effects of the medical use of reproductive hormones on conditions such as menopause, andropause, and infertility (PR–SEC1, AI–SEC2, AI–SEC4) [ICT C7–4.2].",
+          "category": "skills",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B2.4s",
+          "description": "- Work collaboratively to address problems, applying scientific skills and conventions to communicate information and ideas and assess results.\n- Select and use appropriate numerical and graphical representations to communicate information on changing reproductive hormone levels in the blood (CT–ST2).\n- Work cooperatively with team members to investigate the environmental impact of using reproductive hormones in agriculture (such as the feminization of fish) and present the information to the class using appropriate multimedia (CT–SEC1, CT–SEC2, CT–SEC3) [ICT C1–4.4, P3–4.1].",
+          "category": "skills",
+          "parent": "30-B2"
+        },
+        {
+          "code": "30-B3.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into questions, ideas, problems, and issues.\n- Design an experiment to investigate hormonal changes during pregnancy (IP–NS2, IP–NS3, IP–NS4).",
+          "category": "skills",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.1sts",
+          "description": "- Explain that science and technology are developed to meet societal needs and expand human capability (SEC1)\n- Analyze how technology is used to solve problems of immunological incompatibility between fetus and mother",
+          "category": "sts",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.2s",
+          "description": "- Conduct investigations into relationships among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Investigate, using library and electronic sources, the effects of environmental factors on human embryonic and fetal development (e.g., alcohol, cocaine, cigarette smoke, diet, prescription and nonprescription drugs) (PR–SEC1) [ICT C1–4.1].\n- Research the societal impact of technologies such as ultrasound, amniocentesis, in vitro fertilization, and CVS (PR–SEC1) [ICT F3–4.1].\n- Investigate, using library and electronic sources, how embryonic cells communicate during development (PR–NS1) [ICT C1–4.1].",
+          "category": "skills",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.2sts",
+          "description": "- Explain why decisions about applying scientific and technological developments involve multiple perspectives (social, cultural, environmental, ethical, economic) (SEC4b).\n- Assess the use of technologies such as ultrasound, chorionic villus sampling (CVS), amniocentesis, and fetal heart rate monitors in monitoring fetal development.\n- Assess the effects of a conception control technology on population demographics in developed and developing countries.\n- Discuss how knowledge of embryonic and fetal development has influenced the value society places on human life.\n- Discuss the societal impact of environmental contaminants (such as polychlorinated biphenyls [PCBs], heavy metals, dioxins, and furans) and teratogens.",
+          "category": "sts",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions\n- Observe changes during embryo development, using preserved material such as chicken embryos, models, or computer simulations, and extrapolate to human development (PR–NS3, AI–NS2) [ICT C6–4.1, C6–4.4]\n- Interpret hormonal data from published investigations (e.g., pregnancy testing) (AI–NS2) [ICT C7–4.2]\n- Evaluate, from published data, the effectiveness and safety of various reproductive technologies (AI–SEC1, AI–SEC2)\n- Analyze the stages of embryonic and fetal development (AI–NS2)",
+          "category": "skills",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.4s",
+          "description": "- Work collaboratively to address problems, and apply scientific skills and conventions to communicate information and ideas and assess results.\n- Develop clear, logical arguments based on published data to defend a decision on the effectiveness and safety of available reproductive technologies (CT–SEC3) [ICT C1–4.4].",
+          "category": "skills",
+          "parent": "30-B3"
+        },
+        {
+          "code": "30-B3.5k",
+          "description": "- Describe the physiological or mechanical basis of reproductive technologies, including conception control, in vitro fertilization, and infertility reversal.",
+          "category": "knowledge",
+          "parent": "30-B3"
+        }
+      ],
+      "topics": [
+        "Male and female reproductive anatomy",
+        "Spermatogenesis and oogenesis",
+        "Hormonal control of reproduction (FSH, LH, estrogen, progesterone, testosterone)",
+        "Menstrual and ovarian cycles",
+        "Fertilization and zygote formation",
+        "Embryonic development stages (cleavage, gastrulation, organogenesis)",
+        "Placenta and fetal development",
+        "Pregnancy hormones (hCG, estrogen, progesterone)",
+        "Prenatal testing and reproductive technologies",
+        "Birth and lactation"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Embryology: Human Reproduction Overview",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/embryology/v/embryology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2",
+            "30-B3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "video",
+          "title": "Oogenesis: Egg Cell Development",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/oogenesis",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2",
+            "30-B3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "article",
+          "title": "Human Reproduction - Concepts of Biology",
+          "url": "https://openstax.org/books/concepts-biology/pages/18-3-human-reproduction",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2",
+            "30-B3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Developmental biology overview",
+          "url": "https://www.khanacademy.org/science/biology/developmental-biology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2",
+            "30-B3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Hormonal Control of Human Reproduction",
+          "url": "https://openstax.org/books/biology-2e/pages/43-4-hormonal-control-of-human-reproduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2",
+            "30-B3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Human Reproductive Anatomy and Gametogenesis",
+          "url": "https://openstax.org/books/biology-2e/pages/43-3-human-reproductive-anatomy-and-gametogenesis",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2",
+            "30-B3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Pregnancy and Prenatal Development",
+          "url": "https://openstax.org/books/lifespan-development/pages/2-3-pregnancy-and-prenatal-development",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2",
+            "30-B3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Human Pregnancy and Birth",
+          "url": "https://openstax.org/books/biology-2e/pages/43-5-human-pregnancy-and-birth",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-B1",
+            "30-B2",
+            "30-B3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ecology and ecosystems",
+          "url": "https://www.khanacademy.org/science/biology/ecology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Nervous system",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Endocrine system",
+          "url": "https://www.khanacademy.org/science/biology/principles-of-physiology/endocrine-system-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.1k",
+            "30-B2.3k",
+            "30-B2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Biology library",
+          "url": "https://www.khanacademy.org/science/biology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cells",
+          "url": "https://www.khanacademy.org/science/biology/structure-of-a-cell",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Cell",
+          "url": "https://openstax.org/books/biology-2e/pages/3-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.2k",
+            "30-B3.2s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Membrane",
+          "url": "https://openstax.org/books/biology-2e/pages/5-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.1k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cell membrane and transport",
+          "url": "https://www.khanacademy.org/science/ap-biology/cell-structure-and-function/membrane-transport",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.1k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Gene expression and regulation",
+          "url": "https://www.khanacademy.org/science/biology/gene-regulation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Gene Expression",
+          "url": "https://phet.colorado.edu/en/simulations/gene-expression-essentials",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B3.2k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Gene",
+          "url": "https://openstax.org/books/biology-2e/pages/15-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.2k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Nervous",
+          "url": "https://openstax.org/books/biology-2e/pages/35-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.3k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Endocrine",
+          "url": "https://openstax.org/books/biology-2e/pages/37-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.3k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: DNA and RNA",
+          "url": "https://www.khanacademy.org/science/biology/dna-as-the-genetic-material",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Population",
+          "url": "https://openstax.org/books/biology-2e/pages/45-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.2sts"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Gametogenesis - spermatogenesis and oogenesis",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/gametogenesis",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.3k",
+            "30-B1.2s",
+            "30-B1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Female reproductive system",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/v/female-reproductive-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.3k",
+            "30-B2.1k",
+            "30-B1.2s",
+            "30-B1.3s",
+            "30-B2.2s",
+            "30-B3.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Male reproductive system",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/v/male-reproductive-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.3k",
+            "30-B2.1k",
+            "30-B2.3k",
+            "30-B1.2s",
+            "30-B2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Reproductive System",
+          "url": "https://www.youtube.com/watch?v=RFDatCchpus",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.3k",
+            "30-B1.5k",
+            "30-B3.2s",
+            "30-B3.5k",
+            "30-B1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Sex determination and differentiation",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/chromosomal-basis-of-genetics/v/sex-linkage",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Reproductive system introduction",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/v/reproductive-system-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.4k",
+            "30-B1.5k",
+            "30-B3.2s",
+            "30-B3.3s",
+            "30-B3.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Hormones and signaling",
+          "url": "https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/changes-in-signal-transduction-pathways/v/types-of-hormones",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.2k",
+            "30-B2.3s",
+            "30-B2.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: The Eye",
+          "url": "https://www.youtube.com/watch?v=WQPE87BNd9w",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.1s",
+            "30-B3.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Ecology - Community Ecology",
+          "url": "https://www.youtube.com/watch?v=0m3SF7S1RzM",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B1.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Biogeochemical cycles",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/biogeochemical-cycles/v/introduction-to-biogeochemical-cycles",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Amoeba Sisters: Carbon and Nitrogen Cycles",
+          "url": "https://www.youtube.com/watch?v=leHy-Y_8nRs",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.1s",
+            "30-B2.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: The ear and hearing",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/the-ear",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.1sts",
+            "30-B3.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Thyroid gland",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-endocrine-system/v/thyroid-gland",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: The Endocrine System",
+          "url": "https://www.youtube.com/watch?v=WVrlHH14q3o",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Amoeba Sisters: Endocrine System",
+          "url": "https://www.youtube.com/watch?v=NOaMH1k3YrY",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Adrenal glands and stress",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-endocrine-system/v/adrenal-glands",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B2.4s",
+            "30-B2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Introduction to Heredity",
+          "url": "https://www.khanacademy.org/science/biology/cellular-molecular-biology/information-transfer/v/introduction-to-heredity",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B1.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Overview of Human Reproduction",
+          "url": "https://www.khanacademy.org/science/biology/human-biology/human-reproduction/v/overview-of-human-reproduction",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-B3.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Immune Response",
+          "url": "https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/hormones-and-the-endocrine-system/v/immune-response",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-B3.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "cell-division-genetics",
+      "title": "Cell Division, Genetics and Molecular Biology",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "30-C1",
+          "description": "- Describe the processes of mitosis and meiosis.",
+          "type": "general"
+        },
+        {
+          "code": "30-C2",
+          "description": "- Explain the basic rules and processes involved in the transmission of genetic characteristics.",
+          "type": "general"
+        },
+        {
+          "code": "30-C3",
+          "description": "- Explain classical genetics at the molecular level.",
+          "type": "general"
+        },
+        {
+          "code": "30-C1.1k",
+          "description": "- Define haploidy, diploidy, and polyploidy.\n- Explain the significance of chromosome number in somatic cells and sex cells.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.2k",
+          "description": "- Explain, in general terms, the events of the cell cycle: interphase, mitosis, and cytokinesis.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.3k",
+          "description": "- Describe the process of meiosis, including spermatogenesis and oogenesis.\n- Explain the necessity for the reduction of chromosome number.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C2.1k",
+          "description": "- Describe the evidence for dominance, segregation, and the independent assortment of genes on different chromosomes, as investigated by Mendel.",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.2k",
+          "description": "- Compare ratios and probabilities of genotypes and phenotypes for dominant/recessive, multiple-allele, incomplete dominance, and codominance patterns.",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.3k",
+          "description": "- Explain how gene linkage and crossing over affect genetic variation.",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.4k",
+          "description": "- Explain the relationship between variability and the number of genes controlling a trait, using examples (one gene pair: Rh factor; two or more gene pairs: skin colour and height).",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.5k",
+          "description": "- Compare inheritance patterns for genes on sex chromosomes versus autosomes, as investigated by Morgan and others.",
+          "category": "knowledge",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C3.1k",
+          "description": "- Summarize the historical events leading to the discovery of the DNA molecule's structure, including the work of Franklin, Watson, and Crick.",
+          "category": "knowledge",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C3.2k",
+          "description": "- Describe, in general, how genetic information is encoded by the sequence of bases in DNA within chromosomes.\n- Describe, in general, how DNA molecules replicate.",
+          "category": "knowledge",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C3.3k",
+          "description": "- Describe, in general, how genetic information is transcribed into RNA base sequences and translated into protein amino acid sequences.",
+          "category": "knowledge",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C3.4k",
+          "description": "- Explain, in general, how restriction enzymes cut DNA molecules into fragments and how ligases reassemble them.",
+          "category": "knowledge",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C1.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of relevant questions, ideas, problems, and issues.\n- Define questions related to mitosis and meiosis (e.g., chromosome shortening, conditions/stimuli for meiosis, aging and mitosis, cytokinesis) (IP–NS1).",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.1sts",
+          "description": "- Explain that science and technology are developed to meet societal needs and expand human capability (SEC1).\n- Explain the role of mitosis and biotechnology in regenerating whole, damaged, or missing parts of organisms (e.g., stem cells, skin tissue).\n- Evaluate how knowledge of cell division and nanotechnology can be applied to regulate cancerous growth in plants or animals.\n- Assess how research in plant and animal reproduction informs understanding of mitosis and meiosis in humans (e.g., cloning, chromosome shortening).\n- Discuss types and sources of teratogenic compounds in the environment and the technological means to remove or control them to protect quality of life for future generations.",
+          "category": "sts",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.2s",
+          "description": "- Conduct investigations into relationships among observable variables using a broad range of tools and techniques to gather and record data.\n- Perform a simulation to demonstrate the behaviour of chromosomes during mitosis (PR–NS3).\n- Use a microscope and prepared onion root tip slides to identify stages of the cell cycle and calculate the duration of each stage (PR–NS3, AI–NS2).\n- Research and compare reproductive strategies (e.g., binary fission, budding, sexual and asexual phases of alternation of generations) and present them as charts, tables, or diagrams (PR–NS1, PR–NS4) [ICT C6–4.3].\n- Prepare microscope slides to demonstrate some stages of mitosis and meiosis (PR–NS2, PR–NS3, PR–NS4).",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Prepare and interpret models of human karyotypes using hard-copy or online resources (AI–NS2).\n- Analyze similarities and differences in cell division in plants and animals (AI–NS2) [ICT C7–4.2].",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.4k",
+          "description": "- Compare the processes of mitosis and meiosis.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.4s",
+          "description": "- Work collaboratively to address problems and apply scientific skills and conventions to communicate information and ideas and assess results.\n- Work collaboratively to prepare mitosis slides (CT–NS1).\n- Present two contrasting reproductive strategies, highlighting their differences (CT–ST2) [ICT C1–4.4].",
+          "category": "skills",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.5k",
+          "description": "- Describe the processes of crossing over and nondisjunction.\n- Evaluate their significance for inheritance and development in organisms.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.6k",
+          "description": "- Compare how fraternal and identical twins form during a single pregnancy.",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C1.7k",
+          "description": "- Describe the diversity of reproductive strategies by comparing the alternation of generations in organisms (e.g., Daphnia, sea anemone, moss, pine).",
+          "category": "knowledge",
+          "parent": "30-C1"
+        },
+        {
+          "code": "30-C2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations of questions, ideas, problems, and issues.\n- Design a plan for collecting data to demonstrate human inheritance (IP–NS2).",
+          "category": "skills",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.1sts",
+          "description": "- Explain that decisions about applying scientific and technological developments involve social, cultural, environmental, ethical, and economic perspectives (SEC4b) [ICT F2–4.2, F3–4.1].\n- Evaluate the needs and interests of society and the role of genetic counselling and technology in identifying and treating potentially disabling genetic disorders (such as phenylketonuria, cystic fibrosis, germ-cell modification).\n- Discuss the contributions of Aboriginal peoples to the development of early plant hybrids.\n- Discuss the application of genetic crosses in developing specific breeds or hybrids (such as wheat and corn).",
+          "category": "sts",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.2s",
+          "description": "- Conduct investigations into relationships between and among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Perform an experiment to demonstrate inheritance of a trait controlled by a single pair of genes (e.g., albino corn, Drosophila, Arabidopsis) (PR–NS2, PR–NS3, PR–NS4).\n- Design and perform an experiment to demonstrate that an environmental factor can cause a change in the expression of genetic information in an organism (IP–NS2, IP–NS3, IP–NS4, PR–NS3, PR–NS4, PR–NS5) [ICT F1–4.2].",
+          "category": "skills",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Interpret patterns of inheritance and predict, quantitatively, probabilities for monohybrid, dihybrid, and sex-linked traits using pedigrees and Punnett squares [ICT C7–4.2].\n- Perform experiments in genetic crosses to compare predicted phenotypic ratios with actual counts to show the role of chance, and identify limitations of phenotypic-ratio data in small populations where results may deviate from theoretical expectations (PR–NS2, PR–NS3, PR–NS4, AI–NS3, AI–NS4).\n- Draw and interpret pedigree charts for human single-allele and multiple-allele traits (e.g., hemophilia, blood types) (PR–NS4, AI–NS2) [ICT C7–4.2].\n- Analyze crossover data for a single chromosome pair to create a chromosome map showing gene arrangement and relative distances (AI–NS2) [ICT C7–4.2].",
+          "category": "skills",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C2.4s",
+          "description": "- Collaborate to address problems, applying the skills and conventions of science to communicate information and ideas and to assess results.\n- Work cooperatively with team members to investigate a monohybrid cross (tongue rolling, attached earlobes) and solve problems as they arise (CT–NS1, CT–NS2).",
+          "category": "skills",
+          "parent": "30-C2"
+        },
+        {
+          "code": "30-C3.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into questions, ideas, problems, and issues.\n- Design an experiment to identify the proteins produced in a cell at a particular time or developmental stage (IP–NS2, IP–NS3, IP–NS4).",
+          "category": "skills",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C3.1sts",
+          "description": "- Explain that science and technology have intended and unintended consequences for humans and the environment (SEC3) [ICT F3–4.1]\n- Discuss the societal implications of corporations being able to patent genes, such as the gene for herbicide resistance in canola\n- Assess the concerns and benefits of genetically modified organisms, such as transgenic food organisms or tree cloning for reforestation",
+          "category": "sts",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C3.2s",
+          "description": "- Conduct investigations into relationships among observable variables using a range of tools and techniques to gather and record data and information.\n- Construct models of DNA to demonstrate the general structure and base arrangement (PR–ST2) [ICT C6–4.4].\n- Perform simulations to demonstrate DNA replication, transcription, and translation, and the use of restriction enzymes and ligases (PR–NS2, PR–NS3, PR–NS4).\n- Perform an investigation to extract DNA from cells in green peas, beans, bananas, or onions (PR–NS2, PR–NS3, PR–NS4, PR–NS5).\n- Research gel electrophoresis techniques and their applications in medical diagnostics and forensics (PR–ST1).",
+          "category": "skills",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C3.2sts",
+          "description": "- Explain that scientific research and technological development help achieve a sustainable society, economy and environment (SEC4a) [ICT F2–4.2, F2–4.8].\n- Discuss the Human Genome Project and the potential of proteomic technologies in terms of the needs, interests and financial support of society.\n- Discuss biotechnology and gene replacement therapy in the treatment of human genetic disorders.\n- Assess the impact and value of DNA sequencing on the study of genetic relationships and variations in population ecology.\n- Explore the application of nanotechnology and its implications for clinical diagnostics, pharmacology, biological research or proteomic programs.",
+          "category": "sts",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C3.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Analyze published data to identify relationships between human activities and changes in genetic information that lead to heritable mutations and cancer (AI–NS2) [ICT C7–4.2].\n- Analyze DNA fingerprints (AI–NS2).\n- Compare and contrast homologous DNA sequences to infer species ancestry (AI–NS2).",
+          "category": "skills",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C3.4s",
+          "description": "- Work collaboratively to address problems, applying scientific skills and conventions to communicate information and ideas and assess results.\n- Work cooperatively with team members to investigate how an environmental factor affects the expression of a gene, solving problems as they arise (CT–NS1).\n- Debate the advantages and disadvantages of corporate funding and patenting of genetic research results, including Aboriginal and other perspectives of ownership (CT–SEC2, CT–SEC3) [ICT C1–4.4].",
+          "category": "skills",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C3.5k",
+          "description": "- Explain, in general, how cells can be transformed by inserting new DNA sequences into their genomes.",
+          "category": "knowledge",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C3.6k",
+          "description": "- Explain how random mutations in the base sequence can cause abnormalities or create genetic variation.",
+          "category": "knowledge",
+          "parent": "30-C3"
+        },
+        {
+          "code": "30-C3.7k",
+          "description": "- Explain how nucleotide base sequences in nucleic acids from the nucleus, mitochondrion, and chloroplast provide evidence for relationships among species.",
+          "category": "knowledge",
+          "parent": "30-C3"
+        }
+      ],
+      "topics": [
+        "Cell cycle (G1, S, G2, M phases)",
+        "Mitosis and cytokinesis",
+        "Meiosis I and II (reduction division)",
+        "Comparison of mitosis and meiosis",
+        "DNA structure and replication",
+        "Gene structure (promoters, coding sequences, introns, exons)",
+        "Transcription (mRNA synthesis)",
+        "RNA processing (splicing, capping, poly-A tail)",
+        "Translation (protein synthesis at ribosomes)",
+        "Genetic code and codons",
+        "Point mutations, frameshift mutations, chromosomal mutations",
+        "DNA repair mechanisms",
+        "Recombinant DNA technology",
+        "PCR, gel electrophoresis, DNA sequencing",
+        "CRISPR and gene editing",
+        "Applications of genetic engineering"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Molecular Structure of DNA",
+          "url": "https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/dna-and-rna-structure/v/molecular-structure-of-dna",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C1",
+            "30-C2",
+            "30-C3"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "L677-Fl0joY",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/L677-Fl0joY?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Mitosis, Meiosis and Sexual Reproduction",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/mitosis-meiosis-and-sexual-reproduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1",
+            "30-C2",
+            "30-C3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "video",
+          "title": "Translation (Protein Synthesis)",
+          "url": "https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/translation/v/translation-mrna-to-protein",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1",
+            "30-C2",
+            "30-C3"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "ocAAkB32Hqs",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/ocAAkB32Hqs?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Biotechnology (overview)",
+          "url": "https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/biotechnology/a/biotechnology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1",
+            "30-C2",
+            "30-C3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Introduction to Biotechnology Techniques",
+          "url": "https://openstax.org/books/biology-2e/pages/17-1-biotechnology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1",
+            "30-C2",
+            "30-C3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Basics of DNA Replication",
+          "url": "https://openstax.org/books/biology-2e/pages/14-3-basics-of-dna-replication",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1",
+            "30-C2",
+            "30-C3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "1.1: Mitosis and Meiosis",
+          "url": "https://bio.libretexts.org/Bookshelves/Genetics/Genetics_Agriculture_and_Biotechnology_(Suza_and_Lee)/01:_Chapters/1.01:_Mitosis_and_Meiosis",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1",
+            "30-C2",
+            "30-C3"
+          ],
+          "source": "LibreTexts",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "DNA Repair",
+          "url": "https://openstax.org/books/biology-2e/pages/14-6-dna-repair",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1",
+            "30-C2",
+            "30-C3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Transcription: From DNA to RNA",
+          "url": "https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/transcription-and-rna-processing/a/overview-of-transcription",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1",
+            "30-C2",
+            "30-C3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Dna Questions",
+          "url": "https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/dna-and-rna-structure/e/dna-questions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1",
+            "30-C2",
+            "30-C3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Mendelian Genetics Practice",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/mendelian-genetics-ap/e/mendelian-genetics-exercise",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1",
+            "30-C2",
+            "30-C3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Biology library",
+          "url": "https://www.khanacademy.org/science/biology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.1k",
+            "30-C1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Cells",
+          "url": "https://www.khanacademy.org/science/biology/structure-of-a-cell",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.1k",
+            "30-C1.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Cell",
+          "url": "https://openstax.org/books/biology-2e/pages/3-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.1k",
+            "30-C1.2s",
+            "30-C3.1s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Gene Expression",
+          "url": "https://phet.colorado.edu/en/simulations/gene-expression-essentials",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C1.2k",
+            "30-C3.3k",
+            "30-C1.6k",
+            "30-C2.2s",
+            "30-C3.1s",
+            "30-C3.1sts",
+            "30-C3.2s",
+            "30-C3.4s",
+            "30-C3.5k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Gene expression and regulation",
+          "url": "https://www.khanacademy.org/science/biology/gene-regulation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.2k",
+            "30-C3.3k",
+            "30-C2.2s",
+            "30-C3.1sts",
+            "30-C3.2s",
+            "30-C3.4s",
+            "30-C3.5k",
+            "30-C3.6k",
+            "30-C2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Gene",
+          "url": "https://openstax.org/books/biology-2e/pages/15-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.3k",
+            "30-C2.3k",
+            "30-C3.2k",
+            "30-C1.2s",
+            "30-C3.6k",
+            "30-C3.1sts",
+            "30-C3.4s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: DNA and RNA",
+          "url": "https://www.khanacademy.org/science/biology/dna-as-the-genetic-material",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C3.1k",
+            "30-C3.2k",
+            "30-C3.4k",
+            "30-C1.6k",
+            "30-C3.2s",
+            "30-C3.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Dna",
+          "url": "https://openstax.org/books/biology-2e/pages/14-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C3.1k",
+            "30-C3.2k",
+            "30-C3.4k",
+            "30-C3.2s",
+            "30-C3.5k"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ecology and ecosystems",
+          "url": "https://www.khanacademy.org/science/biology/ecology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Natural Selection",
+          "url": "https://phet.colorado.edu/en/simulations/natural-selection",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C3.3s"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Photosynthesis",
+          "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C3.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Sex determination and differentiation",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/chromosomal-basis-of-genetics/v/sex-linkage",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.1k",
+            "30-C2.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Gametogenesis - spermatogenesis and oogenesis",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/gametogenesis",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.1k",
+            "30-C2.3k",
+            "30-C2.5k",
+            "30-C1.1s",
+            "30-C1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Somatosensation",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/mechanoreceptors",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: The Eye",
+          "url": "https://www.youtube.com/watch?v=WQPE87BNd9w",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: The eye and vision",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/structure-of-the-eye",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: The Eye",
+          "url": "https://www.youtube.com/watch?v=o0DYP-u1rNM",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Visual phototransduction",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/phototransduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Reproductive system introduction",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/v/reproductive-system-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: The ear and hearing",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/the-ear",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C2.1sts",
+            "30-C2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Ecology - Community Ecology",
+          "url": "https://www.youtube.com/watch?v=0m3SF7S1RzM",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C3.2sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Male reproductive system",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/v/male-reproductive-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-C1.7k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Inheritance Patterns",
+          "url": "https://www.khanacademy.org/science/biology/heredity-and-genetics/inheritance-patterns/v/inheritance-patterns",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Inheritance patterns",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-inheritance-patterns/a/inheritance-patterns",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "libretexts",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "Patterns of Inheritance",
+          "url": "https://www.khanacademy.org/science/biology/heredity/patterns-of-inheritance",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Introduction to Punnett Squares",
+          "url": "https://www.khanacademy.org/science/biology/heredity-and-genetics/punnett-squares-and-inheritance/v/introduction-to-punnett-squares",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Mendelian Genetics",
+          "url": "https://www.khanacademy.org/science/biology/classical-genetics/inheritance-patterns/v/mendelian-genetics",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "ck12",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Crossing Over and Nondisjunction",
+          "url": "https://www.khanacademy.org/science/biology/heredity-and-genetics/advanced-genetics/crossing-over-and-nondisjunction/a/crossing-over-and-nondisjunction",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Meiosis (Crossing Over and Nondisjunction)",
+          "url": "https://www.youtube.com/watch?v=mrqEdmUOnus",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.5k"
+          ],
+          "source": "Bozeman Science",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "Phases of meiosis",
+          "url": "https://www.khanacademy.org/science/biology/heredity/meiosis/a/phases-of-meiosis",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "online",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Crossing Over, Genetic Recombination, and Linkage",
+          "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/a/crossing-over-genetic-recombination-and-linkage",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "Mechanisms of Genetic Inheritance",
+          "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/v/mechanisms-of-genetic-inheritance",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-C1.5k"
+          ],
+          "source": "Khan Academy",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Introduction to Heredity",
+          "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/v/introduction-to-heredity",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-C2.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "population-community-dynamics",
+      "title": "Population and Community Dynamics",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "30-D1",
+          "description": "- Describe a community as composed of populations whose individuals contribute to a gene pool that can change over time.",
+          "type": "general"
+        },
+        {
+          "code": "30-D2",
+          "description": "- Explain interactions among individuals within a population and between populations.",
+          "type": "general"
+        },
+        {
+          "code": "30-D3",
+          "description": "- Explain population changes over time quantitatively.",
+          "type": "general"
+        },
+        {
+          "code": "30-D1.1k",
+          "description": "- Describe the Hardy–Weinberg principle and explain its significance for population gene-pool stability and for interpreting deviations from equilibrium.",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.2k",
+          "description": "- Describe factors that change gene pool diversity: natural selection, genetic drift, gene flow, nonrandom mating, bottleneck effect, founder effect, migration, and mutation.",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.3k",
+          "description": "- Apply the Hardy–Weinberg principle quantitatively to calculate allele and genotype frequencies from observed or published data using p + q = 1 and p^2 + 2pq + q^2 = 1.",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.4k",
+          "description": "- Describe the molecular basis of gene-pool change and its significance over time, including mutations and natural selection, with examples such as drug-resistant bacteria and herbicide-resistant plants.",
+          "category": "knowledge",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D2.1k",
+          "description": "- Describe the basis of species interactions and symbiotic relationships and describe the influence of these interactions on population changes\n- I.e.,\n- Predator-prey and producer-consumer relationships\n- Symbiotic relationships: commensalism, mutualism and parasitism\n- Interspecific and intraspecific competition",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.2k",
+          "description": "- Explain the role of defence mechanisms in predation and competition (e.g., mimicry, protective coloration, toxins, behaviour).",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.3k",
+          "description": "- Explain how mixtures of populations within communities change over time or persist as a climax community, including primary and secondary succession.",
+          "category": "knowledge",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D3.1k",
+          "description": "- Describe and explain, quantitatively, how mortality, natality, immigration, and emigration influence population growth.\n- Calculate change in population size using ΔN = [natality + immigration] – [mortality + emigration].",
+          "category": "knowledge",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.2k",
+          "description": "- Describe population growth using the relationships among carrying capacity, biotic potential, environmental resistance, and the number of individuals (N).\n- Calculate growth rate (gr = ΔN/Δt), per capita growth rate (cgr = ΔN/N), and population density (Dp = N/A or N/V), where ΔN is the change in individuals, Δt is the change in time, A is area, and V is volume.",
+          "category": "knowledge",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.3k",
+          "description": "- Explain logistic (S-shaped) and exponential (J-shaped) population growth patterns.\n- Explain open and closed populations.",
+          "category": "knowledge",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.4k",
+          "description": "- Describe the characteristics and reproductive strategies of r-selected and K-selected organisms.",
+          "category": "knowledge",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D1.1s",
+          "description": "- Formulate questions about observed relationships, and plan investigations of related questions, ideas, problems, and issues.\n- Identify a question about bacterial resistance to specific antibiotics or plant resistance to specific herbicides (IP–NS1).",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.1sts",
+          "description": "- Explain that science and technology have both intended and unintended consequences for humans and the environment (SEC3) [ICT F3–4.1].\n- Discuss the introduction of exotic species into new ecosystems.\n- Discuss the development of ecological reserves to preserve gene-pool diversity and investigate the role of gene banks in preserving endangered species and genotypes, particularly of plants and animals used in agriculture.\n- Assess the bottleneck effect in small populations (e.g., whooping crane and swift fox) and suggest strategies to counteract it.\n- Assess habitat loss and society’s responsibility to protect the environment for future generations.",
+          "category": "sts",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.2s",
+          "description": "- Conduct investigations into relationships between and among observable variables, using a broad range of tools and techniques to gather and record data and information.\n- Design and perform an investigation and/or a computer simulation to demonstrate population growth and gene-pool change (IP–NS2, IP–NS3, IP–NS4, PR–NS3, PR–NS4, PR–NS5) [ICT C6–4.4, F1–4.2].\n- Research, integrate, and synthesize information on a related topic, such as the development and persistence of deleterious genes in gene pools or the development of bacterial resistance to antibiotics (PR–NS1) [ICT C7–4.2].",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.2sts",
+          "description": "- Explain how concepts, models, and theories are used to interpret observations and predict future observations (NS6a).\n- Assess the role and importance of models in ecology, such as the Hardy-Weinberg principle, in explaining scientific phenomena such as changes in gene frequencies.",
+          "category": "sts",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess possible solutions.\n- Calculate and interpret results based on the Hardy-Weinberg principle in problem-solving exercises (AI–NS6) [ICT C6–4.1].",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D1.4s",
+          "description": "- Work collaboratively to address problems and apply scientific skills and conventions to communicate information and ideas and assess results.\n- Use appropriate notation and significant digits to show gene frequency and changes in gene frequency over time (CT–NS2).",
+          "category": "skills",
+          "parent": "30-D1"
+        },
+        {
+          "code": "30-D2.1s",
+          "description": "- Formulate questions about observed relationships and plan investigations into related questions, ideas, problems, and issues.\n- Plan an investigation of species interaction in a national park or wilderness area (IP–NS2, IP–NS3).",
+          "category": "skills",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.1sts",
+          "description": "- Explain why Canadian society supports scientific research and technological development to facilitate a sustainable society, economy, and environment (SEC4a) [ICT F2–4.2, F2–4.8].\n- Discuss public support for scientific work on predator–prey relationships in wildlife management in national and provincial parks.\n- Identify examples of wildlife management techniques used by Aboriginal peoples.\n- Assess the long-term implications of fire control and prevention on population and ecosystem stability, diversity, and productivity.\n- Assess the impact of parasites on populations and ways to reduce this impact.",
+          "category": "sts",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.2s",
+          "description": "- Investigate relationships between and among observable variables using a broad range of tools and techniques to gather and record data and information.\n- Design and perform an experiment or simulation to demonstrate interspecific and intraspecific competition (IP–NS2, IP–NS3, IP–NS4, PR–NS3, PR–NS4, PR–NS5).\n- Design and perform an experiment to demonstrate succession in a micro-environment, and record the pattern of succession over time (IP–NS2, IP–NS3, IP–NS4, PR–NS3, PR–NS4, PR–NS5).\n- Perform simulations to investigate predator–prey relationships (PR–NS2, PR–NS3, PR–NS4).",
+          "category": "skills",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and evaluate solutions.\n- Summarize and evaluate a symbiotic relationship (PR–NS1, AI–NS6).\n- Research and analyze the effects of clearcutting versus selective logging practices on ecosystems (PR–SEC1, AI–SEC2).",
+          "category": "skills",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D2.4s",
+          "description": "- Work collaboratively to address problems, using scientific skills and conventions to communicate ideas and assess results.\n- Research and present practical solutions for reducing the impact of highway fencing on animals in Banff and Jasper National Parks (CT–SEC1, CT–SEC2) [ICT C1–4.4].\n- Develop, present, and defend a position on whether organisms should be deliberately introduced into new environments (CT–SEC1, CT–SEC2) [ICT C1–4.4, C7–4.2].\n- Research and present characteristics of interrelationships between organisms for analysis by classmates (CT–SEC1, CT–SEC2) [ICT C1–4.4, C7–4.2].",
+          "category": "skills",
+          "parent": "30-D2"
+        },
+        {
+          "code": "30-D3.1s",
+          "description": "- Formulate questions about observed relationships.\n- Plan investigations of questions, ideas, problems, and issues.\n- Identify questions about factors that affect population growth rates (IP–NS1).",
+          "category": "skills",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.1sts",
+          "description": "- Explain how concepts, models, and theories are used to interpret and explain observations and to predict future observations (NS6a).\n- Develop appropriate investigative strategies, such as risk-benefit or cost-benefit analyses, for analyzing biological issues.\n- Compare human population growth with that of other species.",
+          "category": "sts",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.2s",
+          "description": "- Investigate relationships among observable variables using a range of tools and techniques to gather and record data.\n- Design and perform an experiment or computer simulation to demonstrate the effect of environmental factors on population growth rate (IP–NS2, IP–NS3, IP–NS4, PR–NS3, PR–NS4) [ICT C6–4.4, F1–4.2].\n- Monitor a paramecium population over time using a microscope and a grid slide (PR–NS2, PR–NS3, PR–NS4, PR–NS5).\n- Research zebra mussel population growth in the Great Lakes (PR–NS1, PR–NS4).\n- Research the impact of introduced trout species on populations of native bull trout (Salvelinus confluentus) in Alberta’s lakes and streams (PR–NS1).",
+          "category": "skills",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.3s",
+          "description": "- Analyze data and apply mathematical and conceptual models to develop and assess solutions.\n- Graph and interpret population growth of r-selected and K-selected organisms (AI–NS2) [ICT C7–4.2].\n- Calculate and interpret changes in population size, growth rate, per capita growth rate, and population density; calculate growth rate under ideal conditions given specific parameters (AI–NS2, AI–NS3, AI–NS4).\n- Demonstrate and assess the effects of biotic potential and environmental resistance on population growth curves; generalize closed-population growth from data (AI–NS2, AI–NS6).\n- Compare and evaluate human population growth rates across countries, and explain limitations in detecting population changes and how traditional knowledge contributes (AI–NS2, AI–NS4) [ICT C7–4.2].",
+          "category": "skills",
+          "parent": "30-D3"
+        },
+        {
+          "code": "30-D3.4s",
+          "description": "- Work collaboratively to address problems, applying the skills and conventions of science to communicate information and ideas and assess results.\n- Develop, present, and defend a position on Earth’s carrying capacity of Homo sapiens (CT–SEC1, CT–SEC2, CT–SEC3) [ICT C1–4.4, C7–4.2].",
+          "category": "skills",
+          "parent": "30-D3"
+        }
+      ],
+      "topics": [
+        "Population genetics and allele frequencies",
+        "Hardy-Weinberg principle and equilibrium",
+        "Conditions for Hardy-Weinberg equilibrium",
+        "Microevolution and macroevolution",
+        "Natural selection (directional, stabilizing, disruptive)",
+        "Genetic drift and gene flow",
+        "Mutation as source of variation",
+        "Speciation (allopatric and sympatric)",
+        "Reproductive isolation mechanisms",
+        "Evidence for evolution (fossil record, comparative anatomy, molecular biology)",
+        "Phylogenetic trees and cladograms",
+        "Community interactions (competition, predation, mutualism)",
+        "Ecological succession",
+        "Biodiversity and conservation"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Evolution and Natural Selection",
+          "url": "https://www.khanacademy.org/science/ap-biology/natural-selection/natural-selection-ap/v/introduction-to-evolution-and-natural-selection",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2",
+            "30-D3"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "GcjgWov7mTM",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/GcjgWov7mTM?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Natural Selection",
+          "url": "https://www.khanacademy.org/science/ap-biology/natural-selection/natural-selection-ap/v/natural-selection-and-the-owl-butterfly",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2",
+            "30-D3"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "dR_BFmDMRaI",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/dR_BFmDMRaI?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Community Ecology",
+          "url": "https://openstax.org/books/biology-2e/pages/45-6-community-ecology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2",
+            "30-D3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Reconnection and Speciation Rates",
+          "url": "https://openstax.org/books/biology-2e/pages/18-3-reconnection-and-speciation-rates",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2",
+            "30-D3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Hardy-Weinberg Equilibrium",
+          "url": "https://www.khanacademy.org/science/ap-biology/natural-selection/population-genetics/a/hardy-weinberg-equilibrium",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2",
+            "30-D3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Population Dynamics and Regulation",
+          "url": "https://openstax.org/books/biology-2e/pages/45-4-population-dynamics-and-regulation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2",
+            "30-D3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Population genetics",
+          "url": "https://www.khanacademy.org/science/biology/heredity/population-genetics/a/population-genetics",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2",
+            "30-D3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Population genetics (Hardy-Weinberg)",
+          "url": "https://www.khanacademy.org/science/biology/heredity/population-genetics/a/hardy-weinberg-principle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2",
+            "30-D3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Formation of New Species",
+          "url": "https://openstax.org/books/biology-2e/pages/18-2-formation-of-new-species",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2",
+            "30-D3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Hardy-Weinberg Practice Problems",
+          "url": "https://www.khanacademy.org/science/ap-biology/natural-selection/population-genetics/e/hardy-weinberg",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1",
+            "30-D2",
+            "30-D3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Gene expression and regulation",
+          "url": "https://www.khanacademy.org/science/biology/gene-regulation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.1k",
+            "30-D1.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Gene Expression",
+          "url": "https://phet.colorado.edu/en/simulations/gene-expression-essentials",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D1.1k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Gene",
+          "url": "https://openstax.org/books/biology-2e/pages/15-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.1k",
+            "30-D1.1sts",
+            "30-D1.4s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ecology and ecosystems",
+          "url": "https://www.khanacademy.org/science/biology/ecology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.1k",
+            "30-D3.1k",
+            "30-D3.2k",
+            "30-D3.3k",
+            "30-D1.1sts",
+            "30-D3.1s",
+            "30-D3.1sts",
+            "30-D3.2s",
+            "30-D3.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Khan Academy: Biology library",
+          "url": "https://www.khanacademy.org/science/biology",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "PhET: Natural Selection",
+          "url": "https://phet.colorado.edu/en/simulations/natural-selection",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D1.2k",
+            "30-D1.4k"
+          ],
+          "source": "PhET",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Natural selection and evolution",
+          "url": "https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.2k",
+            "30-D1.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Population",
+          "url": "https://openstax.org/books/biology-2e/pages/45-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.1k",
+            "30-D3.1k",
+            "30-D3.2k",
+            "30-D3.3k",
+            "30-D1.1sts",
+            "30-D3.1s",
+            "30-D3.1sts",
+            "30-D3.2s",
+            "30-D3.3s"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Ecology - Community Ecology",
+          "url": "https://www.youtube.com/watch?v=0m3SF7S1RzM",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.3k",
+            "30-D1.1sts",
+            "30-D3.3s",
+            "30-D3.1s",
+            "30-D3.1sts",
+            "30-D3.2s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Reproductive system introduction",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/v/reproductive-system-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D3.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: The Eye",
+          "url": "https://www.youtube.com/watch?v=WQPE87BNd9w",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D3.4k",
+            "30-D2.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Male reproductive system",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/v/male-reproductive-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D3.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Female reproductive system",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/v/female-reproductive-system",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D3.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: The ear and hearing",
+          "url": "https://www.khanacademy.org/science/biology/sensory-and-motor-mechanisms/sensory-perception/v/the-ear",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.2s",
+            "30-D2.4s",
+            "30-D3.4s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Ecological pyramids",
+          "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/energy-flow-through-ecosystems/v/ecological-pyramids",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: Bozeman: Energy Flow in Ecosystems",
+          "url": "https://www.youtube.com/watch?v=FHW2mOzZQCg",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Reproductive System",
+          "url": "https://www.youtube.com/watch?v=RFDatCchpus",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D3.4k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Khan Academy: CrashCourse: Ecology - Energy Flow",
+          "url": "https://www.youtube.com/watch?v=RS7P5JCzVSc",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.1sts"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "OpenStax Biology - Ecology",
+          "url": "https://openstax.org/books/biology-2e/pages/44-introduction",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.2sts"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Hardy-Weinberg Principle",
+          "url": "https://www.khanacademy.org/science/biology/heredity-and-genetics/hardy-weinberg-principle/v/hardy-weinberg-principle",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Hardy-Weinberg Principle",
+          "url": "https://www.khanacademy.org/science/biology/ecology/population-genetics/v/hardy-weinberg-principle",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "online",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Hardy-Weinberg Principle",
+          "url": "https://www.khanacademy.org/science/biology/heredity-and-genetics/population-genetics/hardy-weinberg-principle/v/hardy-weinberg-principle",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "online",
+          "embeddable": false
+        },
+        {
+          "type": "simulation",
+          "title": "Hardy-Weinberg Principle",
+          "url": "https://www.khanacademy.org/science/biology/heredity/intro-to-genetics/hardy-weinberg-principle/v/hardy-weinberg-principle",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "phet",
+          "embeddable": true
+        },
+        {
+          "type": "article",
+          "title": "The Hardy-Weinberg Equation",
+          "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/a/the-hardy-weinberg-equation",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D1.3k"
+          ],
+          "source": "Khan Academy",
+          "provider": "libretexts",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Mimicry and Protective Coloration",
+          "url": "https://www.khanacademy.org/science/biology/ecology/animal-behavior/mimicry-and-coloration/a/mimicry-and-protective-coloration",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Defense Mechanisms: Toxins, Mimicry, and More",
+          "url": "https://www.youtube.com/watch?v=se_07PZsWfo",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D2.2k"
+          ],
+          "source": "CrashCourse",
+          "provider": "youtube",
+          "embeddable": true
+        },
+        {
+          "type": "simulation",
+          "title": "Adaptations, Predation, and Competition",
+          "url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecology/a/adaptations-predation-and-competition",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "online",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Predation and Herbivory",
+          "url": "https://www.khanacademy.org/science/biology/ecology/community-ecosystem-ecology/a/predation-and-herbivory",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "libretexts",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Understanding Mimicry in Animals",
+          "url": "https://www.khanacademy.org/science/biology/animal-structure-and-function/mimicry-and-adaptation/v/mimicry",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "30-D2.2k"
+          ],
+          "source": "Khan Academy",
+          "provider": "ted-ed",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Natural Selection and Selective Pressure",
+          "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/v/natural-selection",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Hardy-Weinberg Principle",
+          "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/v/hardy-weinberg-principle",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D1.3s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Community Ecology Introduction",
+          "url": "https://www.khanacademy.org/science/biology/ecology/community-structure-and-diversity/v/community-ecology-introduction",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "30-D2.1s"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Population Ecology: Predators, Prey, and Competition",
+          "url": "https://www.youtube.com/watch?v=FQ6itF7Kv6c",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "30-D2.2s"
+          ],
+          "source": "CrashCourse Biology",
+          "provider": "youtube",
+          "embeddable": true
+        }
+      ]
+    }
+  ]
+}

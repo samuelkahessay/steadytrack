@@ -1,0 +1,579 @@
+{
+  "subject": "Math 30-1",
+  "grade": 12,
+  "albertaDocs": [
+    {
+      "title": "Mathematics 30-1 Standards",
+      "url": "https://education.alberta.ca/media/564033/mathematics-30-1-standards.pdf"
+    },
+    {
+      "title": "Mathematics 10-12 Program of Studies",
+      "url": "https://education.alberta.ca/media/564028/math10to12.pdf"
+    }
+  ],
+  "units": [
+    {
+      "id": "m30_transformations",
+      "title": "Transformations",
+      "topics": [
+        "Horizontal and vertical translations",
+        "Reflections across axes",
+        "Vertical and horizontal stretches",
+        "Combinations of transformations",
+        "Mapping notation"
+      ],
+      "estimatedHours": 5,
+      "outcomes": [
+        {
+          "code": "RF1",
+          "description": "- Explain how horizontal and vertical translations affect function graphs and their equations.",
+          "strand": "Relations and Functions"
+        },
+        {
+          "code": "RF2",
+          "description": "- Explain the effects of horizontal and vertical stretches on function graphs and their equations.",
+          "strand": "Relations and Functions"
+        },
+        {
+          "code": "RF10",
+          "description": "- Factor polynomials of degree 3-5 with integral coefficients.",
+          "type": "general"
+        },
+        {
+          "code": "RF11",
+          "description": "- Graph and analyze polynomial functions (limited to polynomial functions of degree ≤ 5).",
+          "type": "general"
+        },
+        {
+          "code": "RF12",
+          "description": "- Graph and analyze radical functions (limited to functions involving one radical).",
+          "type": "general"
+        },
+        {
+          "code": "RF13",
+          "description": "- Graph and analyze rational functions with monomial, binomial, or trinomial numerators and denominators.",
+          "type": "general"
+        },
+        {
+          "code": "RF5",
+          "description": "- Explain inverses of relations.",
+          "type": "general"
+        }
+      ],
+      "resources": [
+        {
+          "type": "practice",
+          "title": "Reflect Functions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:transformations/x2ec2f6f830c9fb89:reflect-functions/e/reflect-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF1",
+            "RF2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Scale Functions Vertically",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:transformations/x2ec2f6f830c9fb89:scale-functions-vertically/e/scale-functions-vertically",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF1",
+            "RF2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Shift Functions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:transformations/x2ec2f6f830c9fb89:shift-functions/e/shift-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF1",
+            "RF2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Polynomial Functions - College Algebra 2e",
+          "url": "https://openstax.org/books/college-algebra-2e/pages/5-introduction-to-polynomial-and-rational-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF10",
+            "RF11"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Graphing Polynomial Functions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-graphs/x2ec2f6f830c9fb89:poly-end-behavior/v/polynomial-end-behavior",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF11"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Graphing Radical Functions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:radical-eq-func/x2ec2f6f830c9fb89:graphs-of-rad-func/v/graphing-square-root-function",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF12"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Radical Functions - Algebra and Trigonometry 2e",
+          "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-3-radicals-and-rational-exponents",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF12"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Graphs of Square and Cube Root Functions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:radical-eq-func/x2ec2f6f830c9fb89:graphs-of-rad-func/e/graphs-of-square-and-cube-root-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF12"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Graphing Rational Functions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:rational/x2ec2f6f830c9fb89:graphs-of-rational-functions/v/graphs-of-rational-functions-y-intercept",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF13"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Rational Functions - College Algebra 2e",
+          "url": "https://openstax.org/books/college-algebra-2e/pages/5-6-rational-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF13"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Graphs of Rational Functions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:rational/x2ec2f6f830c9fb89:graphs-of-rational-functions/e/graphs-of-rational-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF13"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Introduction to Function Inverses",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:func/x2ec2f6f830c9fb89:invert-func/v/introduction-to-function-inverses",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF5"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Inverse Functions - College Algebra 2e",
+          "url": "https://openstax.org/books/college-algebra-2e/pages/3-7-inverse-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF5"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "m30_rational_functions",
+      "title": "Rational Functions",
+      "topics": [
+        "Graphing rational functions",
+        "Vertical and horizontal asymptotes",
+        "Domain and range",
+        "End behavior",
+        "Solving rational inequalities"
+      ],
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "RF3",
+          "description": "- Apply translations and stretches to the graphs and equations of functions.",
+          "strand": "Relations and Functions"
+        },
+        {
+          "code": "RF4",
+          "description": "- Explain how reflections across the x-axis, y-axis, and line y = x affect a function’s graph and equation.",
+          "strand": "Relations and Functions"
+        }
+      ],
+      "resources": [
+        {
+          "type": "article",
+          "title": "Graphs of Rational Functions",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:rational-functions/x9e81a4f98389efdf:graphs-of-rational-functions/a/graphs-of-rational-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF3",
+            "RF4"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Rational Functions - Algebra and Trigonometry 2e",
+          "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/5-6-rational-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF3",
+            "RF4"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "m30_logarithms",
+      "title": "Logarithmic Functions",
+      "topics": [
+        "Laws of logarithms (product, quotient, power)",
+        "Change of base formula",
+        "Solving exponential equations",
+        "Solving logarithmic equations",
+        "Applications in growth and decay"
+      ],
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "RF6",
+          "description": "- Explain logarithms.",
+          "type": "general"
+        },
+        {
+          "code": "RF7",
+          "description": "- Apply the product, quotient, and power laws of logarithms.",
+          "type": "general"
+        },
+        {
+          "code": "RF8",
+          "description": "- Graph and analyze exponential and logarithmic functions.",
+          "type": "general"
+        },
+        {
+          "code": "RF9",
+          "description": "- Solve problems that involve exponential and logarithmic equations.",
+          "type": "general"
+        }
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Introduction to Logarithms",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:logs/x2ec2f6f830c9fb89:log-intro/v/logarithms",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF6",
+            "RF7",
+            "RF8",
+            "RF9"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "Z5myJ8dg_rM",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/Z5myJ8dg_rM?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Graphs of Logarithmic Functions - Algebra and Trigonometry 2e",
+          "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/6-4-graphs-of-logarithmic-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF8"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Properties of Logarithms",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:logs/x2ec2f6f830c9fb89:log-prop/a/properties-of-logarithms",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF6",
+            "RF7"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "m30_trigonometry",
+      "title": "Trigonometric Functions",
+      "topics": [
+        "Unit circle and radian measure",
+        "Graphing sine, cosine, and tangent",
+        "Amplitude, period, phase shift",
+        "Trigonometric identities (Pythagorean, sum/difference)",
+        "Solving trigonometric equations"
+      ],
+      "estimatedHours": 7,
+      "outcomes": [],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Unit Circle Definition Trig Functions",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:trig/x9e81a4f98389efdf:unit-circle/v/unit-circle-definition-of-trig-functions-1",
+          "difficulty": "beginner",
+          "alignedOutcomes": [],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "1m9p9iubMLU",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/1m9p9iubMLU?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Angles Algebra Trigonometry",
+          "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/7-1-angles",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "m30_permutations",
+      "title": "Permutations & Combinations",
+      "topics": [
+        "Fundamental counting principle",
+        "Permutations with and without repetition",
+        "Combinations",
+        "Factorial notation",
+        "Problem-solving with counting"
+      ],
+      "estimatedHours": 5,
+      "outcomes": [
+        {
+          "code": "PCB1",
+          "description": "- Determine the number of permutations of n elements taken r at a time to solve problems.",
+          "type": "general"
+        },
+        {
+          "code": "PCB2",
+          "description": "- Determine the number of combinations of n distinct elements taken r at a time to solve problems.",
+          "type": "general"
+        }
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Counting Principle and Factorial",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/factorial-and-counting-seat-arrangements",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "PCB1",
+            "PCB2"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "eoxbgUIYhHo",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/eoxbgUIYhHo?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Understanding Combinations in Math",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/a/combinations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "PCB2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Mastering Permutations in Math",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/a/permutations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "PCB1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Combination Formula",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/e/combination-formula",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "PCB2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Permutation Formula",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/e/permutation-formula",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "PCB1"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "reference",
+          "title": "Counting Principles - Precalculus 2e",
+          "url": "https://openstax.org/books/precalculus-2e/pages/11-5-counting-principles",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "PCB1",
+            "PCB2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "m30_binomial_theorem",
+      "title": "Binomial Theorem",
+      "topics": [
+        "Pascal's triangle",
+        "Binomial expansion (a + b)^n",
+        "General term in binomial expansion",
+        "Binomial coefficients",
+        "Applications of binomial theorem"
+      ],
+      "estimatedHours": 5,
+      "outcomes": [
+        {
+          "code": "PCB3",
+          "description": "- Expand powers of a binomial in a variety of ways, including using the binomial theorem (restricted to exponents that are natural numbers).",
+          "type": "general"
+        }
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Introduction to the Binomial Theorem",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:binomial-theorem-precalc/v/binomial-theorem",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "PCB3"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "iPwrDWQ7hPc",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/iPwrDWQ7hPc?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Binomial Theorem - Precalculus 2e",
+          "url": "https://openstax.org/books/precalculus-2e/pages/11-6-binomial-theorem",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "PCB3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Binomial Theorem",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:binomial-theorem-precalc/a/binomial-theorem",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "PCB3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Expand Binomials",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:binomial-theorem-precalc/e/expand-binomials",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "PCB3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Finding Terms Binomial Expansion",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:binomial-theorem-precalc/e/finding-terms-in-binomial-expansion",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "PCB3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "SteadyTrack - Stay On Track",
+  "short_name": "SteadyTrack",
+  "description": "Track your progress, build momentum, and stay on track with curriculum-aligned study plans for Alberta students.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-icon",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"]
+}

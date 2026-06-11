@@ -1,0 +1,760 @@
+{
+  "subject": "Mathematics 20-1",
+  "grade": 11,
+  "albertaDocs": [
+    {
+      "title": "Mathematics 20-1 Standards",
+      "url": "https://education.alberta.ca/media/564034/mathematics-20-1-standards.pdf"
+    },
+    {
+      "title": "Mathematics 10-12 Program of Studies",
+      "url": "https://education.alberta.ca/media/564028/math10to12.pdf"
+    }
+  ],
+  "units": [
+    {
+      "id": "quadratic-functions",
+      "title": "Quadratic Functions & Transformations",
+      "estimatedHours": 6,
+      "outcomes": [
+        {
+          "code": "RF1",
+          "description": "- It is expected that students will: 1. Factor polynomial expressions of the form: ax2 + bx + c, a ≠ 0\n- A2x2 – b2y2, a ≠ 0, b ≠ 0\n- A(f(x))2 + b(f(x)) + c, a ≠ 0\n- A2(f(x))2 – b2(g(y))2, a ≠ 0, b ≠ 0\n- Where a, b and c are rational numbers. Notes",
+          "strand": "Relations and Functions"
+        },
+        {
+          "code": "RF3",
+          "description": "- It is expected that students will: 3. Analyze quadratic functions of the form y = a(x – p)2 + q and determine the\n- Vertex\n- Domain and range\n- Direction of opening\n- Axis of symmetry",
+          "strand": "Relations and Functions"
+        },
+        {
+          "code": "RF4",
+          "description": "- It is expected that students will: 4. Analyze quadratic functions of the form y = ax2 + bx + c to identify characteristics of the corresponding graph, including\n- Vertex\n- Domain and range\n- Direction of opening\n- Axis of symmetry",
+          "strand": "Relations and Functions"
+        },
+        {
+          "code": "RF5",
+          "description": "- Solve problems that involve quadratic equations. [ICT: C6–4.1]",
+          "strand": "Relations and Functions"
+        },
+        {
+          "code": "RF11",
+          "description": "- Graph and analyze the reciprocals of linear and quadratic functions. [ICT: C6–4.1, C6–4.3]\n- Compare the graphs of y = f(x) and y = 1/f(x).\n- Identify x-values where y = 1/f(x) has vertical asymptotes and relate them to the non-permissible values of the related rational expression.\n- Graph y = 1/f(x) from a given linear or quadratic y = f(x), and graph y = f(x) from a given reciprocal graph; explain the strategies used.",
+          "type": "general"
+        },
+        {
+          "code": "RF2",
+          "description": "- Graph and analyze absolute value functions (limited to linear and quadratic functions) to solve problems. [ICT: C6–4.1, C6–4.3]",
+          "type": "general"
+        },
+        {
+          "code": "RF6",
+          "description": "- Model situations using systems of linear–quadratic or quadratic–quadratic equations in two variables.\n- Relate a given system to its problem context.\n- Determine and verify solutions for such systems algebraically and graphically (with technology). [ICT: C6–4.1, C6–4.4]\n- Explain the meaning of points of intersection and why such systems may have zero, one, two, or infinitely many solutions.\n- Solve problems involving these systems and justify the strategy used.",
+          "type": "general"
+        },
+        {
+          "code": "RF7",
+          "description": "- Solve problems that involve linear and quadratic inequalities in two variables, excluding systems of linear inequalities. [ICT: C6–4.1, C6–4.3]\n- Use test points to determine the solution region of an inequality.\n- Explain when to use a solid versus a broken boundary line.\n- Sketch the graph of a linear or quadratic inequality, with or without technology.\n- Create an inequality to model a given problem, and solve and interpret the result.",
+          "type": "general"
+        },
+        {
+          "code": "RF8",
+          "description": "- Solve problems that involve quadratic inequalities in one variable.\n- 1 Determine the solution of a quadratic inequality in one variable using strategies such as sign analysis, case analysis, graphing, or roots and test points, and explain the strategy used.\n- 2 Represent and solve a problem that involves a quadratic inequality in one variable.\n- 3 Interpret the solution to a problem that involves a quadratic inequality in one variable.",
+          "type": "general"
+        }
+      ],
+      "topics": [
+        "Quadratic functions in standard, vertex, and factored form",
+        "Transformations of quadratic functions",
+        "Graphing parabolas",
+        "Completing the square",
+        "Solving quadratic equations",
+        "The quadratic formula",
+        "Applications of quadratic functions"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Shifting Scaling Parabolas",
+          "url": "https://www.khanacademy.org/math/math2/xe2ae2386aa2e13d6:quad-2/xe2ae2386aa2e13d6:quad-trans/v/shifting-and-scaling-parabolas",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF1",
+            "RF3",
+            "RF4",
+            "RF5"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "99v51U3HSCU",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/99v51U3HSCU?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Quadratic Formula",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/v/using-the-quadratic-formula",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF1",
+            "RF3",
+            "RF4",
+            "RF5"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "i7idZfS8t8w",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/i7idZfS8t8w?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Quadratic Functions - Algebra and Trigonometry 2e",
+          "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/5-1-quadratic-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF1",
+            "RF3",
+            "RF4",
+            "RF5"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Completing the Square",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:completing-the-square/e/completing_the_square_1",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF1",
+            "RF3",
+            "RF4",
+            "RF5"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Factoring Quadratics Practice",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:more-on-factoring-quadratics/e/factoring_quadratics_2",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF1",
+            "RF3",
+            "RF4",
+            "RF5"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Shift parabolas practice",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:transform-quadratic-functions/e/shift-parabolas",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF1",
+            "RF3",
+            "RF4",
+            "RF5"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Graphing Absolute Value Functions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:abs-value/x2ec2f6f830c9fb89:abs-value-graphs/v/graphing-absolute-value-functions",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Absolute Value Functions - College Algebra 2e",
+          "url": "https://openstax.org/books/college-algebra-2e/pages/3-6-absolute-value-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF2"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Graph Absolute Value Functions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:abs-value/x2ec2f6f830c9fb89:abs-value-graphs/e/graphs-of-absolute-value-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF2"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Systems of Linear and Quadratic Equations",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:systems-word-problems/v/solving-systems-by-graphing",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF6"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Systems of Equations",
+          "url": "https://www.khanacademy.org/math/algebra2/x2f8bb11595b61c86e2c5b7f11fb9a5fdccba60e/algebra2-systems-of-equations/x2f8bb11595b61c86e2c5b7f11fb9a5fdccba60e/v/introduction-to-systems-of-equations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF6"
+          ],
+          "source": "Khan Academy",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Solve Systems Graphically",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-graphically/e/systems_of_equations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF6"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Graphing Two-Variable Inequalities",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:two-variable-inequalities/v/graphing-inequalities",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF7"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Linear and Quadratic Inequalities - Algebra and Trigonometry 2e",
+          "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/2-7-linear-inequalities-and-absolute-value-inequalities",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF7"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Graph Two-Variable Inequalities",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:linear-equations-graphs/x2f8bb11595b61c86:two-variable-inequalities/e/graphing_inequalities",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF7"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Quadratic Inequalities",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/v/quadratic-inequalities",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF8"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Quadratic Inequalities - College Algebra 2e",
+          "url": "https://openstax.org/books/college-algebra-2e/pages/5-8-modeling-using-variation",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF8"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Solve Quadratic Inequalities",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:quad/x2ec2f6f830c9fb89:quad-formula/e/quadratic-inequalities",
+          "difficulty": "advanced",
+          "alignedOutcomes": [
+            "RF8"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "video",
+          "title": "Graphing Reciprocal Functions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:rational/x2ec2f6f830c9fb89:graphs-of-rational-functions/v/graphing-simple-rational-function",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF11"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Rational Functions and Asymptotes - College Algebra 2e",
+          "url": "https://openstax.org/books/college-algebra-2e/pages/5-6-rational-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF11"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Reciprocal Functions Practice",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:rational/x2ec2f6f830c9fb89:graphs-of-rational-functions/e/graphs-of-rational-functions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF11"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "rational-expressions",
+      "title": "Rational Expressions & Equations",
+      "estimatedHours": 5,
+      "outcomes": [
+        {
+          "code": "A4",
+          "description": "- Determine equivalent forms of rational expressions with monomial, binomial, or trinomial numerators and denominators.",
+          "strand": "Algebra and Number"
+        },
+        {
+          "code": "A5",
+          "description": "- Perform operations on rational expressions with monomial, binomial, or trinomial numerators and denominators.",
+          "strand": "Algebra and Number"
+        },
+        {
+          "code": "A6",
+          "description": "- Solve rational equations with monomial, binomial, or trinomial numerators and denominators that simplify to linear or quadratic equations.\n- Determine non-permissible values for the variable in a rational equation.\n- Solve rational equations algebraically and explain the process used.\n- Explain why a value obtained may not be a solution (extraneous solution).\n- Model and solve problems using rational equations.",
+          "strand": "Algebra and Number"
+        }
+      ],
+      "topics": [
+        "Non-permissible values and restrictions",
+        "Simplifying rational expressions",
+        "Multiplying and dividing rational expressions",
+        "Adding and subtracting rational expressions",
+        "Solving rational equations",
+        "Applications of rational expressions"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Simplifying Rational Expressions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:rational/x2ec2f6f830c9fb89:simplify-rational/v/simplifying-rational-expressions-introduction",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "A4",
+            "A5",
+            "A6"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "7Uos1ED3KHI",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/7Uos1ED3KHI?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Intro to rational expressions",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:rational-functions/x9e81a4f98389efdf:reducing-rational-expressions-to-lowest-terms/a/intro-to-rational-expressions",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "A4",
+            "A5",
+            "A6"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Rational Expressions - Algebra and Trigonometry 2e",
+          "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-6-rational-expressions",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "A4",
+            "A5",
+            "A6"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Multiplying Dividing Rational Expressions",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:rational/x2ec2f6f830c9fb89:multiply-divide-rational/e/multiplying_and_dividing_rational_expressions_2",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "A4",
+            "A5",
+            "A6"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Simplify rational expressions (advanced)",
+          "url": "https://www.khanacademy.org/math/math3/x5549cc1686316ba5:rationals/x5549cc1686316ba5:common-factors/e/simplifying_rational_expressions_3",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "A4",
+            "A5",
+            "A6"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "radical-functions",
+      "title": "Radical Expressions & Functions",
+      "estimatedHours": 5,
+      "outcomes": [
+        {
+          "code": "A1",
+          "description": "- Determine the absolute value of real numbers and numerical expressions.\n- Relate absolute value to distance on a number line, including distance from 0 and between two points; explain this connection using examples.\n- Compare and order the absolute values of real numbers in a set.",
+          "strand": "Algebra and Number"
+        },
+        {
+          "code": "A2",
+          "description": "- Solve problems involving operations on radicals and radical expressions with numerical and variable radicands.",
+          "strand": "Algebra and Number"
+        },
+        {
+          "code": "A3",
+          "description": "- Determine restrictions on variable values for radical equations involving square roots.\n- Solve radical equations algebraically, including cases requiring one or two squarings.\n- Verify solutions by substitution and explain any extraneous roots.\n- Model and solve problems using square-root radical equations.",
+          "strand": "Algebra and Number"
+        }
+      ],
+      "topics": [
+        "Simplifying radicals (square roots, cube roots)",
+        "Operations with radicals (addition, subtraction, multiplication, division)",
+        "Mixed and entire radicals",
+        "Rationalizing denominators",
+        "Solving radical equations",
+        "Applications and restrictions"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Simplifying Radicals",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:simplifying-square-roots/v/simplifying-radicals",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "A1",
+            "A2",
+            "A3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-video",
+          "embeddable": false,
+          "needsReview": true,
+          "reviewReason": "Khan Academy video - YouTube ID needed"
+        },
+        {
+          "type": "article",
+          "title": "Match Formula Radical Function Its Graph",
+          "url": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:transformations/x2ec2f6f830c9fb89:radical-graphs/a/match-the-formula-of-a-radical-function-to-its-graph",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "A1",
+            "A2",
+            "A3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Radicals and Rational Exponents - Algebra and Trigonometry 2e",
+          "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/1-3-radicals-and-rational-exponents",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "A1",
+            "A2",
+            "A3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Simplifying Radicals",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:simplifying-square-roots/e/simplifying_radicals",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "A1",
+            "A2",
+            "A3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Solving Square Root Equations",
+          "url": "https://www.khanacademy.org/math/algebra-home/alg-radical-eq-func/alg-solving-square-root-equations/e/solving_square_root_equations",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "A1",
+            "A2",
+            "A3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "trigonometry-20",
+      "title": "Trigonometry: Sine/Cosine Law & Applications",
+      "estimatedHours": 7,
+      "outcomes": [
+        {
+          "code": "T1",
+          "description": "- Sketch angles in standard position (0°–360°) and identify their reference angles.\n- Determine the quadrant of an angle in standard position and find all angles from 0°–360° that share the same reference angle.\n- Use reflections across the x-axis and/or y-axis to relate any angle from 90°–360° to its reference angle.\n- Draw an angle in standard position given a point P(x, y) on its terminal arm, and identify that P(x, y), P(−x, y), P(−x, −y), and P(x, −y) correspond to angles with the same reference angle.",
+          "strand": "Trigonometry"
+        },
+        {
+          "code": "T2",
+          "description": "- Solve problems using sine, cosine, and tangent for angles 0°–360° in standard position. [ICT: C6–4.1]",
+          "strand": "Trigonometry"
+        },
+        {
+          "code": "T3",
+          "description": "- Sketch diagrams to represent problems involving triangles without right angles.\n- Solve non-right triangles using primary trigonometric ratios, the sine law, and the cosine law, including the ambiguous case; use systems of linear equations when needed. [ICT: C6–4.1]\n- Explain the steps in a given proof of the sine law or the cosine law.\n- Determine and explain when a triangle problem has no solution, one solution, or two solutions.",
+          "strand": "Trigonometry"
+        }
+      ],
+      "topics": [
+        "Review of trigonometric ratios (SOH-CAH-TOA)",
+        "Sine law for oblique triangles",
+        "Cosine law for oblique triangles",
+        "Ambiguous case of sine law",
+        "Applications in navigation and surveying",
+        "Problem-solving with non-right triangles"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Law Sines",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:trig/x9e81a4f98389efdf:law-of-sines/v/law-of-sines",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "T1",
+            "T2",
+            "T3"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "VjmFKle7xIw",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/VjmFKle7xIw?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Laws of sines and cosines review",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:trig/x9e81a4f98389efdf:solving-general-triangles/a/laws-of-sines-and-cosines-review",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "T1",
+            "T2",
+            "T3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "article",
+          "title": "Non-right Triangles: Law of Sines - Algebra and Trigonometry 2e",
+          "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/10-1-non-right-triangles-law-of-sines",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "T1",
+            "T2",
+            "T3"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Solve triangles using law of cosines",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:trig/x9e81a4f98389efdf:law-of-cosines/e/law_of_cosines",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "T1",
+            "T2",
+            "T3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Solve triangles using law of sines",
+          "url": "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:trig/x9e81a4f98389efdf:law-of-sines/e/law_of_sines",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "T1",
+            "T2",
+            "T3"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    },
+    {
+      "id": "sequences-series",
+      "title": "Sequences & Series",
+      "estimatedHours": 5,
+      "outcomes": [
+        {
+          "code": "RF9",
+          "description": "- Analyze arithmetic sequences and series to solve problems. [CN, PS, R]\n- Identify assumptions when defining an arithmetic sequence or series; provide and justify examples.\n- Derive the general term tn of an arithmetic sequence using t1 and d.\n- Describe the relationship between arithmetic sequences and linear functions; discuss discrete vs continuous data.\n- Determine t1, d, n, tn, or Sn, and derive/use the sum Sn of an arithmetic series to solve problems.",
+          "strand": "Relations and Functions"
+        },
+        {
+          "code": "RF10",
+          "description": "- Graph and analyze reciprocal functions (limited to the reciprocal of linear and quadratic functions). [ICT: C6–4.1, C6–4.3]",
+          "strand": "Relations and Functions"
+        }
+      ],
+      "topics": [
+        "Arithmetic sequences and their general term",
+        "Geometric sequences and their general term",
+        "Arithmetic series and summation",
+        "Geometric series and summation",
+        "Applications of sequences and series"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "title": "Intro to arithmetic sequences",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/v/arithmetic-sequences",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF9",
+            "RF10"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "_cooC3yG_p0",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/_cooC3yG_p0?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "video",
+          "title": "Introduction to geometric sequences",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-geometric-sequences/v/geometric-sequences-introduction",
+          "difficulty": "beginner",
+          "alignedOutcomes": [
+            "RF9",
+            "RF10"
+          ],
+          "source": "Khan Academy",
+          "provider": "youtube",
+          "embeddable": true,
+          "youtubeId": "pXo0bG4iAyg",
+          "embedUrl": "https://www.youtube-nocookie.com/embed/pXo0bG4iAyg?enablejsapi=1&origin=https://steadytrack.vercel.app&modestbranding=1&rel=0"
+        },
+        {
+          "type": "article",
+          "title": "Arithmetic Sequences - Precalculus 2e",
+          "url": "https://openstax.org/books/precalculus-2e/pages/11-2-arithmetic-sequences",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF9",
+            "RF10"
+          ],
+          "source": "OpenStax",
+          "provider": "openstax",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Geometric sequences practice",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-geometric-sequences/e/geometric_sequences_1",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF9",
+            "RF10"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        },
+        {
+          "type": "practice",
+          "title": "Arithmetic Sequences",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/e/arithmetic_sequences_2",
+          "difficulty": "intermediate",
+          "alignedOutcomes": [
+            "RF9",
+            "RF10"
+          ],
+          "source": "Khan Academy",
+          "provider": "khan-academy-web",
+          "embeddable": false
+        }
+      ]
+    }
+  ]
+}
