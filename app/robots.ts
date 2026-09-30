@@ -1,34 +1,13 @@
 import { MetadataRoute } from 'next'
 
+// Archived snapshot: not maintained, so it stays out of every index.
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://steadytrack.ca'
-
   return {
     rules: [
       {
         userAgent: '*',
-        allow: [
-          '/',
-          '/plan/',
-          '/curriculum/',
-        ],
-        disallow: [
-          '/api/',
-          '/parent/',       // Private parent dashboards
-          '/share/',        // Private share links
-          '/(dashboard)/',  // Protected dashboard routes
-          '/plan/*/study',  // Protected study mode
-        ],
-      },
-      {
-        userAgent: 'GPTBot',
-        disallow: ['/'],    // Opt out of AI training
-      },
-      {
-        userAgent: 'CCBot',
-        disallow: ['/'],    // Opt out of AI training
+        disallow: ['/'],
       },
     ],
-    sitemap: `${baseUrl}/sitemap.xml`,
   }
 }

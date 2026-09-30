@@ -3,6 +3,12 @@ import type { NextConfig } from "next";
 
 const isProduction = process.env.NODE_ENV === 'production';
 
+// This archived snapshot is shown inside the archive frame on skahessay.dev.
+// Only that origin may embed it; localhost is allowed in dev to test the frame.
+const frameAncestors = isProduction
+  ? "frame-ancestors 'self' https://skahessay.dev"
+  : "frame-ancestors 'self' https://skahessay.dev http://localhost:*";
+
 const nextConfig: NextConfig = {
   // Silence multi-lockfile workspace root inference by explicitly setting the tracing root
   // to this project directory.
@@ -17,9 +23,11 @@ const nextConfig: NextConfig = {
   async headers() {
     // Base security headers for all routes
     const baseHeaders = [
+      // Clickjacking protection comes from the CSP frame-ancestors directive.
+      // X-Frame-Options is not sent because it cannot allow a single origin.
       {
-        key: 'X-Frame-Options',
-        value: 'SAMEORIGIN', // Prevent clickjacking
+        key: 'X-Robots-Tag',
+        value: 'noindex', // Archived snapshot: keep out of search indexes
       },
       {
         key: 'X-Content-Type-Options',
@@ -56,7 +64,7 @@ const nextConfig: NextConfig = {
       "img-src 'self' data: https: blob:",
       "font-src 'self' data:",
       "connect-src 'self'",
-      "frame-ancestors 'self'",
+      frameAncestors,
       "worker-src 'self' blob:",
     ].join('; ');
 
@@ -91,7 +99,7 @@ const nextConfig: NextConfig = {
               "connect-src 'self' https://www.youtube.com https://www.youtube-nocookie.com",
               // YouTube and Khan Academy iframes
               "frame-src https://www.youtube-nocookie.com https://*.youtube-nocookie.com https://www.youtube.com https://www.khanacademy.org",
-              "frame-ancestors 'self'",
+              frameAncestors,
               "media-src https://www.youtube-nocookie.com https://*.youtube-nocookie.com",
               "worker-src 'self' blob:",
               "child-src https://www.youtube-nocookie.com https://*.youtube-nocookie.com",
