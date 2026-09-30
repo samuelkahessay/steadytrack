@@ -1,6 +1,7 @@
 import 'server-only';
 import Database from 'better-sqlite3';
 import fs from 'node:fs';
+import os from 'node:os';
 import path from 'node:path';
 import demoMicrocards from '@/data/demo-microcards.json';
 
@@ -17,7 +18,12 @@ type PublicRow = Record<string, never>;
 type QueryResult = { data: PublicRow[]; error: LocalError | null };
 type SingleResult = { data: PublicRow | null; error: LocalError | null };
 
-const dbPath = process.env.STEADYTRACK_LOCAL_DB || path.join(process.cwd(), '.local', 'steadytrack.sqlite');
+// Vercel's project directory is read-only at runtime, so the database lives
+// in the temp dir there and is re-seeded from the demo cards on cold start.
+const dbDir = process.env.VERCEL
+  ? path.join(os.tmpdir(), 'steadytrack')
+  : path.join(process.cwd(), '.local');
+const dbPath = process.env.STEADYTRACK_LOCAL_DB || path.join(dbDir, 'steadytrack.sqlite');
 
 let instance: Database.Database | null = null;
 
