@@ -4,6 +4,7 @@ import { MigrationProvider } from "@/components/providers/MigrationProvider";
 import { QueryProvider } from "@/components/providers/QueryProvider";
 import { ToastProvider } from "@/components/ui/toast";
 import { ErrorBoundary } from "@/components/ErrorBoundary";
+import { ArchiveBanner } from "@/components/ArchiveBanner";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -70,6 +71,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${plusJakartaSans.variable} antialiased overflow-x-hidden`}
       >
+        <ArchiveBanner />
         <ErrorBoundary>
           <MigrationProvider>
             <QueryProvider>
