@@ -1,12 +1,11 @@
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
-import ContributorForm from '@/components/contribute/ContributorForm';
 import ContributorsSidebar from '@/components/contribute/ContributorsSidebar';
 import Footer from '@/components/landing/Footer';
 
 export const metadata = {
   title: 'Contribute | SteadyTrack',
-  description: 'Help Alberta students stay on track during the teacher strike. Join our community of contributors.',
+  description: 'How students, educators, and developers helped build SteadyTrack during the 2025 Alberta teacher strike.',
 };
 
 export default function ContributePage() {
@@ -35,10 +34,8 @@ export default function ContributePage() {
                 Contribute to SteadyTrack
               </h1>
               <p className="text-lg text-blue-100 max-w-2xl md:max-w-none">
-                Help us support Alberta students during the teacher strike.
-                <br />
-                <br />
-                Whether you&apos;re a student, educator, developer, or just want to help — we&apos;d love to hear from you.
+                SteadyTrack was built with help from students, educators, and developers to
+                support Alberta students during the 2025 teacher strike.
               </p>
             </div>
 
@@ -127,8 +124,26 @@ export default function ContributePage() {
         </div>
       </section>
 
-      {/* Contribution Form */}
-      <ContributorForm />
+      {/* Signups closed when the app was archived */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-4">
+            Signups are closed
+          </h2>
+          <p className="text-lg text-gray-600 mb-6">
+            SteadyTrack is archived and no longer takes contributors. The source is public
+            if you want to run it, study it, or build on it.
+          </p>
+          <a
+            href="https://github.com/samuelkahessay/steadytrack"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 rounded-lg bg-blue-600 px-6 py-3 font-semibold text-white transition-colors hover:bg-blue-700"
+          >
+            View the source on GitHub
+          </a>
+        </div>
+      </section>
 
       {/* Footer */}
       <Footer />
